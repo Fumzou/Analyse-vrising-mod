@@ -7288,12 +7288,18 @@ namespace VRisingBephinex.config
 		[CompilerGenerated]
 		private ConfigEntry<float> rhenXqB2qX;
 
+
                 [CompilerGenerated]
                 [DebuggerBrowsable(DebuggerBrowsableState.Never)]
                 private ConfigEntry<byte> H7PntwOBoF;
 
                 [DebuggerBrowsable(DebuggerBrowsableState.Never)]
                 [CompilerGenerated]
+
+		[CompilerGenerated]
+		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
+		private ConfigEntry<byte> H7PntwOBoF;
+
 
 		internal static ModConfig ko2DJVeZgB12Tfu6Agj;
 
@@ -9178,59 +9184,61 @@ namespace VRisingBephinex.config
 			}
 		}
 
-                public ConfigEntry<byte> DefenceKey
-                {
-                        [CompilerGenerated]
-                        get
-                        {
-                                return H7PntwOBoF;
-                        }
-                        [CompilerGenerated]
-                        set
-                        {
-                                int num = 1;
-                                int num2 = num;
-                                while (true)
-                                {
-                                        switch (num2)
-                                        {
-                                        default:
-                                                return;
-                                        case 1:
-                                                H7PntwOBoF = value;
-                                                num2 = 0;
-                                                if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 != 0)
-                                                {
-                                                        num2 = 0;
-                                                }
-                                                break;
-                                        case 0:
-                                                return;
-                                        }
-                                }
-                        }
-                }
+public ConfigEntry<byte> DefenceKey
+{
+    [CompilerGenerated]
+    get
+    {
+        return H7PntwOBoF;
+    }
+    [CompilerGenerated]
+    set
+    {
+        int num = 1;
+        int num2 = num;
+        while (true)
+        {
+            switch (num2)
+            {
+                default:
+                    return;
+                case 1:
+                    H7PntwOBoF = value;
+                    num2 = 0;
+                    if (<Module>{345811dc-be8b-4780-b818-4a956593b791}
+                        .m_32fa63a2f47c40cabe232e2a88d38b1e
+                        .m_9b730cdd3ce842bdb00445b50c718645 != 0)
+                    {
+                        num2 = 0;
+                    }
+                    break;
+                case 0:
+                    return;
+            }
+        }
+    }
+}
 
-                public ConfigEntry<string> ESPAimTargetColor { get; private set; }
+public ConfigEntry<string> ESPAimTargetColor { get; private set; }
 
-                public Color ParsedAimTargetColor
-                {
-                        get
-                        {
-                                string text = ESPAimTargetColor.Value.Trim();
-                                FieldInfo field = typeof(ColorEx).GetField(text, BindingFlags.Public | BindingFlags.Static | BindingFlags.IgnoreCase);
-                                if (field != null && field.FieldType == typeof(Color))
-                                {
-                                        return (Color)field.GetValue(null);
-                                }
-                                Color result;
-                                if (ColorUtility.TryParseHtmlString(text, out result))
-                                {
-                                        return result;
-                                }
-                                return Color.red;
-                        }
-                }
+public Color ParsedAimTargetColor
+{
+    get
+    {
+        string text = ESPAimTargetColor.Value.Trim();
+        FieldInfo field = typeof(ColorEx)
+            .GetField(text, BindingFlags.Public | BindingFlags.Static | BindingFlags.IgnoreCase);
+        if (field != null && field.FieldType == typeof(Color))
+            return (Color)field.GetValue(null);
+
+        Color result;
+        if (ColorUtility.TryParseHtmlString(text, out result))
+            return result;
+
+        return Color.red;
+    }
+}
+
 
 		public ModConfig(Plugin plugin)
 		{
@@ -9440,15 +9448,29 @@ namespace VRisingBephinex.config
 							num2 = 11;
 						}
 						continue;
-                                        case 47:
-                                                DefenceKey = ((BasePlugin)ohsq1cD12).Config.Bind<byte>(jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x14C5F672 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866), jiUnG6yLcp99YsGsEb2.xDx43IEi2K(--1667516701 ^ 0x9851CC8 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be), (byte)67, jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x1B778035 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e));
-                                                num2 = 12;
-                                                continue;
-                                        case 48:
-                                                ESPAimTargetColor = ((BasePlugin)ohsq1cD12).Config.Bind<string>("ESP", "AimTargetColor", "Red", "Color for aimed player labels");
-                                                num2 = 1;
-                                                continue;
-                                        case 1:
+case 47:
+    DefenceKey = ((BasePlugin)ohsq1cD12).Config.Bind<byte>(
+        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x14C5F672 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_f5f000d1cbb74e2e8e93882d6286d866),
+        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(--1667516701 ^ 0x9851CC8 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_08081740334244a88e6dd1092edef3be),
+        (byte)67,
+        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x1B778035 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_b941b1f63b364bd5bc1e32c91241667e)
+    );
+    num2 = 12;
+    continue;
+
+case 48:
+    ESPAimTargetColor = ((BasePlugin)ohsq1cD12).Config.Bind<string>(
+        "ESP",
+        "AimTargetColor",
+        "Red",
+        "Color for aimed player labels"
+    );
+    num2 = 1;
+    continue;
+
+case 1:
+    // …
+
 						AimbotSortByHP = ((BasePlugin)ohsq1cD12).Config.Bind<bool>(jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x3D85F215 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_519c5e460d954eda92fea767bf3dca81), jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x5895C61A ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316), false, jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x395A2EBD ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a));
 						num2 = 28;
 						continue;
@@ -23685,7 +23707,8 @@ namespace VRisingBephinex.components.esp
 										num7 = 18;
 										goto IL_00f0;
 									}
-                                                                        val = ModConfig.Instance.ParsedAimTargetColor;
+val = ModConfig.Instance.ParsedAimTargetColor;
+
 									goto IL_0bd0;
 								case 11:
 									Draw(current.Position, text, color);
