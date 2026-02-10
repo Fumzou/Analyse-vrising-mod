@@ -8,8 +8,12 @@ SRC = ROOT / "VRisingBephinex/VRisingBephinex.decompiled.cs"
 STRINGS = ROOT / "tools/extracted/decrypted_strings.txt"
 OUT = ROOT / "VRisingBephinex/VRisingBephinex.restored.cs"
 
-FIELD_RE = re.compile(r"(?:<Module>\{[^}]+\}\.)?m_32fa63a2f47c40cabe232e2a88d38b1e\.(m_[a-f0-9]{32})")
-ASSIGN_RE = re.compile(r"(?:<Module>\{[^}]+\}\.)?m_32fa63a2f47c40cabe232e2a88d38b1e\.(m_[a-f0-9]{32})\s*=\s*(.+?);")
+FIELD_RE = re.compile(
+    r"(?:<Module>\{[^}]+\}\.)?(?:m_32fa63a2f47c40cabe232e2a88d38b1e\.)?(m_[a-f0-9]{32})"
+)
+ASSIGN_RE = re.compile(
+    r"(?:<Module>\{[^}]+\}\.)?(?:m_32fa63a2f47c40cabe232e2a88d38b1e\.)?(m_[a-f0-9]{32})\s*=\s*(.+?);"
+)
 
 
 def csharp_int(v: int) -> int:
@@ -75,6 +79,20 @@ def csharp_string_literal(s: str) -> str:
     return '"' + s.replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
+def replace_constant_fields(source: str, constants: dict[str, int]) -> tuple[str, int]:
+    replaced = 0
+
+    def repl(m: re.Match[str]) -> str:
+        nonlocal replaced
+        name = m.group(1)
+        if name in constants:
+            replaced += 1
+            return str(constants[name])
+        return m.group(0)
+
+    return FIELD_RE.sub(repl, source), replaced
+
+
 def replace_calls(source: str, constants: dict[str, int], strings: dict[int, str]) -> tuple[str, int, int]:
     needle = "jiUnG6yLcp99YsGsEb2.xDx43IEi2K("
     i = 0
@@ -122,9 +140,20 @@ def main() -> None:
     source = SRC.read_text(encoding="utf-8")
     constants = parse_constants(source)
     strings = parse_strings(STRINGS)
-    restored, replaced, unresolved = replace_calls(source, constants, strings)
+    with_constants, const_replaced = replace_constant_fields(source, constants)
+    restored, replaced, unresolved = replace_calls(with_constants, constants, strings)
     OUT.write_text(restored, encoding="utf-8")
-    print(f"constants={len(constants)} strings={len(strings)} replaced={replaced} unresolved={unresolved}")
+    print(
+        " ".join(
+            [
+                f"constants={len(constants)}",
+                f"strings={len(strings)}",
+                f"const_refs_replaced={const_replaced}",
+                f"string_calls_replaced={replaced}",
+                f"unresolved={unresolved}",
+            ]
+        )
+    )
 
 
 if __name__ == "__main__":
