@@ -1,0 +1,447 @@
+﻿# Decrypted strings from VRisingBephinex.dll
+# Key: b848a7732c32c133d2e0c87263fe23adb5f7703ece69033d3f55da1a35f12433
+# IV: a7177914ee9a83f752a20e5777491af9
+# Total: 442 strings
+
+[0x0000] vrising-pvp-extention
+[0x002E] PVPExtention is loaded!
+[0x0060] Client_0
+[0x0074] Tahere is no Cklient world (yet). Dsid you iynstall a czlient mod on the seerver?
+[0x011A] Added ability cast time
+[0x014C] W 
+[0x0154] A 
+[0x015C] S 
+[0x0164] D 
+[0x016C] --- Advanced Universal Decoder Output ---
+[0x01C2] [Index 
+[0x01D4] ] Short LE: 
+[0x01F0] ] Short BE: 
+[0x020C] ] FixedPoint Q1.15 LE: 
+[0x023E] F6
+[0x0246] ] FixedPoint Q1.15 BE: 
+[0x0278] ] Int32 LE: 
+[0x0294] ] Int32 BE: 
+[0x02B0] ] Float LE: 
+[0x02CC] ] Float BE: 
+[0x02E8] Aimbot Menu
+[0x0302] Enabled
+[0x0314] NPC
+[0x031E] Players
+[0x0330] Sort By HP
+[0x0348] Holding Key
+[0x0362] Check Enemy Counter
+[0x038C] On Counter - Cancel
+[0x03B6] On Counter - Move Cursor
+[0x03EA] Disable Input on Counter
+[0x041E] Lock On Target
+[0x043E] Distance From Cursor
+[0x046A] Max Distance
+[0x0486] : 
+[0x048E] Defence Menu
+[0x04AA] Range Attack Defence
+[0x04D6] Melee Attack Defence
+[0x0502] Melee Attach Range
+[0x052A] Melee Attach Angle
+[0x0552] Player Radius
+[0x0570] Range Attach Radius
+[0x059A] Range Tolerance
+[0x05BC] Range Check Distance
+[0x05E8] ESP Container Menu
+[0x0610] Chest
+[0x061E] Death Container
+[0x0640] Drop Container
+[0x0660] Resources
+[0x0676] Furniture
+[0x068C] ESP Menu
+[0x06A0] FieldOfView
+[0x06BA] Blood
+[0x06C8] Blood Min Quality
+[0x06EE] Horses
+[0x06FE] Horses Min Speed
+[0x0722] Fish
+[0x072E] Carriage
+[0x0742] Ores
+[0x074E] Plants
+[0x075E] Containers
+[0x0776] Debug
+[0x0784] ESP Plants Menu
+[0x07A6] Blood Rose
+[0x07BE] Bleeding Heart
+[0x07DE] Cotton
+[0x07EE] Corrupted Flower
+[0x0812] Fire Blossom
+[0x082E] Ghost Shroom
+[0x084A] Hells Clarion
+[0x0868] Moutning Lily
+[0x0886] Snow Flower
+[0x08A0] Sunflower
+[0x08B6] Trippy Shroom
+[0x08D4] ESP Players Menu
+[0x08F8] Show Ally
+[0x090E] Show LvL
+[0x0922] Show Clan
+[0x0938] Show Health
+[0x0952] Show Blood
+[0x096A] Show Skills Cooldown
+[0x0996] Show Self
+[0x09AC] ESP Ores Menu
+[0x09CA] Quarts
+[0x09DA] Copper
+[0x09EA] Iron
+[0x09F6] Sulfur
+[0x0A06] GemFlawless
+[0x0A20] Silver
+[0x0A30] VRising+ by AkcyZe
+[0x0A58] Tweaks Menu
+[0x0A72] Discord
+[0x0A84] Remove Minimap Fog
+[0x0AAC] Remove Fog
+[0x0AC4] Toggle Day
+[0x0ADC] FOV
+[0x0AE6] Toggle Key
+[0x0AFE] Key to toggle FOV
+[0x0B24] ESP Players
+[0x0B3E] Enable ESP for players
+[0x0B6E] Show Level
+[0x0B86] Show level
+[0x0B9E] Show clan
+[0x0BB4] Show health
+[0x0BCE] Show blood
+[0x0BE6] Show ally
+[0x0BFC] Show Skills
+[0x0C16] Show skills
+[0x0C30] ESP Ores
+[0x0C44] Quartz
+[0x0C54] Show quartz
+[0x0C6E] Show copper
+[0x0C88] Show iron
+[0x0C9E] Show sulfur
+[0x0CB8] Gem Flawless
+[0x0CD4] Show gem flawless
+[0x0CFA] Show silver
+[0x0D14] ESP Horses
+[0x0D2C] Enable ESP for horses
+[0x0D5A] Min Speed
+[0x0D70] Minimum speed to show horse
+[0x0DAA] ESP Containers
+[0x0DCA] Show chests
+[0x0DE4] Show death containers
+[0x0E12] Player Drop
+[0x0E2C] Show player drops
+[0x0E52] Resource Drop
+[0x0E70] Show resource drops
+[0x0E9A] Show furniture
+[0x0EBA] ESP Fish
+[0x0ECE] Enable ESP for fish
+[0x0EF8] ESP Carriage
+[0x0F14] Enable ESP for carriages
+[0x0F48] ESP Plants
+[0x0F60] Show Bleeding Heart
+[0x0F8A] Show Blood Rose
+[0x0FAC] Show Cotton
+[0x0FC6] Show Corrupted Flower
+[0x0FF4] Show Fire Blossom
+[0x101A] Show Ghost Shroom
+[0x1040] Show Hells Clarion
+[0x1068] Show Moutning Lily
+[0x1090] Show Snow Flower
+[0x10B4] Show Sunflower
+[0x10D4] Show Trippy Shroom
+[0x10FC] ESP Blood
+[0x1112] Enable ESP for blood
+[0x113E] Min Quality
+[0x1158] Minimum quality to show blood
+[0x1196] Aimbot
+[0x11A6] Enable aimbot
+[0x11C4] Enable aimbot for players
+[0x11FA] Enable aimbot for NPC
+[0x1228] Maximum distance to aim at
+[0x1260] Sort targets by HP
+[0x1288] Toggle Holding
+[0x12A8] Hold the toggle key to aim
+[0x12E0] Key to toggle aimbot
+[0x130C] Check enemy counter before aiming
+[0x1352] Lock on target when aiming
+[0x138A] Disable Input On Enemy Counter
+[0x13CA] Disable input when enemy counter is active
+[0x1422] Cursor
+[0x1432] Show cursor when aiming
+[0x1464] Check Enemy Counter Move Cursor
+[0x14A6] Move cursor when enemy counter is active
+[0x14FA] Check Enemy Counter Cancel Attack
+[0x1540] Cancel attack when enemy counter is active
+[0x1598] Defence
+[0x15AA] Check On Range Attack
+[0x15D8] Enable defence against range attacks
+[0x1624] Check On Melee Attack
+[0x1652] Enable defence against melee attacks
+[0x169E] Own Radius
+[0x16B6] Own radius for defence
+[0x16E6] Projectile Radius
+[0x170C] Projectile radius for defence
+[0x174A] Tolerance
+[0x1760] Tolerance for defence
+[0x178E] Max Check Distance
+[0x17B6] Maximum distance to check for attacks
+[0x1804] Melee Attack Range
+[0x182C] Range for melee attacks
+[0x185E] Melee Attack Angle
+[0x1886] Angle for melee attacks
+[0x18B8] Key
+[0x18C2] Key to activate defence
+[0x18F4] GUID Not Found
+[0x1914]  PrefabGuid(
+[0x1930] )
+[0x1936] PVPExtention is initialized!
+[0x1972] https://vrising-licenses-akcyze.amvera.io/license?token=
+[0x19E6] &hwid=
+[0x19F6] &game=vrising
+[0x1A14] vrising+.txt
+[0x1A30] Empty License
+[0x1A4E] -
+[0x1A54]  
+[0x1A5A] HUDCanvas(Clone)/HUDClockCanvas/HUDMinimap/MiniMapParent(Clone)/Root/Panel/Mask/CurseDebuffVisualization
+[0x1B2E] SceneLightingGameObjects/VolumeLayer1
+[0x1B7C] FullscreenEffects
+[0x1BA2] X
+[0x1BA8]  (
+[0x1BB0] ) (
+[0x1BBA] PROJECTILE OWNER IS PLAYER: 
+[0x1BF6] Added cast time: 
+[0x1C1C] Adding protection time 
+[0x1C4E]  to player 
+[0x1C68] VBlood
+[0x1C78] Resource_PlayerDeathContainer_Drop
+[0x1CC0] Resource_PlayerEntireInventoryContainer_Drop
+[0x1D1C] Resource_Drop_
+[0x1D3C] _Full
+[0x1D4A] Drop_
+[0x1D58] Simple
+[0x1D68] Epic Chest
+[0x1D80] Simple Chest
+[0x1D9C] CHAR_
+[0x1DAA] Mount_
+[0x1DBA] _
+[0x1DC0]  [A:
+[0x1DCC] 0.0
+[0x1DD6] |S:
+[0x1DE0] |R:
+[0x1DEA] ]
+[0x1DF0] TM_Quartz_
+[0x1E08] TM_Copper_
+[0x1E20] TM_Iron_
+[0x1E34] TM_Sulfur_
+[0x1E4C] TM_GemFlawless_
+[0x1E6E] TM_GemRegular
+[0x1E8C] TM_Silver_
+[0x1EA4] TM_
+[0x1EAE] _Stage0
+[0x1EC0] _Stage1
+[0x1ED2] _Stage2
+[0x1EE4] _Stage3
+[0x1EF6] _Stage4
+[0x1F08] _01
+[0x1F12] _02
+[0x1F1C] _03
+[0x1F26] _04
+[0x1F30] _Resource
+[0x1F46] TM_Plant_
+[0x1F5C] TM
+[0x1F64] Plantfiber
+[0x1F7C] Strongblade
+[0x1F96] 01
+[0x1F9E] 02
+[0x1FA6] 03
+[0x1FAE] Pickup
+[0x1FBE] (
+[0x1FC4] |
+[0x1FCA] %) 
+[0x1FD4] ) 
+[0x1FDC] :
+[0x1FE2] {0} [{1:0} HP]
+[0x2002] [
+[0x2008] 0
+[0x200E]  m]
+[0x2018] Primary
+[0x202A] s
+[0x2030] Dash
+[0x203C] AB_
+[0x2046] Vampire
+[0x2058] Cast
+[0x2064] CHAR
+[0x2070] BloodType
+[0x2086] AB_BloodBuff_Corrupted_Angel_Dash_Cast
+[0x20D6] AB_BloodBuff_Corrupted_Harpy_Dash_Cast
+[0x2126] AB_Blood_BloodFountain_Cast
+[0x2160] AB_Blood_BloodFountain_SpellMod_Recast_Cast
+[0x21BA] AB_Blood_BloodRage_Cast
+[0x21EC] AB_Blood_BloodRite_Cast
+[0x221E] AB_Blood_BloodStorm_Cast
+[0x2252] AB_Blood_CarrionSwarm_Cast_01
+[0x2290] AB_Blood_CrimsonBeam_Cast
+[0x22C6] AB_Blood_HeartStrike_Cast
+[0x22FC] AB_Blood_SanguineCoil_Cast01
+[0x2338] AB_Blood_SanguineCoil_Cast02
+[0x2374] AB_Blood_Shadowbolt_Cast
+[0x23A8] AB_Blood_VampiricCurse_Cast
+[0x23E2] AB_Chaos_Aftershock_Cast
+[0x2416] AB_Chaos_Barrier_Cast
+[0x2444] AB_Chaos_Barrier_Recast_Cast
+[0x2480] AB_Chaos_ChaosBarrage_Cast
+[0x24B8] AB_Chaos_MercilessCharge_Cast
+[0x24F6] AB_Chaos_PowerSurge_Cast
+[0x252A] AB_Chaos_PowerSurge_Spellmod_Recast_Cast
+[0x257E] AB_Chaos_RainOfChaos_Cast
+[0x25B4] AB_Chaos_Voidquake_Cast
+[0x25E6] AB_Chaos_Void_Cast
+[0x260E] AB_Chaos_Volley_Cast
+[0x263A] AB_FrostBarrier_Cast
+[0x2666] AB_FrostBarrier_Recast_Cast
+[0x26A0] AB_FrostCone_Cast
+[0x26C6] AB_Frost_ArcticLeap_Cast
+[0x26FA] AB_Frost_ColdSnap_Cast
+[0x272A] AB_Frost_CrystalLance_Cast
+[0x2762] AB_Frost_FrostBat_Cast
+[0x2792] AB_Frost_IceBlockVortex_Cast
+[0x27CE] AB_Frost_IceNova_Cast
+[0x27FC] AB_Frost_IceNova_SpellMod_Recast_Cast
+[0x284A] AB_Illusion_Curse_Cast
+[0x287A] AB_Illusion_MistTrance_Cast
+[0x28B4] AB_Illusion_Mosquito_Cast_Target
+[0x28F8] AB_Illusion_PhantomAegis_Cast
+[0x2936] AB_Illusion_PhantomAegis_Recast_Cast
+[0x2982] AB_Illusion_Serpent_Cast
+[0x29B6] AB_Illusion_SpectralGuardian_Summon_Cast
+[0x2A0A] AB_Illusion_SpectralWolf_Cast
+[0x2A48] AB_Illusion_WispDance_Cast
+[0x2A80] AB_Illusion_WispDance_Recast_Cast
+[0x2AC6] AB_Illusion_WraithSpear_Cast
+[0x2B02] AB_Pistols_ExplosiveShot_Shot_Cast
+[0x2B4A] AB_Pistols_ExplosiveShot_Shot_Recast_Cast
+[0x2BA0] AB_Pistols_FanTheHammer_Cast
+[0x2BDC] AB_Pistols_Primary_Attack_Cast01
+[0x2C20] AB_Pistols_Primary_Attack_Cast02
+[0x2C64] AB_Pistols_Primary_Attack_Cast03
+[0x2CA8] AB_Pistols_Primary_Attack_Mounted_Cast01
+[0x2CFC] AB_Pistols_Primary_Attack_Mounted_Cast02
+[0x2D50] AB_Pistols_Primary_Attack_Mounted_Cast03
+[0x2DA4] AB_Storm_BallLightning_Cast
+[0x2DDE] AB_Storm_BallLightning_Spellmod_Recast_Cast
+[0x2E38] AB_Storm_Cyclone_Cast
+[0x2E66] AB_Storm_Discharge_Cast
+[0x2E98] AB_Storm_Discharge_Spellmod_Recast_Cast
+[0x2EEA] AB_Storm_EyeOfTheStorm_Cast
+[0x2F24] AB_Storm_EyeOfTheStorm_Recast_Cast
+[0x2F6C] AB_Storm_LightningTendrils_Cast
+[0x2FAE] AB_Storm_LightningTyphoon_Cast
+[0x2FEE] AB_Storm_LightningWall_Cast
+[0x3028] AB_Storm_PolarityShift_Cast
+[0x3062] AB_Storm_RagingTempest_Cast
+[0x309C] AB_Storm_RagingTempest_Other_DashOut_Cast
+[0x30F2] AB_Unholy_ArmyOfTheDead_Cast
+[0x312E] AB_Unholy_ChainsOfDeath_Cast
+[0x316A] AB_Unholy_CorpseExplosion_Cast
+[0x31AA] AB_Unholy_CorruptedSkull_Cast
+[0x31E8] AB_Unholy_DeathKnightStrike_Cast
+[0x322C] AB_Unholy_DeathKnight_Cast_Target
+[0x3272] AB_Unholy_DeathKnight_MeleeCombo_Cast01
+[0x32C4] AB_Unholy_DeathKnight_MeleeCombo_Cast02
+[0x3316] AB_Unholy_FallenAngel_Dash_Cast
+[0x3358] AB_Unholy_FallenAngel_MeleeAttack_Cast01
+[0x33AC] AB_Unholy_FallenAngel_MeleeAttack_Cast02
+[0x3400] AB_Unholy_FallenAngel_MeleeAttack_Cast03
+[0x3454] AB_Unholy_FallenAngel_UnholyBarrage_Cast
+[0x34A8] AB_Unholy_SkeletonApprentice_Projectile_Cast_01
+[0x350A] AB_Unholy_SkeletonApprentice_Projectile_Cast_02
+[0x356C] AB_Unholy_SkeletonWarrior_MeleeAttack_Cast01
+[0x35C8] AB_Unholy_SkeletonWarrior_MeleeAttack_Cast02
+[0x3624] AB_Unholy_Soulburn_Cast
+[0x3656] AB_Unholy_SummonFallenAngel_Cast
+[0x369A] AB_Unholy_UnstableArachnid_Cast
+[0x36DC] AB_Unholy_UnstableArachnid_Recast_Cast
+[0x372C] AB_Unholy_UnstableArarchnid_Explode_Cast
+[0x3780] AB_Unholy_UnstableArarchnid_Explode_Small_Cast
+[0x37E0] AB_Unholy_WardOfTheDamned_Cast
+[0x3820] AB_Unholy_WardOfTheDamned_Recast_Cast
+[0x386E] AB_Vampire_Axe_Frenzy_Dash_Cast
+[0x38B0] AB_Vampire_Axe_Primary_MeleeAttack_Cast01
+[0x3906] AB_Vampire_Axe_Primary_MeleeAttack_Cast02
+[0x395C] AB_Vampire_Axe_Primary_MeleeAttack_Cast03
+[0x39B2] AB_Vampire_Axe_Primary_Mounted_Cast
+[0x39FC] AB_Vampire_Axe_XStrike_Toss_Cast
+[0x3A40] AB_Vampire_Claws_Primary_MeleeAttack_Cast01
+[0x3A9A] AB_Vampire_Claws_Primary_MeleeAttack_Cast02
+[0x3AF4] AB_Vampire_Claws_Primary_MeleeAttack_Cast03
+[0x3B4E] AB_Vampire_Claws_Primary_MeleeAttack_Unholy_Cast01
+[0x3BB6] AB_Vampire_Claws_Primary_MeleeAttack_Unholy_Cast02
+[0x3C1E] AB_Vampire_Claws_Primary_MeleeAttack_Unholy_Cast03
+[0x3C86] AB_Vampire_Claws_Primary_Mounted_Cast
+[0x3CD4] AB_Vampire_Claws_SkeweringLeap_Cast
+[0x3D1E] AB_Vampire_Claws_SkeweringLeap_Unholy_Cast
+[0x3D76] AB_Vampire_Claws_VaultSlash_Cast
+[0x3DBA] AB_Vampire_Claws_VaultSlash_Unholy_Cast
+[0x3E0C] AB_Vampire_Crossbow_IceRanger_IceShard_ChannelBarrage_Cast
+[0x3E84] AB_Vampire_Crossbow_IceShard_Cast
+[0x3ECA] AB_Vampire_Crossbow_Primary_Cast
+[0x3F0E] AB_Vampire_Crossbow_Primary_Mounted_Cast
+[0x3F62] AB_Vampire_Crossbow_RainOfBolts_Cast
+[0x3FAE] AB_Vampire_Crossbow_Snapshot_Cast
+[0x3FF4] AB_Vampire_Daggers_CallDaggers_Cast
+[0x403E] AB_Vampire_Daggers_Primary_Cast
+[0x4080] AB_Vampire_Daggers_Primary_Mounted_Cast
+[0x40D2] AB_Vampire_Daggers_RainOfDaggers_Cast
+[0x4120] AB_Vampire_GreatSword_Mounted_Cast
+[0x4168] AB_Vampire_GreatSword_Primary_Moving_Cast01
+[0x41C2] AB_Vampire_GreatSword_Primary_Moving_Cast02
+[0x421C] AB_Vampire_GreatSword_Primary_Moving_Cast03
+[0x4276] AB_Vampire_Longbow_GuidedArrow_Cast
+[0x42C0] AB_Vampire_Longbow_Primary_Cast
+[0x4302] AB_Vampire_Longbow_Primary_Mounted_Cast
+[0x4354] AB_Vampire_Mace_CrushingBlow_Slam_Cast
+[0x43A4] AB_Vampire_Mace_Primary_MeleeAttack_Cast01
+[0x43FC] AB_Vampire_Mace_Primary_MeleeAttack_Cast02
+[0x4454] AB_Vampire_Mace_Primary_MeleeAttack_Cast03
+[0x44AC] AB_Vampire_Mace_Primary_Mounted_Cast
+[0x44F8] AB_Vampire_Mace_Smack_Cast
+[0x4530] AB_Vampire_Reaper_HowlingReaper_Cast
+[0x457C] AB_Vampire_Reaper_Primary_MeleeAttack_Cast01
+[0x45D8] AB_Vampire_Reaper_Primary_MeleeAttack_Cast02
+[0x4634] AB_Vampire_Reaper_Primary_MeleeAttack_Cast03
+[0x4690] AB_Vampire_Reaper_Primary_Mounted_Cast
+[0x46E0] AB_Vampire_Reaper_TendonSwing_Twist_Cast
+[0x4734] AB_Vampire_Slashers_Camouflage_Main_Cast
+[0x4788] AB_Vampire_Slashers_Camouflage_Secondary_Cast
+[0x47E6] AB_Vampire_Slashers_ElusiveStrike_Dash_Cast
+[0x4840] AB_Vampire_Slashers_Primary_MeleeAttack_Cast01
+[0x48A0] AB_Vampire_Slashers_Primary_MeleeAttack_Cast02
+[0x4900] AB_Vampire_Slashers_Primary_MeleeAttack_Cast03
+[0x4960] AB_Vampire_Slashers_Primary_Mounted_Cast
+[0x49B4] AB_Vampire_Spear_Harpoon_Throw_Cast
+[0x49FE] AB_Vampire_Spear_Primary_Attack_Cast01
+[0x4A4E] AB_Vampire_Spear_Primary_Attack_Cast02
+[0x4A9E] AB_Vampire_Spear_Primary_Attack_Cast03
+[0x4AEE] AB_Vampire_Spear_Primary_Mounted_Cast
+[0x4B3C] AB_Vampire_Sword_Primary_MeleeAttack_Cast01
+[0x4B96] AB_Vampire_Sword_Primary_MeleeAttack_Cast02
+[0x4BF0] AB_Vampire_Sword_Primary_MeleeAttack_Cast03
+[0x4C4A] AB_Vampire_Sword_Primary_Mounted_Cast
+[0x4C98] AB_Vampire_Sword_Shockwave_Main_Cast
+[0x4CE4] AB_Vampire_Sword_Shockwave_Recast_Cast
+[0x4D34] AB_Vampire_Sword_Whirlwind_Spin_Cast
+[0x4D80] AB_Vampire_TwinBlades_Javelin_Cast
+[0x4DC8] AB_Vampire_TwinBlades_Javelin_Recast_Cast
+[0x4E1E] AB_Vampire_TwinBlades_Primary_MeleeAttack_Cast01
+[0x4E82] AB_Vampire_TwinBlades_Primary_MeleeAttack_Cast02
+[0x4EE6] AB_Vampire_TwinBlades_Primary_MeleeAttack_Cast03
+[0x4F4A] AB_Vampire_TwinBlades_Primary_Mounted_Cast
+[0x4FA2] AB_Vampire_TwinBlades_SweepingStrike_Cast
+[0x4FF8] AB_Vampire_VeilOfShadow_DashCast
+[0x503C] AB_Vampire_VeilOfChaos_DashCast
+[0x507E] AB_Vampire_VeilOfBones_DashCast
+[0x50C0] AB_Vampire_VeilOfIllusion_DashCast
+[0x5108] AB_Vampire_VeilOfFrost_DashCast
+[0x514A] AB_Vampire_VeilOfStorm_DashCast
+[0x518C] 0.00
+[0x5198] https://discord.gg/9BRBp83ASQ
+[0x51D6]   
+[0x51DE] 1b24d7e1-0237
