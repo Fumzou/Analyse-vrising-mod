@@ -82,7 +82,7 @@ internal class <Module>
 				if (days > 14)
 				{
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+					if (1814018247 == 0)
 					{
 						num2 = 5;
 					}
@@ -101,7 +101,7 @@ internal class <Module>
 				if (days > -14)
 				{
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -142,7 +142,7 @@ namespace Microsoft.CodeAnalysis
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa == 0)
+			if (1427489184 == 0)
 			{
 				num = 0;
 			}
@@ -181,7 +181,7 @@ namespace System.Runtime.CompilerServices
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 != 0)
+			if (10932459 != 0)
 			{
 				num = 1;
 			}
@@ -194,7 +194,7 @@ namespace System.Runtime.CompilerServices
 				case 1:
 					NullableFlags = new byte[1] { P_0 };
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae != 0)
+					if (1629830925 != 0)
 					{
 						num = 0;
 					}
@@ -211,7 +211,7 @@ namespace System.Runtime.CompilerServices
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+			if (2144623378 == 0)
 			{
 				num = 0;
 			}
@@ -224,7 +224,7 @@ namespace System.Runtime.CompilerServices
 				}
 				NullableFlags = P_0;
 				num = 1;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+				if (0 == 0)
 				{
 					num = 1;
 				}
@@ -256,7 +256,7 @@ namespace System.Runtime.CompilerServices
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+			if (962215133 == 0)
 			{
 				num = 0;
 			}
@@ -269,7 +269,7 @@ namespace System.Runtime.CompilerServices
 				}
 				Flag = P_0;
 				num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+				if (374085082 != 0)
 				{
 					num = 1;
 				}
@@ -347,7 +347,7 @@ namespace VRisingBephinex
 					case 8:
 						val = new BepInExInfoLogInterpolatedStringHandler(23, 0, ref flag);
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 == 0)
+						if (0 == 0)
 						{
 							num2 = 9;
 						}
@@ -359,7 +359,7 @@ namespace VRisingBephinex
 					case 1:
 						axRp0bXGm(this);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+						if (1433983997 != 0)
 						{
 							num2 = 0;
 						}
@@ -371,7 +371,7 @@ namespace VRisingBephinex
 					case 10:
 						A9abAqPW9.PatchAll(Assembly.GetExecutingAssembly());
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -379,7 +379,7 @@ namespace VRisingBephinex
 					default:
 						((BasePlugin)this).AddComponent<RootComponent>();
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 == 0)
+						if (1531368356 == 0)
 						{
 							num2 = 2;
 						}
@@ -387,7 +387,7 @@ namespace VRisingBephinex
 					case 4:
 						log.LogInfo(val);
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb == 0)
+						if (171252512 == 0)
 						{
 							num2 = 1;
 						}
@@ -432,7 +432,7 @@ namespace VRisingBephinex
 					case 3:
 						result = true;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -459,7 +459,7 @@ namespace VRisingBephinex
 				case 1:
 					LogInstance.LogInfo((object)message);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -476,7 +476,7 @@ namespace VRisingBephinex
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			((BasePlugin)this)..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+			if (1433983997 == 0)
 			{
 				num = 0;
 			}
@@ -621,7 +621,7 @@ namespace VRisingBephinex.utils
 					case 22:
 						Blue = Color.blue;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac != 0)
+						if (1848937442 != 0)
 						{
 							num2 = 23;
 						}
@@ -633,7 +633,7 @@ namespace VRisingBephinex.utils
 					case 15:
 						Teal = new Color(0f, 0.5f, 0.5f);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -645,7 +645,7 @@ namespace VRisingBephinex.utils
 					case 3:
 						Maroon = new Color(0.5f, 0f, 0f);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -653,7 +653,7 @@ namespace VRisingBephinex.utils
 					case 21:
 						Magenta = Color.magenta;
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 16;
 						}
@@ -669,7 +669,7 @@ namespace VRisingBephinex.utils
 					case 27:
 						Purple = new Color(0.5f, 0f, 0.5f);
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 == 0)
+						if (519538535 == 0)
 						{
 							num2 = 2;
 						}
@@ -703,7 +703,7 @@ namespace VRisingBephinex.utils
 					case 8:
 						Black = Color.black;
 						num2 = 18;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e == 0)
+						if (121889664 == 0)
 						{
 							num2 = 15;
 						}
@@ -735,7 +735,7 @@ namespace VRisingBephinex.utils
 					case 11:
 						Violet = new Color(0.93f, 0.51f, 0.93f);
 						num2 = 26;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+						if (468683115 == 0)
 						{
 							num2 = 16;
 						}
@@ -755,7 +755,7 @@ namespace VRisingBephinex.utils
 					case 2:
 						DarkGreen = new Color(0f, 0.5f, 0f);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+						if (1268266038 == 0)
 						{
 							num2 = 0;
 						}
@@ -763,7 +763,7 @@ namespace VRisingBephinex.utils
 					case 12:
 						LightGray = new Color(0.8f, 0.8f, 0.8f);
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b != 0)
+						if (0 != 0)
 						{
 							num2 = 5;
 						}
@@ -812,7 +812,7 @@ namespace VRisingBephinex.utils
 				case 3:
 					wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -1019,7 +1019,7 @@ namespace VRisingBephinex.utils
 						[800610886] = 4.5f
 					};
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+					if (760317395 == 0)
 					{
 						num2 = 0;
 					}
@@ -1036,7 +1036,7 @@ namespace VRisingBephinex.utils
 						new PrefabGUID(1399619536)
 					};
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -1312,7 +1312,7 @@ namespace VRisingBephinex.utils
 					[-1542949990] = 35f
 				};
 				num2 = 1;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+				if (1126510863 == 0)
 				{
 					num2 = 0;
 				}
@@ -1379,7 +1379,7 @@ namespace VRisingBephinex.utils
 					if (flag)
 					{
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
@@ -1394,7 +1394,7 @@ namespace VRisingBephinex.utils
 					if (flag2)
 					{
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 == 0)
+						if (0 == 0)
 						{
 							num2 = 18;
 						}
@@ -1404,7 +1404,7 @@ namespace VRisingBephinex.utils
 				case 13:
 					num4 = 30 - (int)(num5 * 0.08f);
 					num2 = 15;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ce3bb5aff5fb4aa9bab0f01ae1b98b83 == 0)
+					if (696790966 == 0)
 					{
 						num2 = 12;
 					}
@@ -1426,7 +1426,7 @@ namespace VRisingBephinex.utils
 				case 4:
 					num4 = 16;
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+					if (0 == 0)
 					{
 						num2 = 19;
 					}
@@ -1443,7 +1443,7 @@ namespace VRisingBephinex.utils
 					if (!flag3)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 == 0)
+						if (1256719316 == 0)
 						{
 							num2 = 0;
 						}
@@ -1454,7 +1454,7 @@ namespace VRisingBephinex.utils
 				case 19:
 					val2.normal.textColor = color;
 					num2 = 16;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+					if (0 == 0)
 					{
 						num2 = 21;
 					}
@@ -1462,7 +1462,7 @@ namespace VRisingBephinex.utils
 				case 5:
 					flag2 = num4 <= 13;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -1475,7 +1475,7 @@ namespace VRisingBephinex.utils
 					if (!(val.y > (float)Screen.height))
 					{
 						num2 = 20;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 0;
 						}
@@ -1512,7 +1512,7 @@ namespace VRisingBephinex.utils
 					{
 						flag = useGradiant;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5b2372ac427a453c84aa7abd437aa1d1 == 0)
+						if (0 == 0)
 						{
 							num2 = 9;
 						}
@@ -1524,7 +1524,7 @@ namespace VRisingBephinex.utils
 				}
 				flag3 = (byte)num3 != 0;
 				num2 = 1;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea != 0)
+				if (0 != 0)
 				{
 					num2 = 1;
 				}
@@ -1565,7 +1565,7 @@ namespace VRisingBephinex.utils
 				case 1:
 					RvpS0xLb3(2u, 0u, 0u, 0u, 0u);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -1573,7 +1573,7 @@ namespace VRisingBephinex.utils
 				default:
 					RvpS0xLb3(4u, 0u, 0u, 0u, 0u);
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff == 0)
+					if (577280904 == 0)
 					{
 						num2 = 0;
 					}
@@ -1598,7 +1598,7 @@ namespace VRisingBephinex.utils
 				default:
 					BPLGJ1U25(bVk, (byte)num3, 2, 0);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -1606,7 +1606,7 @@ namespace VRisingBephinex.utils
 				case 1:
 					BPLGJ1U25(bVk, (byte)num3, 0, 0);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 == 0)
+					if (258562808 == 0)
 					{
 						num2 = 0;
 					}
@@ -1614,7 +1614,7 @@ namespace VRisingBephinex.utils
 				case 2:
 					num3 = gxXw5rWvn(bVk, 0u);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -1671,7 +1671,7 @@ namespace VRisingBephinex.utils
 					case 6:
 						main = Camera.main;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 == 0)
+						if (854369382 == 0)
 						{
 							num2 = 4;
 						}
@@ -1712,7 +1712,7 @@ namespace VRisingBephinex.utils
 					}
 					result = (byte)num3 != 0;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 != 0)
+					if (171921593 != 0)
 					{
 						num2 = 0;
 					}
@@ -1769,7 +1769,7 @@ namespace VRisingBephinex.utils
 						case 7:
 							mpclTPEVM = val;
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 == 0)
+							if (117793469 == 0)
 							{
 								num2 = 0;
 							}
@@ -1777,7 +1777,7 @@ namespace VRisingBephinex.utils
 						case 10:
 							flag = val == null;
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -1785,7 +1785,7 @@ namespace VRisingBephinex.utils
 						case 9:
 							val = mo5cpjTYo("Client_0");
 							num2 = 10;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 != 0)
+							if (0 != 0)
 							{
 								num2 = 4;
 							}
@@ -1863,7 +1863,7 @@ namespace VRisingBephinex.utils
 						if (flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+							if (11098130 == 0)
 							{
 								num2 = 0;
 							}
@@ -1885,7 +1885,7 @@ namespace VRisingBephinex.utils
 					case 9:
 						current = enumerator.Current;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 == 0)
+						if (1256719316 == 0)
 						{
 							num2 = 2;
 						}
@@ -1893,7 +1893,7 @@ namespace VRisingBephinex.utils
 					case 2:
 						val = null;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -1904,7 +1904,7 @@ namespace VRisingBephinex.utils
 					default:
 						val = current;
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -2021,7 +2021,7 @@ namespace VRisingBephinex.patch
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+			if (760317395 == 0)
 			{
 				num = 0;
 			}
@@ -2067,7 +2067,7 @@ namespace VRisingBephinex.patch
 					if (!AimbotComponent.Instance.AimbotDisableInputOnEnemyCounter)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be == 0)
+						if (1793150317 == 0)
 						{
 							num2 = 0;
 						}
@@ -2080,7 +2080,7 @@ namespace VRisingBephinex.patch
 					if (instance == null)
 					{
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+						if (1126510863 == 0)
 						{
 							num2 = 2;
 						}
@@ -2099,7 +2099,7 @@ namespace VRisingBephinex.patch
 				}
 				result = (byte)num3 != 0;
 				num2 = 2;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 == 0)
+				if (0 == 0)
 				{
 					num2 = 3;
 				}
@@ -2112,7 +2112,7 @@ namespace VRisingBephinex.patch
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+			if (0 != 0)
 			{
 				num = 0;
 			}
@@ -2191,7 +2191,7 @@ namespace VRisingBephinex.patch
 				case 9:
 					isEmpty = ((EntityQuery)(ref query)).IsEmpty;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a48688a69764619b6a58896a1967edc == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -2201,7 +2201,7 @@ namespace VRisingBephinex.patch
 					if (!enumerator.MoveNext())
 					{
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+						if (1433983997 != 0)
 						{
 							num2 = 11;
 						}
@@ -2212,7 +2212,7 @@ namespace VRisingBephinex.patch
 				case 8:
 					query = __instance._Query;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+					if (1435992043 != 0)
 					{
 						num2 = 0;
 					}
@@ -2227,7 +2227,7 @@ namespace VRisingBephinex.patch
 				case 2:
 					enumerator = val.GetEnumerator();
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3885075afee4c11910086ee4190b88e == 0)
+					if (1414824122 == 0)
 					{
 						num2 = 0;
 					}
@@ -2283,7 +2283,7 @@ namespace VRisingBephinex.patch
 					case 36:
 						flag4 = componentData != AU3WkowjM;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+						if (0 == 0)
 						{
 							num2 = 32;
 						}
@@ -2294,7 +2294,7 @@ namespace VRisingBephinex.patch
 					case 16:
 						flag9 = componentData4.Parent == Entity.Null;
 						num2 = 31;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+						if (2144623378 == 0)
 						{
 							num2 = 24;
 						}
@@ -2310,7 +2310,7 @@ namespace VRisingBephinex.patch
 						if (!flag4)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 == 0)
+							if (0 == 0)
 							{
 								num2 = 1;
 							}
@@ -2348,7 +2348,7 @@ namespace VRisingBephinex.patch
 						if (!flag7)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -2361,7 +2361,7 @@ namespace VRisingBephinex.patch
 							return;
 						}
 						num2 = 27;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 == 0)
+						if (1976142266 == 0)
 						{
 							num2 = 2;
 						}
@@ -2389,7 +2389,7 @@ namespace VRisingBephinex.patch
 					case 3:
 						mainPlayer = PlayersManager.Instance.MainPlayer;
 						num2 = 28;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+						if (0 == 0)
 						{
 							num2 = 34;
 						}
@@ -2408,7 +2408,7 @@ namespace VRisingBephinex.patch
 					case 27:
 						flag2 = !componentData4.Parent.TryGetComponent<PrefabGUID>(out componentData);
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb != 0)
+						if (171252512 != 0)
 						{
 							num2 = 14;
 						}
@@ -2428,7 +2428,7 @@ namespace VRisingBephinex.patch
 					case 21:
 						owner = componentData3.Owner;
 						num2 = 28;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 == 0)
+						if (1094201023 == 0)
 						{
 							num2 = 14;
 						}
@@ -2436,7 +2436,7 @@ namespace VRisingBephinex.patch
 					case 6:
 						flag = !P_0.TryGetComponent<EntityOwner>(out componentData3);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+						if (0 == 0)
 						{
 							num2 = 17;
 						}
@@ -2467,7 +2467,7 @@ namespace VRisingBephinex.patch
 						IL_048c:
 						flag3 = (byte)num3 != 0;
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 != 0)
+						if (2058589287 != 0)
 						{
 							num2 = 10;
 						}
@@ -2484,7 +2484,7 @@ namespace VRisingBephinex.patch
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+			if (55114885 != 0)
 			{
 				num = 0;
 			}
@@ -2510,7 +2510,7 @@ namespace VRisingBephinex.patch
 				default:
 					AU3WkowjM = new PrefabGUID(1559481073);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd != 0)
+					if (0 != 0)
 					{
 						num2 = 1;
 					}
@@ -2520,7 +2520,7 @@ namespace VRisingBephinex.patch
 				case 4:
 					jiUnG6yLcp99YsGsEb2.I9ayUbHaDB();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -2528,7 +2528,7 @@ namespace VRisingBephinex.patch
 				case 3:
 					wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 == 0)
+					if (1531368356 == 0)
 					{
 						num2 = 0;
 					}
@@ -2576,7 +2576,7 @@ namespace VRisingBephinex.patch
 				case 2:
 					result = true;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 != 0)
+					if (0 != 0)
 					{
 						num2 = 1;
 					}
@@ -2604,7 +2604,7 @@ namespace VRisingBephinex.patch
 					case 5:
 						result = text.Trim();
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -2616,7 +2616,7 @@ namespace VRisingBephinex.patch
 					case 9:
 						key4 = Input.GetKey((KeyCode)115);
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 != 0)
+						if (0 != 0)
 						{
 							num2 = 14;
 						}
@@ -2625,7 +2625,7 @@ namespace VRisingBephinex.patch
 						if (!key4)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 != 0)
+							if (0 != 0)
 							{
 								num2 = 1;
 							}
@@ -2639,7 +2639,7 @@ namespace VRisingBephinex.patch
 						if (key2)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+							if (1668386183 == 0)
 							{
 								num2 = 4;
 							}
@@ -2653,7 +2653,7 @@ namespace VRisingBephinex.patch
 					case 14:
 						text += "D ";
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+						if (348513258 != 0)
 						{
 							num2 = 5;
 						}
@@ -2674,7 +2674,7 @@ namespace VRisingBephinex.patch
 					case 4:
 						text += "W ";
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+						if (2035096834 == 0)
 						{
 							num2 = 0;
 						}
@@ -2683,7 +2683,7 @@ namespace VRisingBephinex.patch
 					case 8:
 						key3 = Input.GetKey((KeyCode)100);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae == 0)
+						if (1629830925 == 0)
 						{
 							num2 = 0;
 						}
@@ -2722,7 +2722,7 @@ namespace VRisingBephinex.patch
 				case 1:
 					result = 0;
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c != 0)
+					if (0 != 0)
 					{
 						num2 = 5;
 					}
@@ -2730,7 +2730,7 @@ namespace VRisingBephinex.patch
 				case 5:
 					flag = index + 1 >= buffer.Length;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf != 0)
+					if (468683115 != 0)
 					{
 						num2 = 4;
 					}
@@ -2741,7 +2741,7 @@ namespace VRisingBephinex.patch
 					if (flag)
 					{
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 == 0)
+						if (1976142266 == 0)
 						{
 							num2 = 0;
 						}
@@ -2753,7 +2753,7 @@ namespace VRisingBephinex.patch
 				}
 				result = (short)((buffer[index + 1] << 8) | buffer[index]);
 				num2 = 1;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_de3435dfc76e4ffa99adc8d2fb3637a6 != 0)
+				if (1890823438 != 0)
 				{
 					num2 = 2;
 				}
@@ -2773,7 +2773,7 @@ namespace VRisingBephinex.patch
 				default:
 					result = (short)((buffer[index] << 8) | buffer[index + 1]);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -2792,7 +2792,7 @@ namespace VRisingBephinex.patch
 				case 7:
 					result = 0;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -2819,7 +2819,7 @@ namespace VRisingBephinex.patch
 				case 1:
 					result = (float)value / 32768f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c == 0)
+					if (818312125 == 0)
 					{
 						num2 = 0;
 					}
@@ -2843,7 +2843,7 @@ namespace VRisingBephinex.patch
 					case 1:
 						flag = index + 3 >= buffer.Length;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -2851,7 +2851,7 @@ namespace VRisingBephinex.patch
 					case 4:
 						result = buffer[index] | (buffer[index + 1] << 8) | (buffer[index + 2] << 16) | (buffer[index + 3] << 24);
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae == 0)
+						if (1629830925 == 0)
 						{
 							num2 = 0;
 						}
@@ -2893,7 +2893,7 @@ namespace VRisingBephinex.patch
 				case 7:
 					result = (buffer[index] << 24) | (buffer[index + 1] << 16) | (buffer[index + 2] << 8) | buffer[index + 3];
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 != 0)
+					if (117793469 != 0)
 					{
 						num2 = 0;
 					}
@@ -2902,7 +2902,7 @@ namespace VRisingBephinex.patch
 					if (!flag)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb != 0)
+						if (247204215 != 0)
 						{
 							num2 = 6;
 						}
@@ -2914,7 +2914,7 @@ namespace VRisingBephinex.patch
 				case 2:
 					flag = index + 3 >= buffer.Length;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 != 0)
+					if (1268266038 != 0)
 					{
 						num2 = 1;
 					}
@@ -2945,7 +2945,7 @@ namespace VRisingBephinex.patch
 					case 3:
 						result = BitConverter.ToSingle(buffer, index);
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 == 0)
+						if (374085082 == 0)
 						{
 							num2 = 2;
 						}
@@ -2955,7 +2955,7 @@ namespace VRisingBephinex.patch
 					case 4:
 						result = 0f;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+						if (1433983997 != 0)
 						{
 							num2 = 0;
 						}
@@ -2995,7 +2995,7 @@ namespace VRisingBephinex.patch
 						buffer[index]
 					};
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+					if (0 == 0)
 					{
 						num2 = 6;
 					}
@@ -3003,7 +3003,7 @@ namespace VRisingBephinex.patch
 				case 1:
 					flag = index + 3 >= buffer.Length;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+					if (348513258 != 0)
 					{
 						num2 = 0;
 					}
@@ -3011,7 +3011,7 @@ namespace VRisingBephinex.patch
 				case 6:
 					result = BitConverter.ToSingle(value, 0);
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3885075afee4c11910086ee4190b88e != 0)
+					if (1414824122 != 0)
 					{
 						num2 = 4;
 					}
@@ -3030,7 +3030,7 @@ namespace VRisingBephinex.patch
 				case 7:
 					result = 0f;
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+					if (0 == 0)
 					{
 						num2 = 5;
 					}
@@ -3083,7 +3083,7 @@ namespace VRisingBephinex.patch
 					case 18:
 						flag5 = Math.Abs(value) > 0.0001f;
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 7;
 						}
@@ -3112,7 +3112,7 @@ namespace VRisingBephinex.patch
 						if (float.IsNaN(num6))
 						{
 							num2 = 39;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 != 0)
+							if (171921593 != 0)
 							{
 								num2 = 52;
 							}
@@ -3153,7 +3153,7 @@ namespace VRisingBephinex.patch
 					case 89:
 						defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(19, 2);
 						num2 = 45;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 == 0)
+						if (374085082 == 0)
 						{
 							num2 = 21;
 						}
@@ -3177,7 +3177,7 @@ namespace VRisingBephinex.patch
 					case 73:
 						num7 = ReadShortBigEndian(buffer, num4);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae != 0)
+						if (1629830925 != 0)
 						{
 							num2 = 1;
 						}
@@ -3227,7 +3227,7 @@ namespace VRisingBephinex.patch
 					case 64:
 						num4 = 0;
 						num2 = 91;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+						if (0 == 0)
 						{
 							num2 = 91;
 						}
@@ -3235,7 +3235,7 @@ namespace VRisingBephinex.patch
 					case 62:
 						defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(19, 2);
 						num2 = 32;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 != 0)
+						if (0 != 0)
 						{
 							num2 = 11;
 						}
@@ -3244,7 +3244,7 @@ namespace VRisingBephinex.patch
 						if (Math.Abs(num6) > 0.0001f)
 						{
 							num2 = 54;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+							if (468683115 == 0)
 							{
 								num2 = 32;
 							}
@@ -3254,7 +3254,7 @@ namespace VRisingBephinex.patch
 					case 57:
 						defaultInterpolatedStringHandler.AppendFormatted(num4);
 						num2 = 86;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 21;
 						}
@@ -3273,7 +3273,7 @@ namespace VRisingBephinex.patch
 					case 83:
 						defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(19, 2);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04ad6d5d407541869e49f32bd8f952e2 != 0)
+						if (1835701918 != 0)
 						{
 							num2 = 12;
 						}
@@ -3286,7 +3286,7 @@ namespace VRisingBephinex.patch
 						if (Math.Abs(num8) > 0.0001f)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+							if (962215133 == 0)
 							{
 								num2 = 1;
 							}
@@ -3297,7 +3297,7 @@ namespace VRisingBephinex.patch
 					case 79:
 						flag11 = Math.Abs(value2) > 0.0001f;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 6;
 						}
@@ -3320,7 +3320,7 @@ namespace VRisingBephinex.patch
 					case 56:
 						defaultInterpolatedStringHandler.AppendFormatted(num7);
 						num2 = 60;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 71;
 						}
@@ -3340,7 +3340,7 @@ namespace VRisingBephinex.patch
 						if (!flag11)
 						{
 							num2 = 60;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb == 0)
+							if (247204215 == 0)
 							{
 								num2 = 49;
 							}
@@ -3352,7 +3352,7 @@ namespace VRisingBephinex.patch
 					case 75:
 						defaultInterpolatedStringHandler.AppendFormatted(num4);
 						num2 = 92;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 != 0)
+						if (0 != 0)
 						{
 							num2 = 20;
 						}
@@ -3373,7 +3373,7 @@ namespace VRisingBephinex.patch
 					default:
 						num4++;
 						num2 = 63;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 55;
 						}
@@ -3381,7 +3381,7 @@ namespace VRisingBephinex.patch
 					case 86:
 						defaultInterpolatedStringHandler.AppendLiteral("] Float LE: ");
 						num2 = 68;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 == 0)
+						if (171921593 == 0)
 						{
 							num2 = 17;
 						}
@@ -3389,7 +3389,7 @@ namespace VRisingBephinex.patch
 					case 82:
 						defaultInterpolatedStringHandler.AppendLiteral("] Int32 BE: ");
 						num2 = 31;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+						if (1126510863 == 0)
 						{
 							num2 = 16;
 						}
@@ -3417,7 +3417,7 @@ namespace VRisingBephinex.patch
 					case 85:
 						flag3 = num4 + 3 < buffer.Length;
 						num2 = 58;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+						if (2058589287 == 0)
 						{
 							num2 = 30;
 						}
@@ -3455,7 +3455,7 @@ namespace VRisingBephinex.patch
 					case 95:
 						defaultInterpolatedStringHandler.AppendFormatted(num5);
 						num2 = 31;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 != 0)
+						if (133732588 != 0)
 						{
 							num2 = 39;
 						}
@@ -3468,7 +3468,7 @@ namespace VRisingBephinex.patch
 						if (!flag6)
 						{
 							num2 = 27;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+							if (460822775 == 0)
 							{
 								num2 = 6;
 							}
@@ -3482,7 +3482,7 @@ namespace VRisingBephinex.patch
 					case 65:
 						Console.WriteLine("--- Advanced Universal Decoder Output ---");
 						num2 = 64;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 == 0)
+						if (1486210346 == 0)
 						{
 							num2 = 18;
 						}
@@ -3490,7 +3490,7 @@ namespace VRisingBephinex.patch
 					case 48:
 						Console.WriteLine(defaultInterpolatedStringHandler.ToStringAndClear());
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+						if (55114885 != 0)
 						{
 							num2 = 0;
 						}
@@ -3499,7 +3499,7 @@ namespace VRisingBephinex.patch
 						if (!flag5)
 						{
 							num2 = 61;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+							if (460822775 == 0)
 							{
 								num2 = 57;
 							}
@@ -3535,7 +3535,7 @@ namespace VRisingBephinex.patch
 						if (!flag3)
 						{
 							num2 = 20;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+							if (0 == 0)
 							{
 								num2 = 35;
 							}
@@ -3549,7 +3549,7 @@ namespace VRisingBephinex.patch
 					case 19:
 						num3 = ReadIntBigEndian(buffer, num4);
 						num2 = 24;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c != 0)
+						if (818312125 != 0)
 						{
 							num2 = 34;
 						}
@@ -3613,7 +3613,7 @@ namespace VRisingBephinex.patch
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+			if (0 == 0)
 			{
 				num = 0;
 			}
@@ -3639,7 +3639,7 @@ namespace VRisingBephinex.patch
 					case 5:
 						mIM5TOlB0 = false;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -3647,7 +3647,7 @@ namespace VRisingBephinex.patch
 					case 2:
 						wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -3657,7 +3657,7 @@ namespace VRisingBephinex.patch
 					case 4:
 						DiffArray = new byte[100000];
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
@@ -3665,7 +3665,7 @@ namespace VRisingBephinex.patch
 					case 3:
 						jiUnG6yLcp99YsGsEb2.I9ayUbHaDB();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -3726,7 +3726,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.Enabled = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 != 0)
+									if (0 != 0)
 									{
 										num4 = 0;
 									}
@@ -3752,7 +3752,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.NPC = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+									if (0 == 0)
 									{
 										num4 = 0;
 									}
@@ -3778,7 +3778,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.Players = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c == 0)
+									if (818312125 == 0)
 									{
 										num4 = 0;
 									}
@@ -3804,7 +3804,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.SortByHP = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 != 0)
+									if (0 != 0)
 									{
 										num4 = 0;
 									}
@@ -3830,7 +3830,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.AimbotToggleHolding = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 != 0)
+									if (519538535 != 0)
 									{
 										num4 = 0;
 									}
@@ -3858,7 +3858,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.CheckEnemyCounter = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb == 0)
+									if (1435992043 == 0)
 									{
 										num4 = 0;
 									}
@@ -3867,7 +3867,7 @@ namespace VRisingBephinex.gui
 							}
 						}));
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -3888,7 +3888,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.AimbotCheckEnemyCounterCancelAttack = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+									if (1814018247 == 0)
 									{
 										num4 = 0;
 									}
@@ -3897,7 +3897,7 @@ namespace VRisingBephinex.gui
 							}
 						}));
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 == 0)
+						if (117793469 == 0)
 						{
 							num2 = 0;
 						}
@@ -3918,7 +3918,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.AimbotCheckEnemyCounterMoveCursor = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 == 0)
+									if (0 == 0)
 									{
 										num4 = 0;
 									}
@@ -3944,7 +3944,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.AimbotDisableInputOnEnemyCounter = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a != 0)
+									if (2144623378 != 0)
 									{
 										num4 = 0;
 									}
@@ -3968,7 +3968,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.LockOnTarget = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+									if (374085082 != 0)
 									{
 										num4 = 0;
 									}
@@ -3979,7 +3979,7 @@ namespace VRisingBephinex.gui
 							}
 						}));
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e == 0)
+						if (2021314568 == 0)
 						{
 							num2 = 1;
 						}
@@ -3998,7 +3998,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.AimbotCursor = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 != 0)
+									if (0 != 0)
 									{
 										num4 = 0;
 									}
@@ -4025,7 +4025,7 @@ namespace VRisingBephinex.gui
 								case 2:
 									maxDistance = AimbotComponent.Instance.MaxDistance;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+									if (0 == 0)
 									{
 										num4 = 1;
 									}
@@ -4038,7 +4038,7 @@ namespace VRisingBephinex.gui
 									if (obj == null)
 									{
 										num4 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+										if (0 == 0)
 										{
 											num4 = 0;
 										}
@@ -4069,7 +4069,7 @@ namespace VRisingBephinex.gui
 								case 1:
 									AimbotComponent.Instance.MaxDistance = value;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+									if (468683115 == 0)
 									{
 										num4 = 0;
 									}
@@ -4145,7 +4145,7 @@ namespace VRisingBephinex.gui
 			Od9j7lKVn = string.Empty;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f == 0)
+			if (0 == 0)
 			{
 				num = 2;
 			}
@@ -4156,7 +4156,7 @@ namespace VRisingBephinex.gui
 				default:
 					V6Yv4tLYl = action;
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -4166,7 +4166,7 @@ namespace VRisingBephinex.gui
 				case 2:
 					qYV2Rw3GK = name;
 					num = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 != 0)
+					if (0 != 0)
 					{
 						num = 3;
 					}
@@ -4174,7 +4174,7 @@ namespace VRisingBephinex.gui
 				case 3:
 					yTkMvD56T = GUIItemType.Button;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac == 0)
+					if (1848937442 == 0)
 					{
 						num = 0;
 					}
@@ -4193,7 +4193,7 @@ namespace VRisingBephinex.gui
 			Od9j7lKVn = string.Empty;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 != 0)
+			if (0 != 0)
 			{
 				num = 0;
 			}
@@ -4206,7 +4206,7 @@ namespace VRisingBephinex.gui
 				case 2:
 					T0OLJP2uy = actionBoolean;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -4237,7 +4237,7 @@ namespace VRisingBephinex.gui
 			Od9j7lKVn = string.Empty;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a != 0)
+			if (1518457776 != 0)
 			{
 				num = 1;
 			}
@@ -4252,7 +4252,7 @@ namespace VRisingBephinex.gui
 				default:
 					yTkMvD56T = GUIItemType.Label;
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+					if (0 == 0)
 					{
 						num = 3;
 					}
@@ -4260,7 +4260,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					qYV2Rw3GK = name;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -4281,7 +4281,7 @@ namespace VRisingBephinex.gui
 			Od9j7lKVn = string.Empty;
 			base..ctor();
 			int num = 1;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+			if (742265667 != 0)
 			{
 				num = 6;
 			}
@@ -4298,7 +4298,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					yTkMvD56T = GUIItemType.Input;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -4306,7 +4306,7 @@ namespace VRisingBephinex.gui
 				case 6:
 					qYV2Rw3GK = name;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_608e64efb5c34d059666e63ce14fd4ee != 0)
+					if (852228814 != 0)
 					{
 						num = 1;
 					}
@@ -4318,7 +4318,7 @@ namespace VRisingBephinex.gui
 				case 3:
 					M590vtaRj = actionFloat;
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f != 0)
+					if (1131787544 != 0)
 					{
 						num = 5;
 					}
@@ -4341,7 +4341,7 @@ namespace VRisingBephinex.gui
 			Od9j7lKVn = string.Empty;
 			base..ctor();
 			int num = 3;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 == 0)
+			if (1256719316 == 0)
 			{
 				num = 1;
 			}
@@ -4354,7 +4354,7 @@ namespace VRisingBephinex.gui
 				case 4:
 					XU7Vb6ftu = actionString;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+					if (317387702 == 0)
 					{
 						num = 0;
 					}
@@ -4362,7 +4362,7 @@ namespace VRisingBephinex.gui
 				case 2:
 					yTkMvD56T = GUIItemType.TextBox;
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e == 0)
+					if (121889664 == 0)
 					{
 						num = 1;
 					}
@@ -4376,7 +4376,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					Od9j7lKVn = value;
 					num = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+					if (2035096834 == 0)
 					{
 						num = 3;
 					}
@@ -4400,7 +4400,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					kOWhJVTtt = rect;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -4466,7 +4466,7 @@ namespace VRisingBephinex.gui
 					case 15:
 						flag3 = efxNqyxYl != EfxNqyxYl;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+						if (348513258 != 0)
 						{
 							num2 = 2;
 						}
@@ -4488,7 +4488,7 @@ namespace VRisingBephinex.gui
 					case 33:
 						GUI.Label(kOWhJVTtt, "");
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+						if (348513258 != 0)
 						{
 							num2 = 10;
 						}
@@ -4502,7 +4502,7 @@ namespace VRisingBephinex.gui
 					case 9:
 						T0OLJP2uy(YMhH73Thc);
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -4520,7 +4520,7 @@ namespace VRisingBephinex.gui
 							return;
 						}
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -4562,7 +4562,7 @@ namespace VRisingBephinex.gui
 							return;
 						}
 						num2 = 24;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+						if (460822775 == 0)
 						{
 							num2 = 9;
 						}
@@ -4570,7 +4570,7 @@ namespace VRisingBephinex.gui
 					case 13:
 						Od9j7lKVn = GUI.TextField(kOWhJVTtt, Od9j7lKVn);
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+						if (0 != 0)
 						{
 							num2 = 5;
 						}
@@ -4578,7 +4578,7 @@ namespace VRisingBephinex.gui
 					default:
 						GUI.Label(kOWhJVTtt, qYV2Rw3GK + ": " + t1I9Znk2q());
 						num2 = 32;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb == 0)
+						if (1435992043 == 0)
 						{
 							num2 = 13;
 						}
@@ -4595,7 +4595,7 @@ namespace VRisingBephinex.gui
 					case 25:
 						XU7Vb6ftu(Od9j7lKVn);
 						num2 = 21;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b != 0)
+						if (0 != 0)
 						{
 							num2 = 11;
 						}
@@ -4621,7 +4621,7 @@ namespace VRisingBephinex.gui
 						IL_01de:
 						flag = qYV2Rw3GK.Length > 0;
 						num2 = 27;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 == 0)
+						if (171921593 == 0)
 						{
 							num2 = 4;
 						}
@@ -4633,14 +4633,14 @@ namespace VRisingBephinex.gui
 						IL_0494:
 						flag4 = GUI.Button(kOWhJVTtt, qYV2Rw3GK);
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
 						continue;
 						IL_037f:
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 == 0)
+						if (854369382 == 0)
 						{
 							num2 = 12;
 						}
@@ -4698,7 +4698,7 @@ namespace VRisingBephinex.gui
 			_items = new List<GUIItem>();
 			base..ctor();
 			int num = 3;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 != 0)
+			if (0 != 0)
 			{
 				num = 1;
 			}
@@ -4710,7 +4710,7 @@ namespace VRisingBephinex.gui
 				default:
 					KoxJxOtMi = KoxJxOtMi * (float)childIndex + x5d1EMWbu * (float)(childIndex - 1);
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 == 0)
+					if (0 == 0)
 					{
 						num = 5;
 					}
@@ -4719,7 +4719,7 @@ namespace VRisingBephinex.gui
 					if (!flag)
 					{
 						num = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a != 0)
+						if (962215133 != 0)
 						{
 							num = 0;
 						}
@@ -4773,7 +4773,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					GkfFPnGSn = menu;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -4829,7 +4829,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.CheckOnRangeAttack = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -4852,7 +4852,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.CheckOnMeleeAttack = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -4876,7 +4876,7 @@ namespace VRisingBephinex.gui
 					case 2:
 						meleeAttackRange = DefenceComponent.Instance.MeleeAttackRange;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -4912,7 +4912,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.MeleeAttackRange = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+						if (742265667 != 0)
 						{
 							num2 = 0;
 						}
@@ -4938,7 +4938,7 @@ namespace VRisingBephinex.gui
 					case 2:
 						meleeAttackAngle = DefenceComponent.Instance.MeleeAttackAngle;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 == 0)
+						if (374085082 == 0)
 						{
 							num2 = 0;
 						}
@@ -4974,7 +4974,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.MeleeAttackAngle = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -4999,7 +4999,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ownRadius = DefenceComponent.Instance.OwnRadius;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 != 0)
+						if (760317395 != 0)
 						{
 							num2 = 0;
 						}
@@ -5009,7 +5009,7 @@ namespace VRisingBephinex.gui
 						if (obj == null)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5b2372ac427a453c84aa7abd437aa1d1 == 0)
+							if (0 == 0)
 							{
 								num2 = 3;
 							}
@@ -5039,7 +5039,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.OwnRadius = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5064,7 +5064,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						projectileRadius = DefenceComponent.Instance.ProjectileRadius;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5074,7 +5074,7 @@ namespace VRisingBephinex.gui
 						if (obj == null)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+							if (0 == 0)
 							{
 								num2 = 2;
 							}
@@ -5087,7 +5087,7 @@ namespace VRisingBephinex.gui
 					}
 					result = (string)obj;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -5106,7 +5106,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.ProjectileRadius = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e != 0)
+						if (2021314568 != 0)
 						{
 							num2 = 0;
 						}
@@ -5134,7 +5134,7 @@ namespace VRisingBephinex.gui
 						if (obj == null)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 != 0)
+							if (0 != 0)
 							{
 								num2 = 1;
 							}
@@ -5151,7 +5151,7 @@ namespace VRisingBephinex.gui
 					}
 					result = (string)obj;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e == 0)
+					if (121889664 == 0)
 					{
 						num2 = 0;
 					}
@@ -5170,7 +5170,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.Tolerance = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5202,7 +5202,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						maxCheckDistance = DefenceComponent.Instance.MaxCheckDistance;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5216,7 +5216,7 @@ namespace VRisingBephinex.gui
 					}
 					result = (string)obj;
 					num2 = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b != 0)
+					if (0 != 0)
 					{
 						num2 = 2;
 					}
@@ -5235,7 +5235,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DefenceComponent.Instance.MaxCheckDistance = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_091ae575e30b4755877daf70ddd2eddb != 0)
+						if (1362636878 != 0)
 						{
 							num2 = 0;
 						}
@@ -5281,7 +5281,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPContainer.Chest = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5304,7 +5304,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPContainer.DeathContainer = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5327,7 +5327,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPContainer.PlayerDrop = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5348,7 +5348,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPContainer.ResourceDrop = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 == 0)
+						if (171921593 == 0)
 						{
 							num2 = 0;
 						}
@@ -5373,7 +5373,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPContainer.Furniture = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a48688a69764619b6a58896a1967edc == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5418,7 +5418,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						defaultInterpolatedStringHandler.AppendFormatted(ESPComponent.Instance.FieldOfView);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5426,7 +5426,7 @@ namespace VRisingBephinex.gui
 					case 2:
 						defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(0, 1);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5451,7 +5451,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.FieldOfView = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 != 0)
+						if (1256719316 != 0)
 						{
 							num2 = 0;
 						}
@@ -5474,7 +5474,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPBlood.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+						if (444950165 == 0)
 						{
 							num2 = 0;
 						}
@@ -5506,7 +5506,7 @@ namespace VRisingBephinex.gui
 							if (obj == null)
 							{
 								num2 = 1;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e == 0)
+								if (0 == 0)
 								{
 									num2 = 1;
 								}
@@ -5542,7 +5542,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPBlood.MinBloodQuality = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5565,7 +5565,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPHorses.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+						if (1433983997 == 0)
 						{
 							num2 = 0;
 						}
@@ -5597,7 +5597,7 @@ namespace VRisingBephinex.gui
 					case 2:
 						minSpeed = ESPComponent.Instance.ESPHorses.MinSpeed;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+						if (742265667 != 0)
 						{
 							num2 = 1;
 						}
@@ -5608,7 +5608,7 @@ namespace VRisingBephinex.gui
 					}
 					result = (string)obj;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -5627,7 +5627,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPHorses.MinSpeed = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5650,7 +5650,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPFish.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -5675,7 +5675,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPCarriage.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+						if (1814018247 == 0)
 						{
 							num2 = 0;
 						}
@@ -5696,7 +5696,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						OpenMenu(new ESPMenuPlayers());
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5721,7 +5721,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						OpenMenu(new ESPOresMenu());
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+						if (11098130 == 0)
 						{
 							num2 = 0;
 						}
@@ -5742,7 +5742,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						OpenMenu(new ESPMenuPlants());
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -5767,7 +5767,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						OpenMenu(new ESPContainerMenu());
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae != 0)
+						if (1629830925 != 0)
 						{
 							num2 = 0;
 						}
@@ -5790,7 +5790,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						DebugComponent.Instance.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac != 0)
+						if (1848937442 != 0)
 						{
 							num2 = 0;
 						}
@@ -5814,7 +5814,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new ESPMenuPlayers());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -5841,7 +5841,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new ESPOresMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+					if (11098130 == 0)
 					{
 						num2 = 0;
 					}
@@ -5864,7 +5864,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new ESPMenuPlants());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -5891,7 +5891,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new ESPContainerMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae != 0)
+					if (1629830925 != 0)
 					{
 						num2 = 0;
 					}
@@ -5920,7 +5920,7 @@ namespace VRisingBephinex.gui
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor("ESP Plants Menu", 3);
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+			if (0 == 0)
 			{
 				num = 1;
 			}
@@ -5944,7 +5944,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.BloodRoseEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -5955,7 +5955,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+					if (0 == 0)
 					{
 						num = 7;
 					}
@@ -5976,7 +5976,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.BleedingHeartEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+								if (1976142266 != 0)
 								{
 									num3 = 0;
 								}
@@ -5985,7 +5985,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+					if (0 == 0)
 					{
 						num = 2;
 					}
@@ -6004,7 +6004,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.CottonEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa != 0)
+								if (1427489184 != 0)
 								{
 									num3 = 0;
 								}
@@ -6015,7 +6015,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+					if (0 == 0)
 					{
 						num = 4;
 					}
@@ -6034,7 +6034,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.CorruptedFlowerEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6060,7 +6060,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.FireBlossomEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6088,7 +6088,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.GhostShroomEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb != 0)
+								if (247204215 != 0)
 								{
 									num3 = 0;
 								}
@@ -6114,7 +6114,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.HellsClarionEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+								if (0 == 0)
 								{
 									num3 = 0;
 								}
@@ -6140,7 +6140,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.MoutningLilyEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6164,7 +6164,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.SnowFlowerEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 == 0)
+								if (0 == 0)
 								{
 									num3 = 0;
 								}
@@ -6175,7 +6175,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -6194,7 +6194,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlants.TrippyShroomEnabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6220,7 +6220,7 @@ namespace VRisingBephinex.gui
 						case 1:
 							ESPComponent.Instance.ESPPlants.SunflowerEnabled = value;
 							num3 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e == 0)
+							if (2021314568 == 0)
 							{
 								num3 = 0;
 							}
@@ -6274,7 +6274,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.Enabled = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 == 0)
+								if (133732588 == 0)
 								{
 									num3 = 0;
 								}
@@ -6285,7 +6285,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+					if (1668386183 == 0)
 					{
 						num = 1;
 					}
@@ -6304,7 +6304,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowAlly = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6315,7 +6315,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff != 0)
+					if (577280904 != 0)
 					{
 						num = 1;
 					}
@@ -6334,7 +6334,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowLvL = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6362,7 +6362,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowClan = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_519c5e460d954eda92fea767bf3dca81 == 0)
+								if (1032184707 == 0)
 								{
 									num3 = 0;
 								}
@@ -6388,7 +6388,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowHealth = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6414,7 +6414,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowBlood = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+								if (1435992043 != 0)
 								{
 									num3 = 0;
 								}
@@ -6423,7 +6423,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -6444,7 +6444,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								ESPComponent.Instance.ESPPlayers.ShowSelf = value;
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa == 0)
+								if (1427489184 == 0)
 								{
 									num3 = 0;
 								}
@@ -6470,7 +6470,7 @@ namespace VRisingBephinex.gui
 						case 1:
 							ESPComponent.Instance.ESPPlayers.ShowSkills = value;
 							num3 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 != 0)
+							if (0 != 0)
 							{
 								num3 = 0;
 							}
@@ -6479,7 +6479,7 @@ namespace VRisingBephinex.gui
 					}
 				}));
 				num = 2;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 == 0)
+				if (1531368356 == 0)
 				{
 					num = 1;
 				}
@@ -6520,7 +6520,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterQuartz = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -6541,7 +6541,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterCopper = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -6564,7 +6564,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterIron = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+						if (2058589287 == 0)
 						{
 							num2 = 0;
 						}
@@ -6589,7 +6589,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterSulfur = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -6612,7 +6612,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterGemFlawless = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e != 0)
+						if (121889664 != 0)
 						{
 							num2 = 0;
 						}
@@ -6635,7 +6635,7 @@ namespace VRisingBephinex.gui
 					case 1:
 						ESPComponent.Instance.ESPOres.OreFilterSilver = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -6685,7 +6685,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								OpenMenu(new ESPMenu());
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+								if (0 == 0)
 								{
 									num3 = 0;
 								}
@@ -6694,7 +6694,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef != 0)
+					if (0 != 0)
 					{
 						num = 0;
 					}
@@ -6713,7 +6713,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								OpenMenu(new TweaksMenu());
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6724,7 +6724,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e == 0)
+					if (2021314568 == 0)
 					{
 						num = 1;
 					}
@@ -6745,7 +6745,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								OpenMenu(new AimbotMenu());
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -6756,7 +6756,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+					if (10932459 == 0)
 					{
 						num = 0;
 					}
@@ -6775,7 +6775,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								Application.OpenURL("https://discord.gg/9BRBp83ASQ");
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+								if (0 == 0)
 								{
 									num3 = 0;
 								}
@@ -6786,7 +6786,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac != 0)
+					if (1848937442 != 0)
 					{
 						num = 5;
 					}
@@ -6805,7 +6805,7 @@ namespace VRisingBephinex.gui
 						case 1:
 							OpenMenu(new DefenceMenu());
 							num3 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+							if (0 == 0)
 							{
 								num3 = 0;
 							}
@@ -6835,7 +6835,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new ESPMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -6858,7 +6858,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new AimbotMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -6883,7 +6883,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new DefenceMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -6908,7 +6908,7 @@ namespace VRisingBephinex.gui
 				case 1:
 					OpenMenu(new TweaksMenu());
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -6939,7 +6939,7 @@ namespace VRisingBephinex.gui
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor("Tweaks Menu", 2);
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 != 0)
+			if (854369382 != 0)
 			{
 				num = 0;
 			}
@@ -6963,7 +6963,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								TweaksComponent.Instance.RemoveFullScreenEffects();
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+								if (1814018247 == 0)
 								{
 									num3 = 0;
 								}
@@ -6974,7 +6974,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+					if (0 == 0)
 					{
 						num = 2;
 					}
@@ -6993,7 +6993,7 @@ namespace VRisingBephinex.gui
 							case 1:
 								TweaksComponent.Instance.ToggleOnlyDay();
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 != 0)
+								if (760317395 != 0)
 								{
 									num3 = 0;
 								}
@@ -7004,7 +7004,7 @@ namespace VRisingBephinex.gui
 						}
 					}));
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe == 0)
+					if (2093262890 == 0)
 					{
 						num = 0;
 					}
@@ -7023,7 +7023,7 @@ namespace VRisingBephinex.gui
 						case 1:
 							TweaksComponent.Instance.RemoveMinimapFog();
 							num3 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+							if (11098130 == 0)
 							{
 								num3 = 0;
 							}
@@ -7034,7 +7034,7 @@ namespace VRisingBephinex.gui
 					}
 				}));
 				num = 2;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 != 0)
+				if (1185518701 != 0)
 				{
 					num = 3;
 				}
@@ -7324,7 +7324,7 @@ namespace VRisingBephinex.config
 					case 1:
 						Cow6maOfh = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb == 0)
+						if (171252512 == 0)
 						{
 							num2 = 0;
 						}
@@ -7359,7 +7359,7 @@ namespace VRisingBephinex.config
 					case 1:
 						BATuktyWI = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7390,7 +7390,7 @@ namespace VRisingBephinex.config
 					case 1:
 						gpjsk520M = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7425,7 +7425,7 @@ namespace VRisingBephinex.config
 					case 1:
 						RF6Paps5C = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7456,7 +7456,7 @@ namespace VRisingBephinex.config
 					case 1:
 						woMkjR2SG = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7489,7 +7489,7 @@ namespace VRisingBephinex.config
 					case 1:
 						ofVTShd4V = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7524,7 +7524,7 @@ namespace VRisingBephinex.config
 					case 1:
 						Atmz1Ey3f = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a == 0)
+						if (1518457776 == 0)
 						{
 							num2 = 0;
 						}
@@ -7555,7 +7555,7 @@ namespace VRisingBephinex.config
 					case 1:
 						zvLngTeqAH = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7590,7 +7590,7 @@ namespace VRisingBephinex.config
 					case 1:
 						r8VnnM1Cmc = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7621,7 +7621,7 @@ namespace VRisingBephinex.config
 					case 1:
 						IOAnO5FmXc = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 != 0)
+						if (519538535 != 0)
 						{
 							num2 = 0;
 						}
@@ -7654,7 +7654,7 @@ namespace VRisingBephinex.config
 					case 1:
 						eZWn3pC407 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac == 0)
+						if (1848937442 == 0)
 						{
 							num2 = 0;
 						}
@@ -7687,7 +7687,7 @@ namespace VRisingBephinex.config
 					case 1:
 						DELnoXpyDW = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7720,7 +7720,7 @@ namespace VRisingBephinex.config
 					case 1:
 						Juenya1cYs = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a == 0)
+						if (1518457776 == 0)
 						{
 							num2 = 0;
 						}
@@ -7755,7 +7755,7 @@ namespace VRisingBephinex.config
 					case 1:
 						mp8n4LMyMe = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7786,7 +7786,7 @@ namespace VRisingBephinex.config
 					case 1:
 						z8LnI7XyvK = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7819,7 +7819,7 @@ namespace VRisingBephinex.config
 					case 1:
 						HasneAXax6 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+						if (2058589287 == 0)
 						{
 							num2 = 0;
 						}
@@ -7852,7 +7852,7 @@ namespace VRisingBephinex.config
 					case 1:
 						aE0nRgfiIy = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7887,7 +7887,7 @@ namespace VRisingBephinex.config
 					case 1:
 						R6onYAkdoI = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -7918,7 +7918,7 @@ namespace VRisingBephinex.config
 					case 1:
 						lLjnreFuAu = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -7951,7 +7951,7 @@ namespace VRisingBephinex.config
 					case 1:
 						kKDnEl6iUm = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c != 0)
+						if (747172065 != 0)
 						{
 							num2 = 0;
 						}
@@ -7986,7 +7986,7 @@ namespace VRisingBephinex.config
 					case 1:
 						a3rni1ZStG = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -8017,7 +8017,7 @@ namespace VRisingBephinex.config
 					case 1:
 						uRQnpkmxW0 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f != 0)
+						if (1131787544 != 0)
 						{
 							num2 = 0;
 						}
@@ -8052,7 +8052,7 @@ namespace VRisingBephinex.config
 					case 1:
 						UZCn7NsYMy = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+						if (348513258 != 0)
 						{
 							num2 = 0;
 						}
@@ -8085,7 +8085,7 @@ namespace VRisingBephinex.config
 					case 1:
 						ka6nbkqt10 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb != 0)
+						if (171252512 != 0)
 						{
 							num2 = 0;
 						}
@@ -8118,7 +8118,7 @@ namespace VRisingBephinex.config
 					case 1:
 						LJonC9sG8H = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5b2372ac427a453c84aa7abd437aa1d1 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -8151,7 +8151,7 @@ namespace VRisingBephinex.config
 					case 1:
 						pgYnSclf03 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -8184,7 +8184,7 @@ namespace VRisingBephinex.config
 					case 1:
 						PfQnGngVuI = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 == 0)
+						if (1187184005 == 0)
 						{
 							num2 = 0;
 						}
@@ -8215,7 +8215,7 @@ namespace VRisingBephinex.config
 					case 1:
 						UBinwYap8v = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8248,7 +8248,7 @@ namespace VRisingBephinex.config
 					case 1:
 						sERncI0wpP = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+						if (2144623378 == 0)
 						{
 							num2 = 0;
 						}
@@ -8281,7 +8281,7 @@ namespace VRisingBephinex.config
 					case 1:
 						iVCnlhFTtU = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+						if (2144623378 == 0)
 						{
 							num2 = 0;
 						}
@@ -8314,7 +8314,7 @@ namespace VRisingBephinex.config
 					case 1:
 						iOPnfBeY7O = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 == 0)
+						if (1094201023 == 0)
 						{
 							num2 = 0;
 						}
@@ -8349,7 +8349,7 @@ namespace VRisingBephinex.config
 					case 1:
 						do6nWxHkNM = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 == 0)
+						if (1486210346 == 0)
 						{
 							num2 = 0;
 						}
@@ -8382,7 +8382,7 @@ namespace VRisingBephinex.config
 					case 1:
 						qyJnB4SMUH = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 == 0)
+						if (1094201023 == 0)
 						{
 							num2 = 0;
 						}
@@ -8413,7 +8413,7 @@ namespace VRisingBephinex.config
 					case 1:
 						SbGn5ogaR2 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8446,7 +8446,7 @@ namespace VRisingBephinex.config
 					case 1:
 						zKSn2KenuA = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 0;
 						}
@@ -8481,7 +8481,7 @@ namespace VRisingBephinex.config
 					case 1:
 						QdtnMYkruJ = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -8512,7 +8512,7 @@ namespace VRisingBephinex.config
 					case 1:
 						o2mnhD3M6K = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c == 0)
+						if (818312125 == 0)
 						{
 							num2 = 0;
 						}
@@ -8547,7 +8547,7 @@ namespace VRisingBephinex.config
 					case 1:
 						n94nvxtphx = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8580,7 +8580,7 @@ namespace VRisingBephinex.config
 					case 1:
 						cyqnLpwuCn = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8611,7 +8611,7 @@ namespace VRisingBephinex.config
 					case 1:
 						hgIn0mdnB3 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 != 0)
+						if (317387702 != 0)
 						{
 							num2 = 0;
 						}
@@ -8646,7 +8646,7 @@ namespace VRisingBephinex.config
 					case 1:
 						JqHnVYDbtd = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+						if (1268266038 == 0)
 						{
 							num2 = 0;
 						}
@@ -8679,7 +8679,7 @@ namespace VRisingBephinex.config
 					case 1:
 						jOVnHSysYe = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f != 0)
+						if (1131787544 != 0)
 						{
 							num2 = 0;
 						}
@@ -8712,7 +8712,7 @@ namespace VRisingBephinex.config
 					case 1:
 						HWsn9msCrT = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac == 0)
+						if (1435650279 == 0)
 						{
 							num2 = 0;
 						}
@@ -8743,7 +8743,7 @@ namespace VRisingBephinex.config
 					case 1:
 						uIanNnhu6Q = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8778,7 +8778,7 @@ namespace VRisingBephinex.config
 					case 1:
 						o2enj9CStt = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8809,7 +8809,7 @@ namespace VRisingBephinex.config
 					case 1:
 						l4ZndGu5IL = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 0;
 						}
@@ -8844,7 +8844,7 @@ namespace VRisingBephinex.config
 					case 1:
 						SX2n8FecJP = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8875,7 +8875,7 @@ namespace VRisingBephinex.config
 					case 1:
 						wN3nA8hesY = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8910,7 +8910,7 @@ namespace VRisingBephinex.config
 					case 1:
 						mVKnmBDl9L = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 == 0)
+						if (258562808 == 0)
 						{
 							num2 = 0;
 						}
@@ -8941,7 +8941,7 @@ namespace VRisingBephinex.config
 					case 1:
 						o9KnJxF9ex = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -8974,7 +8974,7 @@ namespace VRisingBephinex.config
 					case 1:
 						CRxnZL3cSd = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -9007,7 +9007,7 @@ namespace VRisingBephinex.config
 					case 1:
 						vObn1EKonl = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -9042,7 +9042,7 @@ namespace VRisingBephinex.config
 					case 1:
 						xhGnFnE5gL = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -9075,7 +9075,7 @@ namespace VRisingBephinex.config
 					case 1:
 						FLenxvm8i6 = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e != 0)
+						if (2021314568 != 0)
 						{
 							num2 = 0;
 						}
@@ -9108,7 +9108,7 @@ namespace VRisingBephinex.config
 					case 1:
 						XlInKeGdLC = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+						if (747172065 == 0)
 						{
 							num2 = 0;
 						}
@@ -9141,7 +9141,7 @@ namespace VRisingBephinex.config
 					case 1:
 						unZnUlONuF = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -9172,7 +9172,7 @@ namespace VRisingBephinex.config
 					case 1:
 						rhenXqB2qX = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 == 0)
+						if (497891482 == 0)
 						{
 							num2 = 0;
 						}
@@ -9207,7 +9207,7 @@ public ConfigEntry<byte> DefenceKey
                     num2 = 0;
                     if (<Module>{345811dc-be8b-4780-b818-4a956593b791}
                         .m_32fa63a2f47c40cabe232e2a88d38b1e
-                        .m_9b730cdd3ce842bdb00445b50c718645 != 0)
+                        .0 != 0)
                     {
                         num2 = 0;
                     }
@@ -9246,7 +9246,7 @@ public Color ParsedAimTargetColor
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 1;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+			if (1976142266 != 0)
 			{
 				num = 1;
 			}
@@ -9259,7 +9259,7 @@ public Color ParsedAimTargetColor
 				case 2:
 					Instance = this;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+					if (1976142266 != 0)
 					{
 						num = 0;
 					}
@@ -9267,7 +9267,7 @@ public Color ParsedAimTargetColor
 				case 1:
 					ohsq1cD12 = plugin;
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 != 0)
+					if (0 != 0)
 					{
 						num = 1;
 					}
@@ -9291,7 +9291,7 @@ public Color ParsedAimTargetColor
 					case 7:
 						ESPPlayersSkills = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Players", "Show Skills", false, "Show skills");
 						num2 = 43;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 == 0)
+						if (519538535 == 0)
 						{
 							num2 = 6;
 						}
@@ -9299,7 +9299,7 @@ public Color ParsedAimTargetColor
 					case 26:
 						ESPOresIron = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Ores", "Iron", false, "Show iron");
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_de3435dfc76e4ffa99adc8d2fb3637a6 != 0)
+						if (1890823438 != 0)
 						{
 							num2 = 58;
 						}
@@ -9311,7 +9311,7 @@ public Color ParsedAimTargetColor
 					case 43:
 						ESPOresQuartz = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Ores", "Quartz", false, "Show quartz");
 						num2 = 51;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b != 0)
+						if (0 != 0)
 						{
 							num2 = 39;
 						}
@@ -9331,7 +9331,7 @@ public Color ParsedAimTargetColor
 					case 55:
 						ESPPlayersEnabled = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Players", "Enabled", false, "Enable ESP for players");
 						num2 = 38;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3885075afee4c11910086ee4190b88e != 0)
+						if (1414824122 != 0)
 						{
 							num2 = 39;
 						}
@@ -9343,7 +9343,7 @@ public Color ParsedAimTargetColor
 					case 16:
 						ESPContainerResourceDrop = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Containers", "Resource Drop", false, "Show resource drops");
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea != 0)
+						if (0 != 0)
 						{
 							num2 = 13;
 						}
@@ -9363,7 +9363,7 @@ public Color ParsedAimTargetColor
 					case 46:
 						ESPHorseEnabled = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Horses", "Enabled", false, "Enable ESP for horses");
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -9383,7 +9383,7 @@ public Color ParsedAimTargetColor
 					case 14:
 						ESPPlantsCotton = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Plants", "Cotton", false, "Show Cotton");
 						num2 = 22;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c != 0)
+						if (1126510863 != 0)
 						{
 							num2 = 44;
 						}
@@ -9399,7 +9399,7 @@ public Color ParsedAimTargetColor
 					case 34:
 						ESPPlantsBloodRose = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Plants", "Blood Rose", false, "Show Blood Rose");
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -9407,7 +9407,7 @@ public Color ParsedAimTargetColor
 					case 20:
 						AimbotMaxDistance = ((BasePlugin)ohsq1cD12).Config.Bind<float>("Aimbot", "Max Distance", 100f, "Maximum distance to aim at");
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -9427,7 +9427,7 @@ public Color ParsedAimTargetColor
 					case 10:
 						AimbotNPC = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("Aimbot", "NPC", false, "Enable aimbot for NPC");
 						num2 = 20;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe == 0)
+						if (2093262890 == 0)
 						{
 							num2 = 14;
 						}
@@ -9443,17 +9443,17 @@ public Color ParsedAimTargetColor
 					case 8:
 						ESPPlayersShowClan = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Players", "Show Clan", false, "Show clan");
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 != 0)
+						if (1531368356 != 0)
 						{
 							num2 = 11;
 						}
 						continue;
 case 47:
     DefenceKey = ((BasePlugin)ohsq1cD12).Config.Bind<byte>(
-        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x14C5F672 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_f5f000d1cbb74e2e8e93882d6286d866),
-        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(--1667516701 ^ 0x9851CC8 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_08081740334244a88e6dd1092edef3be),
+        "Defence",
+        "Key",
         (byte)67,
-        jiUnG6yLcp99YsGsEb2.xDx43IEi2K(0x1B778035 ^ <Module>{345811dc-be8b-4780-b818-4a956593b791}.m_b941b1f63b364bd5bc1e32c91241667e)
+        "Key to activate defence"
     );
     num2 = 12;
     continue;
@@ -9493,7 +9493,7 @@ case 1:
 					case 52:
 						AimbotLockOnTarget = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("Aimbot", "Lock On Target", false, "Lock on target when aiming");
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 != 0)
+						if (171921593 != 0)
 						{
 							num2 = 40;
 						}
@@ -9511,7 +9511,7 @@ case 1:
 					case 28:
 						AimbotToggleHolding = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("Aimbot", "Toggle Holding", false, "Hold the toggle key to aim");
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c != 0)
+						if (1126510863 != 0)
 						{
 							num2 = 32;
 						}
@@ -9519,7 +9519,7 @@ case 1:
 					case 51:
 						ESPOresCopper = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Ores", "Copper", false, "Show copper");
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac == 0)
+						if (0 == 0)
 						{
 							num2 = 26;
 						}
@@ -9547,7 +9547,7 @@ case 1:
 					case 38:
 						ESPContainerDeathContainer = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Containers", "Death Container", false, "Show death containers");
 						num2 = 48;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 == 0)
+						if (497891482 == 0)
 						{
 							num2 = 24;
 						}
@@ -9555,7 +9555,7 @@ case 1:
 					case 21:
 						DefenceCheckOnMeleeAttack = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("Defence", "Check On Melee Attack", false, "Enable defence against melee attacks");
 						num2 = 25;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 != 0)
+						if (133732588 != 0)
 						{
 							num2 = 27;
 						}
@@ -9571,7 +9571,7 @@ case 1:
 					case 11:
 						ESPPlayersShowHealth = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Players", "Show Health", false, "Show health");
 						num2 = 32;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+						if (0 == 0)
 						{
 							num2 = 54;
 						}
@@ -9579,7 +9579,7 @@ case 1:
 					case 22:
 						AimbotCheckEnemyCounter = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("Aimbot", "Check Enemy Counter", false, "Check enemy counter before aiming");
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+						if (0 == 0)
 						{
 							num2 = 52;
 						}
@@ -9595,7 +9595,7 @@ case 1:
 					case 4:
 						ESPPlantsFireBlossom = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Plants", "Fire Blossom", false, "Show Fire Blossom");
 						num2 = 18;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f != 0)
+						if (0 != 0)
 						{
 							num2 = 13;
 						}
@@ -9607,7 +9607,7 @@ case 1:
 					case 15:
 						DefenceMeleeAttackAngle = ((BasePlugin)ohsq1cD12).Config.Bind<float>("Defence", "Melee Attack Angle", 180f, "Angle for melee attacks");
 						num2 = 47;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 != 0)
+						if (0 != 0)
 						{
 							num2 = 29;
 						}
@@ -9619,7 +9619,7 @@ case 1:
 					case 58:
 						ESPOresSulfur = ((BasePlugin)ohsq1cD12).Config.Bind<bool>("ESP Ores", "Sulfur", false, "Show sulfur");
 						num2 = 33;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_de3435dfc76e4ffa99adc8d2fb3637a6 == 0)
+						if (1890823438 == 0)
 						{
 							num2 = 7;
 						}
@@ -9693,7 +9693,7 @@ namespace VRisingBephinex.Components
 						if (No9nPRKfuW)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+							if (2035096834 == 0)
 							{
 								num2 = 0;
 							}
@@ -9732,7 +9732,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					ModConfig.Instance.FOVToggleKey.Value = P_0;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -9756,7 +9756,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -9782,7 +9782,7 @@ namespace VRisingBephinex.Components
 					case 3:
 						ESPContainer.Collect();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -9790,7 +9790,7 @@ namespace VRisingBephinex.Components
 					case 2:
 						ESPPlayers.Collect();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -9804,7 +9804,7 @@ namespace VRisingBephinex.Components
 					default:
 						ESPOres.Collect();
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -9820,7 +9820,7 @@ namespace VRisingBephinex.Components
 					case 4:
 						ESPCarriage.Collect();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 8;
 						}
@@ -9865,7 +9865,7 @@ namespace VRisingBephinex.Components
 					case 7:
 						flag = Camera.main.fieldOfView != GLKnsrya2w;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 0;
 						}
@@ -9888,7 +9888,7 @@ namespace VRisingBephinex.Components
 					case 5:
 						keyDown = Input.GetKeyDown(ds7nqaA4NK());
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+						if (2035096834 == 0)
 						{
 							num2 = 10;
 						}
@@ -9897,7 +9897,7 @@ namespace VRisingBephinex.Components
 						if (!keyDown)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd != 0)
+							if (1663994158 != 0)
 							{
 								num2 = 1;
 							}
@@ -9907,7 +9907,7 @@ namespace VRisingBephinex.Components
 					case 16:
 						Camera.main.fieldOfView = FieldOfView;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -9916,7 +9916,7 @@ namespace VRisingBephinex.Components
 						if (no9nPRKfuW)
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 == 0)
+							if (0 == 0)
 							{
 								num2 = 7;
 							}
@@ -9933,7 +9933,7 @@ namespace VRisingBephinex.Components
 					case 15:
 						Camera.main.fieldOfView = GLKnsrya2w;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc != 0)
+						if (1814018247 != 0)
 						{
 							num2 = 8;
 						}
@@ -9944,7 +9944,7 @@ namespace VRisingBephinex.Components
 							return;
 						}
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_519c5e460d954eda92fea767bf3dca81 != 0)
+						if (1032184707 != 0)
 						{
 							num2 = 15;
 						}
@@ -9954,7 +9954,7 @@ namespace VRisingBephinex.Components
 					}
 					No9nPRKfuW = !No9nPRKfuW;
 					num2 = 7;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+					if (0 == 0)
 					{
 						num2 = 9;
 					}
@@ -9981,7 +9981,7 @@ namespace VRisingBephinex.Components
 					case 6:
 						ESPOres.Show();
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_de3435dfc76e4ffa99adc8d2fb3637a6 == 0)
+						if (1890823438 == 0)
 						{
 							num2 = 2;
 						}
@@ -9993,7 +9993,7 @@ namespace VRisingBephinex.Components
 					case 5:
 						flag = Ri6nkwIAFU.Count > 0;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -10001,7 +10001,7 @@ namespace VRisingBephinex.Components
 					case 11:
 						ESPPlayers.Show();
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 6;
 						}
@@ -10010,7 +10010,7 @@ namespace VRisingBephinex.Components
 						if (flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+							if (0 == 0)
 							{
 								num2 = 1;
 							}
@@ -10020,7 +10020,7 @@ namespace VRisingBephinex.Components
 					case 10:
 						ESPHorses.Show();
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -10030,7 +10030,7 @@ namespace VRisingBephinex.Components
 					case 7:
 						ESPCarriage.Show();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5b2372ac427a453c84aa7abd437aa1d1 == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
@@ -10038,7 +10038,7 @@ namespace VRisingBephinex.Components
 					case 3:
 						ESPBlood.Show();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e == 0)
+						if (121889664 == 0)
 						{
 							num2 = 0;
 						}
@@ -10046,7 +10046,7 @@ namespace VRisingBephinex.Components
 					default:
 						ESPContainer.Show();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 == 0)
+						if (0 == 0)
 						{
 							num2 = 6;
 						}
@@ -10054,7 +10054,7 @@ namespace VRisingBephinex.Components
 					case 1:
 						DrawAll();
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -10114,7 +10114,7 @@ namespace VRisingBephinex.Components
 					case 1:
 						val = Camera.main.WorldToScreenPoint(P_0);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 != 0)
+						if (2048817382 != 0)
 						{
 							num2 = 0;
 						}
@@ -10134,7 +10134,7 @@ namespace VRisingBephinex.Components
 						if (flag3)
 						{
 							num2 = 15;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+							if (1814018247 == 0)
 							{
 								num2 = 13;
 							}
@@ -10149,7 +10149,7 @@ namespace VRisingBephinex.Components
 					default:
 						num4 = Vector3.Distance(P_0, Vector3.zero);
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 9;
 						}
@@ -10171,7 +10171,7 @@ namespace VRisingBephinex.Components
 					case 17:
 						flag = num3 <= 13;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -10186,7 +10186,7 @@ namespace VRisingBephinex.Components
 					case 18:
 						num3 = 30 - (int)(num4 * 0.08f);
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -10209,7 +10209,7 @@ namespace VRisingBephinex.Components
 					case 19:
 						num3 = 13;
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+						if (460822775 == 0)
 						{
 							num2 = 0;
 						}
@@ -10218,7 +10218,7 @@ namespace VRisingBephinex.Components
 						if (!(val.x < 0f))
 						{
 							num2 = 8;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+							if (0 != 0)
 							{
 								num2 = 7;
 							}
@@ -10228,7 +10228,7 @@ namespace VRisingBephinex.Components
 					case 13:
 						GUI.Label(new Rect(val.x - val2.x / 2f, (float)Screen.height - val.y, val2.x, val2.y), P_1, val3);
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb != 0)
+						if (247204215 != 0)
 						{
 							num2 = 21;
 						}
@@ -10236,7 +10236,7 @@ namespace VRisingBephinex.Components
 					case 10:
 						num3 = 20;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -10309,7 +10309,7 @@ namespace VRisingBephinex.Components
 					if (flag2)
 					{
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -10319,7 +10319,7 @@ namespace VRisingBephinex.Components
 				case 3:
 					val = ((EntityQuery)(ref val3)).ToEntityArray(AllocatorHandle.op_Implicit((Allocator)2));
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+					if (468683115 == 0)
 					{
 						num2 = 2;
 					}
@@ -10327,7 +10327,7 @@ namespace VRisingBephinex.Components
 				case 13:
 					Ri6nkwIAFU.Add(current);
 					num2 = 14;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d != 0)
+					if (0 != 0)
 					{
 						num2 = 9;
 					}
@@ -10339,7 +10339,7 @@ namespace VRisingBephinex.Components
 				case 15:
 					position = ((LocalToWorld)(ref componentData)).Position;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+					if (742265667 != 0)
 					{
 						num2 = 0;
 					}
@@ -10351,7 +10351,7 @@ namespace VRisingBephinex.Components
 				default:
 					flag = Yflna7Pqa9(float3.op_Implicit(position));
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -10366,7 +10366,7 @@ namespace VRisingBephinex.Components
 					if (!enumerator.MoveNext())
 					{
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+						if (0 == 0)
 						{
 							num2 = 11;
 						}
@@ -10376,7 +10376,7 @@ namespace VRisingBephinex.Components
 				case 12:
 					componentData = ((EntityManager)(ref entityManager)).GetComponentData<LocalToWorld>(current);
 					num2 = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+					if (0 == 0)
 					{
 						num2 = 15;
 					}
@@ -10465,7 +10465,7 @@ namespace VRisingBephinex.Components
 							if (!enumerator.MoveNext())
 							{
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+								if (0 == 0)
 								{
 									num3 = 1;
 								}
@@ -10489,7 +10489,7 @@ namespace VRisingBephinex.Components
 									if (!flag2)
 									{
 										num3 = 2;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+										if (0 == 0)
 										{
 											num3 = 2;
 										}
@@ -10500,7 +10500,7 @@ namespace VRisingBephinex.Components
 								case 12:
 									componentData = ((EntityManager)(ref entityManager)).GetComponentData<PrefabGUID>(current);
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+									if (0 == 0)
 									{
 										num3 = 0;
 									}
@@ -10527,7 +10527,7 @@ namespace VRisingBephinex.Components
 								default:
 									text = iBBnDPFmHu(componentData);
 									num3 = 6;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 != 0)
+									if (0 != 0)
 									{
 										num3 = 5;
 									}
@@ -10544,7 +10544,7 @@ namespace VRisingBephinex.Components
 									if (!flag)
 									{
 										num3 = 11;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be != 0)
+										if (1793150317 != 0)
 										{
 											num3 = 15;
 										}
@@ -10564,7 +10564,7 @@ namespace VRisingBephinex.Components
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num5 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 == 0)
+						if (55114885 == 0)
 						{
 							num5 = 0;
 						}
@@ -10579,7 +10579,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					enumerator = Ri6nkwIAFU.GetEnumerator();
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 == 0)
+					if (1185518701 == 0)
 					{
 						num2 = 1;
 					}
@@ -10615,7 +10615,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					forward = ((Component)main).transform.forward;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff == 0)
+					if (577280904 == 0)
 					{
 						num2 = 1;
 					}
@@ -10625,7 +10625,7 @@ namespace VRisingBephinex.Components
 				case 5:
 					result = Vector3.Dot(forward, val) < 0f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3885075afee4c11910086ee4190b88e != 0)
+					if (1414824122 != 0)
 					{
 						num2 = 4;
 					}
@@ -10633,7 +10633,7 @@ namespace VRisingBephinex.Components
 				case 3:
 					main = Camera.main;
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 != 0)
+					if (519538535 != 0)
 					{
 						num2 = 2;
 					}
@@ -10670,7 +10670,7 @@ namespace VRisingBephinex.Components
 					case 2:
 						guidToEntityMap = PrefabCollectionSystem._PrefabLookupMap.GuidToEntityMap;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -10685,7 +10685,7 @@ namespace VRisingBephinex.Components
 						if (guidToEntityMap.ContainsKey(P_0))
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -10721,7 +10721,7 @@ namespace VRisingBephinex.Components
 			Ri6nkwIAFU = new List<Entity>();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+			if (1976142266 != 0)
 			{
 				num = 0;
 			}
@@ -10779,7 +10779,7 @@ namespace VRisingBephinex.Components
 				case 3:
 					CollectPrefabs();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -10787,7 +10787,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					hLfOggXEA0 = new MainMenu();
 					num2 = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+					if (962215133 == 0)
 					{
 						num2 = 0;
 					}
@@ -10795,7 +10795,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					Instance = this;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb == 0)
+					if (171252512 == 0)
 					{
 						num2 = 1;
 					}
@@ -10840,7 +10840,7 @@ namespace VRisingBephinex.Components
 					if (flag3)
 					{
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+						if (1814018247 == 0)
 						{
 							num2 = 10;
 						}
@@ -10871,7 +10871,7 @@ namespace VRisingBephinex.Components
 					if (keyDown2)
 					{
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -10881,7 +10881,7 @@ namespace VRisingBephinex.Components
 				case 13:
 					Application.Quit();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -10896,7 +10896,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					flag3 = !Active;
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+					if (0 == 0)
 					{
 						num2 = 11;
 					}
@@ -10908,7 +10908,7 @@ namespace VRisingBephinex.Components
 				case 9:
 					iXAnTvxrLB();
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+					if (0 == 0)
 					{
 						num2 = 8;
 					}
@@ -10930,7 +10930,7 @@ namespace VRisingBephinex.Components
 				case 12:
 					SendUserInputSystemPatch.Test++;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 == 0)
+					if (55114885 == 0)
 					{
 						num2 = 1;
 					}
@@ -10987,7 +10987,7 @@ namespace VRisingBephinex.Components
 					case 7:
 						Pf0OOcp6bh = 0f;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04ad6d5d407541869e49f32bd8f952e2 == 0)
+						if (1835701918 == 0)
 						{
 							num2 = 5;
 						}
@@ -10995,7 +10995,7 @@ namespace VRisingBephinex.Components
 					default:
 						((BasePlugin)Plugin.WjsiYZ2El()).AddComponent<TweaksComponent>();
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 == 0)
+						if (0 == 0)
 						{
 							num2 = 18;
 						}
@@ -11012,7 +11012,7 @@ namespace VRisingBephinex.Components
 					case 2:
 						((BasePlugin)Plugin.WjsiYZ2El()).AddComponent<PlayersManager>();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -11028,7 +11028,7 @@ namespace VRisingBephinex.Components
 					case 4:
 						Plugin.LogInfo("PVPExtention is initialized!");
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+						if (2035096834 == 0)
 						{
 							num2 = 4;
 						}
@@ -11036,7 +11036,7 @@ namespace VRisingBephinex.Components
 					case 8:
 						((BasePlugin)Plugin.WjsiYZ2El()).AddComponent<ESPComponent>();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -11048,7 +11048,7 @@ namespace VRisingBephinex.Components
 					case 5:
 						isReady = VWorld.IsReady;
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 == 0)
+						if (55114885 == 0)
 						{
 							num2 = 8;
 						}
@@ -11092,7 +11092,7 @@ namespace VRisingBephinex.Components
 					default:
 						flag = !zy0nz1JBKg;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+						if (1433983997 != 0)
 						{
 							num2 = 3;
 						}
@@ -11103,7 +11103,7 @@ namespace VRisingBephinex.Components
 							return;
 						}
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -11112,7 +11112,7 @@ namespace VRisingBephinex.Components
 						if (flag)
 						{
 							num2 = 8;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+							if (747172065 == 0)
 							{
 								num2 = 7;
 							}
@@ -11126,7 +11126,7 @@ namespace VRisingBephinex.Components
 					if (mainMenu == null)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -11134,7 +11134,7 @@ namespace VRisingBephinex.Components
 					}
 					mainMenu.Draw();
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 == 0)
+					if (1185518701 == 0)
 					{
 						num2 = 1;
 					}
@@ -11162,7 +11162,7 @@ namespace VRisingBephinex.Components
 					{
 					case 2:
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+						if (444950165 == 0)
 						{
 							num2 = 1;
 						}
@@ -11172,7 +11172,7 @@ namespace VRisingBephinex.Components
 						{
 							IsEnablid = SearchEntities();
 							int num3 = 5;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+							if (10932459 == 0)
 							{
 								num3 = 5;
 							}
@@ -11185,7 +11185,7 @@ namespace VRisingBephinex.Components
 								case 4:
 									isSuccessStatusCode = result.IsSuccessStatusCode;
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 != 0)
+									if (317387702 != 0)
 									{
 										num3 = 1;
 									}
@@ -11195,7 +11195,7 @@ namespace VRisingBephinex.Components
 								case 8:
 									httpClient2 = new HttpClient();
 									num3 = 3;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef != 0)
+									if (0 != 0)
 									{
 										num3 = 1;
 									}
@@ -11241,7 +11241,7 @@ namespace VRisingBephinex.Components
 						catch (Exception)
 						{
 							int num4 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be == 0)
+							if (1793150317 == 0)
 							{
 								num4 = 0;
 							}
@@ -11252,7 +11252,7 @@ namespace VRisingBephinex.Components
 								case 1:
 									Application.Quit();
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+									if (11098130 == 0)
 									{
 										num4 = 0;
 									}
@@ -11294,7 +11294,7 @@ namespace VRisingBephinex.Components
 					}
 					result = File.ReadAllText(text).Trim();
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f != 0)
+					if (0 != 0)
 					{
 						num2 = 4;
 					}
@@ -11302,7 +11302,7 @@ namespace VRisingBephinex.Components
 				case 6:
 					flag = !File.Exists(text);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -11336,7 +11336,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					sHA = SHA256.Create();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -11348,7 +11348,7 @@ namespace VRisingBephinex.Components
 					{
 						byte[] inArray = sHA.ComputeHash(Encoding.UTF8.GetBytes(hwid));
 						int num3 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 != 0)
+						if (0 != 0)
 						{
 							num3 = 0;
 						}
@@ -11359,7 +11359,7 @@ namespace VRisingBephinex.Components
 							case 1:
 								result = Convert.ToHexString(inArray);
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 != 0)
+								if (0 != 0)
 								{
 									num3 = 0;
 								}
@@ -11382,7 +11382,7 @@ namespace VRisingBephinex.Components
 						IL_00f4:
 						((IDisposable)sHA).Dispose();
 						num4 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 != 0)
+						if (854369382 != 0)
 						{
 							num4 = 1;
 						}
@@ -11424,7 +11424,7 @@ namespace VRisingBephinex.Components
 					case 5:
 						defaultInterpolatedStringHandler.AppendFormatted(SystemInfo.deviceUniqueIdentifier);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -11445,7 +11445,7 @@ namespace VRisingBephinex.Components
 					case 7:
 						defaultInterpolatedStringHandler.AppendLiteral("-");
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be != 0)
+						if (1793150317 != 0)
 						{
 							num2 = 0;
 						}
@@ -11473,7 +11473,7 @@ namespace VRisingBephinex.Components
 			JmSO3sZRNW = false;
 			((MonoBehaviour)this)..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+			if (10932459 == 0)
 			{
 				num = 0;
 			}
@@ -11519,7 +11519,7 @@ namespace VRisingBephinex.Components
 				default:
 					checkTimer = 0f;
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 != 0)
+					if (348513258 != 0)
 					{
 						num2 = 7;
 					}
@@ -11528,7 +11528,7 @@ namespace VRisingBephinex.Components
 					if (checkInterval != 0f)
 					{
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+						if (0 == 0)
 						{
 							num2 = 4;
 						}
@@ -11539,7 +11539,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					checkTimer += Time.deltaTime;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -11548,7 +11548,7 @@ namespace VRisingBephinex.Components
 					if (!flag)
 					{
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 != 0)
+						if (0 != 0)
 						{
 							num2 = 6;
 						}
@@ -11592,7 +11592,7 @@ namespace VRisingBephinex.Components
 			checkTimer = 0f;
 			((MonoBehaviour)this)..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+			if (747172065 == 0)
 			{
 				num = 0;
 			}
@@ -11640,7 +11640,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -11669,7 +11669,7 @@ namespace VRisingBephinex.Components
 					case 3:
 						flag = Object.op_Implicit((Object)(object)val);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -11677,7 +11677,7 @@ namespace VRisingBephinex.Components
 					case 2:
 						val.transform.position = new Vector3(99999f, 99999f, 1f);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -11686,7 +11686,7 @@ namespace VRisingBephinex.Components
 						if (flag)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+							if (444950165 == 0)
 							{
 								num2 = 0;
 							}
@@ -11718,7 +11718,7 @@ namespace VRisingBephinex.Components
 				case 3:
 					flag = Object.op_Implicit((Object)(object)val);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -11727,7 +11727,7 @@ namespace VRisingBephinex.Components
 					if (flag)
 					{
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 == 0)
+						if (2048817382 == 0)
 						{
 							num2 = 1;
 						}
@@ -11737,7 +11737,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					val.SetActive(true);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+					if (962215133 == 0)
 					{
 						num2 = 0;
 					}
@@ -11765,7 +11765,7 @@ namespace VRisingBephinex.Components
 				default:
 					val.SetActive(!val.activeSelf);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -11774,7 +11774,7 @@ namespace VRisingBephinex.Components
 					if (flag)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -11786,7 +11786,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					flag = Object.op_Implicit((Object)(object)val);
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 == 0)
+					if (2048817382 == 0)
 					{
 						num2 = 2;
 					}
@@ -11805,7 +11805,7 @@ namespace VRisingBephinex.Components
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff != 0)
+			if (577280904 != 0)
 			{
 				num = 0;
 			}
@@ -11829,7 +11829,7 @@ namespace VRisingBephinex.Components
 				case 2:
 					PCBOyUEaOs = "SceneLightingGameObjects/VolumeLayer1";
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 == 0)
+					if (1185518701 == 0)
 					{
 						num2 = 1;
 					}
@@ -11847,7 +11847,7 @@ namespace VRisingBephinex.Components
 				case 1:
 					xVeO4s8Jlv = "FullscreenEffects";
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -11914,7 +11914,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotEnabled.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -11945,7 +11945,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotPlayers.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -11976,7 +11976,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotNPC.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+						if (11098130 == 0)
 						{
 							num2 = 0;
 						}
@@ -12009,7 +12009,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotMaxDistance.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+						if (55114885 != 0)
 						{
 							num2 = 0;
 						}
@@ -12038,7 +12038,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotSortByHP.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 != 0)
+						if (2048817382 != 0)
 						{
 							num2 = 0;
 						}
@@ -12071,7 +12071,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotToggleHolding.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -12102,7 +12102,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotToggleKey.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 != 0)
+						if (1187184005 != 0)
 						{
 							num2 = 0;
 						}
@@ -12135,7 +12135,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotCheckEnemyCounter.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 0;
 						}
@@ -12166,7 +12166,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotLockOnTarget.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+						if (374085082 != 0)
 						{
 							num2 = 0;
 						}
@@ -12195,7 +12195,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotDisableInputOnEnemyCounter.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+						if (742265667 != 0)
 						{
 							num2 = 0;
 						}
@@ -12228,7 +12228,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotCursor.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 == 0)
+						if (348513258 == 0)
 						{
 							num2 = 0;
 						}
@@ -12259,7 +12259,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotCheckEnemyCounterMoveCursor.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -12288,7 +12288,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.AimbotCheckEnemyCounterCancelAttack.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 == 0)
+						if (1185518701 == 0)
 						{
 							num2 = 0;
 						}
@@ -12313,7 +12313,7 @@ namespace VRisingBephinex.components
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 == 0)
+					if (2048817382 == 0)
 					{
 						num2 = 0;
 					}
@@ -12394,7 +12394,7 @@ namespace VRisingBephinex.components
 						if (flag3)
 						{
 							num2 = 45;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e == 0)
+							if (121889664 == 0)
 							{
 								num2 = 7;
 							}
@@ -12405,7 +12405,7 @@ namespace VRisingBephinex.components
 					case 8:
 						keyDown = Input.GetKeyDown(AimbotToggleKey);
 						num2 = 26;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 19;
 						}
@@ -12413,7 +12413,7 @@ namespace VRisingBephinex.components
 					case 43:
 						TargetEntity.AimTarget = true;
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 == 0)
+						if (0 == 0)
 						{
 							num2 = 17;
 						}
@@ -12421,7 +12421,7 @@ namespace VRisingBephinex.components
 					case 37:
 						flag = TargetEntity == null;
 						num2 = 15;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+						if (0 == 0)
 						{
 							num2 = 28;
 						}
@@ -12442,7 +12442,7 @@ namespace VRisingBephinex.components
 					case 20:
 						flag3 = AbilityCastingTime <= 0f;
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 4;
 						}
@@ -12468,7 +12468,7 @@ namespace VRisingBephinex.components
 						if (!flag5)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 == 0)
+							if (1185518701 == 0)
 							{
 								num2 = 1;
 							}
@@ -12478,7 +12478,7 @@ namespace VRisingBephinex.components
 					case 7:
 						Application.Quit();
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 != 0)
+						if (1668386183 != 0)
 						{
 							num2 = 33;
 						}
@@ -12487,7 +12487,7 @@ namespace VRisingBephinex.components
 						if (aimbotToggleHolding)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac == 0)
+							if (0 == 0)
 							{
 								num2 = 5;
 							}
@@ -12498,7 +12498,7 @@ namespace VRisingBephinex.components
 						if (Input.GetKey(AimbotToggleKey))
 						{
 							num2 = 23;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+							if (317387702 == 0)
 							{
 								num2 = 22;
 							}
@@ -12534,7 +12534,7 @@ namespace VRisingBephinex.components
 					case 5:
 						bPgOpSfhJ0 = false;
 						num2 = 24;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+						if (444950165 == 0)
 						{
 							num2 = 7;
 						}
@@ -12548,7 +12548,7 @@ namespace VRisingBephinex.components
 					case 12:
 						aimbotToggleHolding = AimbotToggleHolding;
 						num2 = 27;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 != 0)
+						if (0 != 0)
 						{
 							num2 = 8;
 						}
@@ -12556,7 +12556,7 @@ namespace VRisingBephinex.components
 					case 17:
 						newCursorPosition = GetNewCursorPosition(TargetEntity);
 						num2 = 34;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a48688a69764619b6a58896a1967edc != 0)
+						if (0 != 0)
 						{
 							num2 = 33;
 						}
@@ -12599,7 +12599,7 @@ namespace VRisingBephinex.components
 						if (!flag2)
 						{
 							num2 = 31;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+							if (11098130 == 0)
 							{
 								num2 = 31;
 							}
@@ -12610,7 +12610,7 @@ namespace VRisingBephinex.components
 						if (flag)
 						{
 							num2 = 44;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c == 0)
+							if (818312125 == 0)
 							{
 								num2 = 15;
 							}
@@ -12625,7 +12625,7 @@ namespace VRisingBephinex.components
 						IL_064d:
 						flag7 = (byte)num3 != 0;
 						num2 = 37;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e != 0)
+						if (2021314568 != 0)
 						{
 							num2 = 40;
 						}
@@ -12633,7 +12633,7 @@ namespace VRisingBephinex.components
 						IL_062b:
 						flag4 = (byte)num4 != 0;
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+						if (0 == 0)
 						{
 							num2 = 16;
 						}
@@ -12664,7 +12664,7 @@ namespace VRisingBephinex.components
 						if (nPC)
 						{
 							num2 = 5;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+							if (1268266038 == 0)
 							{
 								num2 = 3;
 							}
@@ -12680,7 +12680,7 @@ namespace VRisingBephinex.components
 					case 1:
 						RC3OifEqjp.Clear();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -12688,7 +12688,7 @@ namespace VRisingBephinex.components
 					default:
 						nPC = NPC;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 != 0)
+						if (1486210346 != 0)
 						{
 							num2 = 2;
 						}
@@ -12776,7 +12776,7 @@ namespace VRisingBephinex.components
 					case 13:
 						a70O7Dykon = 0f;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -12791,7 +12791,7 @@ namespace VRisingBephinex.components
 					case 14:
 						num11 = float.MaxValue;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -12810,7 +12810,7 @@ namespace VRisingBephinex.components
 					case 19:
 						result = null;
 						num2 = 46;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+						if (55114885 != 0)
 						{
 							num2 = 50;
 						}
@@ -12818,7 +12818,7 @@ namespace VRisingBephinex.components
 					case 6:
 						num13 = float.MaxValue;
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+						if (2035096834 == 0)
 						{
 							num2 = 2;
 						}
@@ -12827,7 +12827,7 @@ namespace VRisingBephinex.components
 						if (NPC)
 						{
 							num2 = 14;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d == 0)
+							if (0 == 0)
 							{
 								num2 = 15;
 							}
@@ -12842,7 +12842,7 @@ namespace VRisingBephinex.components
 						if (!flag3)
 						{
 							num2 = 5;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 != 0)
+							if (1185518701 != 0)
 							{
 								num2 = 32;
 							}
@@ -12871,7 +12871,7 @@ namespace VRisingBephinex.components
 					case 7:
 						num8 = float.MaxValue;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+						if (0 == 0)
 						{
 							num2 = 14;
 						}
@@ -12879,7 +12879,7 @@ namespace VRisingBephinex.components
 					case 1:
 						num12 = float.MaxValue;
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac == 0)
+						if (0 == 0)
 						{
 							num2 = 22;
 						}
@@ -12909,7 +12909,7 @@ namespace VRisingBephinex.components
 						if (entityWrapper2 != null)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff == 0)
+							if (577280904 == 0)
 							{
 								num2 = 1;
 							}
@@ -12924,7 +12924,7 @@ namespace VRisingBephinex.components
 					case 42:
 						lockOnTarget = LockOnTarget;
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+						if (0 == 0)
 						{
 							num2 = 10;
 						}
@@ -12943,7 +12943,7 @@ namespace VRisingBephinex.components
 						if (string.IsNullOrEmpty(RootComponent.Instance.IsEnablid))
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_10e459c23b4d4f6fa27610d3abab0cff == 0)
+							if (0 == 0)
 							{
 								num2 = 36;
 							}
@@ -12993,7 +12993,7 @@ namespace VRisingBephinex.components
 										if (flag14)
 										{
 											num5 = 5;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e250b4d538e44cbb8e7ef3c6a4be3745 == 0)
+											if (0 == 0)
 											{
 												num5 = 9;
 											}
@@ -13003,7 +13003,7 @@ namespace VRisingBephinex.components
 									case 40:
 										val = GetCursorWorldPositionAtHeight(current.Position.y);
 										num5 = 1;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 != 0)
+										if (0 != 0)
 										{
 											num5 = 1;
 										}
@@ -13013,7 +13013,7 @@ namespace VRisingBephinex.components
 									case 57:
 										entityWrapper2 = current;
 										num5 = 56;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 == 0)
+										if (497891482 == 0)
 										{
 											num5 = 22;
 										}
@@ -13039,7 +13039,7 @@ namespace VRisingBephinex.components
 									case 14:
 										flag15 = !SortByHP;
 										num5 = 10;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+										if (1433983997 == 0)
 										{
 											num5 = 0;
 										}
@@ -13054,7 +13054,7 @@ namespace VRisingBephinex.components
 									case 35:
 										flag16 = current.HP <= 0f;
 										num5 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 != 0)
+										if (1187184005 != 0)
 										{
 											num5 = 21;
 										}
@@ -13082,7 +13082,7 @@ namespace VRisingBephinex.components
 										if (!flag6)
 										{
 											num5 = 41;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 == 0)
+											if (374085082 == 0)
 											{
 												num5 = 12;
 											}
@@ -13101,7 +13101,7 @@ namespace VRisingBephinex.components
 									case 33:
 										num8 = num7;
 										num5 = 5;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+										if (2058589287 == 0)
 										{
 											num5 = 1;
 										}
@@ -13122,7 +13122,7 @@ namespace VRisingBephinex.components
 										if (!flag19)
 										{
 											num5 = 1;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 == 0)
+											if (0 == 0)
 											{
 												num5 = 29;
 											}
@@ -13132,7 +13132,7 @@ namespace VRisingBephinex.components
 									case 39:
 										num12 = current.HP;
 										num5 = 10;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+										if (0 == 0)
 										{
 											num5 = 30;
 										}
@@ -13142,7 +13142,7 @@ namespace VRisingBephinex.components
 									case 25:
 										flag18 = num7 < num13;
 										num5 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+										if (0 == 0)
 										{
 											num5 = 0;
 										}
@@ -13162,7 +13162,7 @@ namespace VRisingBephinex.components
 										if (flag10)
 										{
 											num5 = 1;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a == 0)
+											if (0 == 0)
 											{
 												num5 = 14;
 											}
@@ -13242,7 +13242,7 @@ namespace VRisingBephinex.components
 										if (flag12)
 										{
 											num5 = 4;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd != 0)
+											if (1663994158 != 0)
 											{
 												num5 = 15;
 											}
@@ -13253,7 +13253,7 @@ namespace VRisingBephinex.components
 									case 52:
 										flag11 = num7 < num8;
 										num5 = 11;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+										if (0 == 0)
 										{
 											num5 = 17;
 										}
@@ -13306,7 +13306,7 @@ namespace VRisingBephinex.components
 						{
 							((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 							int num14 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc != 0)
+							if (1814018247 != 0)
 							{
 								num14 = 0;
 							}
@@ -13320,7 +13320,7 @@ namespace VRisingBephinex.components
 					case 49:
 						flag5 = mainPlayer == null;
 						num2 = 38;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 != 0)
+						if (0 != 0)
 						{
 							num2 = 31;
 						}
@@ -13329,7 +13329,7 @@ namespace VRisingBephinex.components
 					case 33:
 						val = mainPlayer.Position;
 						num2 = 39;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 != 0)
+						if (0 != 0)
 						{
 							num2 = 37;
 						}
@@ -13343,7 +13343,7 @@ namespace VRisingBephinex.components
 					case 32:
 						enumerator = RC3OifEqjp.GetEnumerator();
 						num2 = 51;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a != 0)
+						if (0 != 0)
 						{
 							num2 = 9;
 						}
@@ -13362,7 +13362,7 @@ namespace VRisingBephinex.components
 					case 44:
 						a70O7Dykon += Time.deltaTime;
 						num2 = 43;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+						if (0 != 0)
 						{
 							num2 = 35;
 						}
@@ -13377,7 +13377,7 @@ namespace VRisingBephinex.components
 						if (flag)
 						{
 							num2 = 21;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 == 0)
+							if (1531368356 == 0)
 							{
 								num2 = 2;
 							}
@@ -13398,7 +13398,7 @@ namespace VRisingBephinex.components
 						IL_0e45:
 						flag = (byte)num3 != 0;
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe != 0)
+						if (2093262890 != 0)
 						{
 							num2 = 26;
 						}
@@ -13457,7 +13457,7 @@ namespace VRisingBephinex.components
 					case 5:
 						result = false;
 						num2 = 27;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+						if (1668386183 == 0)
 						{
 							num2 = 25;
 						}
@@ -13475,7 +13475,7 @@ namespace VRisingBephinex.components
 					case 32:
 						flag3 = TargetEntity.Entity == Entity.Null;
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a != 0)
+						if (962215133 != 0)
 						{
 							num2 = 21;
 						}
@@ -13487,7 +13487,7 @@ namespace VRisingBephinex.components
 					case 18:
 						result = false;
 						num2 = 25;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd == 0)
+						if (1663994158 == 0)
 						{
 							num2 = 0;
 						}
@@ -13503,7 +13503,7 @@ namespace VRisingBephinex.components
 					case 9:
 						result = true;
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -13538,7 +13538,7 @@ namespace VRisingBephinex.components
 					case 14:
 						mainPlayer = PlayersManager.Instance.MainPlayer;
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 == 0)
+						if (0 == 0)
 						{
 							num2 = 13;
 						}
@@ -13559,7 +13559,7 @@ namespace VRisingBephinex.components
 						if (!flag5)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e != 0)
+							if (0 != 0)
 							{
 								num2 = 1;
 							}
@@ -13593,7 +13593,7 @@ namespace VRisingBephinex.components
 					case 11:
 						flag2 = TargetEntity == null;
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 == 0)
+						if (258562808 == 0)
 						{
 							num2 = 6;
 						}
@@ -13631,7 +13631,7 @@ namespace VRisingBephinex.components
 					case 19:
 						playerWrapper = P_0 as PlayerWrapper;
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04ad6d5d407541869e49f32bd8f952e2 != 0)
+						if (1835701918 != 0)
 						{
 							num2 = 17;
 						}
@@ -13666,7 +13666,7 @@ namespace VRisingBephinex.components
 						if (flag3)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 != 0)
+							if (0 != 0)
 							{
 								num2 = 2;
 							}
@@ -13691,7 +13691,7 @@ namespace VRisingBephinex.components
 						if (!flag2)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+							if (1433983997 != 0)
 							{
 								num2 = 7;
 							}
@@ -13708,7 +13708,7 @@ namespace VRisingBephinex.components
 					case 1:
 						P_2 = false;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -13719,7 +13719,7 @@ namespace VRisingBephinex.components
 					}
 					flag3 = (byte)num3 != 0;
 					num2 = 8;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+					if (760317395 == 0)
 					{
 						num2 = 3;
 					}
@@ -13811,7 +13811,7 @@ namespace VRisingBephinex.components
 					case 18:
 						result = targetPos;
 						num2 = 15;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 == 0)
+						if (0 == 0)
 						{
 							num2 = 28;
 						}
@@ -13848,7 +13848,7 @@ namespace VRisingBephinex.components
 					case 13:
 						result = targetPos;
 						num2 = 24;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 != 0)
+						if (0 != 0)
 						{
 							num2 = 6;
 						}
@@ -13860,7 +13860,7 @@ namespace VRisingBephinex.components
 					case 2:
 						num5 = (0f - num10 + num11) / (2f * num8);
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb != 0)
+						if (247204215 != 0)
 						{
 							num2 = 5;
 						}
@@ -13869,7 +13869,7 @@ namespace VRisingBephinex.components
 						if (targetVelocity == Vector3.zero)
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -13888,7 +13888,7 @@ namespace VRisingBephinex.components
 					case 29:
 						num11 = Mathf.Sqrt(num9);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -13900,7 +13900,7 @@ namespace VRisingBephinex.components
 					case 15:
 						val = targetPos - playerPos;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_608e64efb5c34d059666e63ce14fd4ee == 0)
+						if (852228814 == 0)
 						{
 							num2 = 1;
 						}
@@ -13908,7 +13908,7 @@ namespace VRisingBephinex.components
 					case 5:
 						num4 = math.select(num5, num6, num6 > 0f);
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 == 0)
+						if (0 == 0)
 						{
 							num2 = 9;
 						}
@@ -13934,7 +13934,7 @@ namespace VRisingBephinex.components
 						IL_039c:
 						flag2 = (byte)num3 != 0;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae == 0)
+						if (1629830925 == 0)
 						{
 							num2 = 0;
 						}
@@ -13995,7 +13995,7 @@ namespace VRisingBephinex.components
 						if (aimbotCheckEnemyCounterCancelAttack)
 						{
 							num2 = 24;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be == 0)
+							if (1793150317 == 0)
 							{
 								num2 = 0;
 							}
@@ -14005,7 +14005,7 @@ namespace VRisingBephinex.components
 					case 23:
 						aimbotCheckEnemyCounterMoveCursor = AimbotCheckEnemyCounterMoveCursor;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 == 0)
+						if (1094201023 == 0)
 						{
 							num2 = 0;
 						}
@@ -14031,7 +14031,7 @@ namespace VRisingBephinex.components
 					case 16:
 						IsTargetBlocking = false;
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ce3bb5aff5fb4aa9bab0f01ae1b98b83 == 0)
+						if (696790966 == 0)
 						{
 							num2 = 2;
 						}
@@ -14039,7 +14039,7 @@ namespace VRisingBephinex.components
 					case 20:
 						aimbotCheckEnemyCounterCancelAttack = AimbotCheckEnemyCounterCancelAttack;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 != 0)
+						if (0 != 0)
 						{
 							num2 = 3;
 						}
@@ -14062,7 +14062,7 @@ namespace VRisingBephinex.components
 					case 17:
 						playerWrapper = target as PlayerWrapper;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+						if (1126510863 == 0)
 						{
 							num2 = 1;
 						}
@@ -14077,7 +14077,7 @@ namespace VRisingBephinex.components
 					case 4:
 						result = float3.op_Implicit(GetCursorBehindPlayerRelativeToEnemy(mainPlayer2.Position, target.Position, 1f));
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 13;
 						}
@@ -14124,7 +14124,7 @@ namespace VRisingBephinex.components
 					case 25:
 						isInDefence = playerWrapper.IsInDefence;
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e == 0)
+						if (0 == 0)
 						{
 							num2 = 6;
 						}
@@ -14132,7 +14132,7 @@ namespace VRisingBephinex.components
 					case 26:
 						InputSimulator.KeyboardPress(88);
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a == 0)
+						if (1518457776 == 0)
 						{
 							num2 = 1;
 						}
@@ -14166,7 +14166,7 @@ namespace VRisingBephinex.components
 						IL_03e0:
 						targetVelocity = float3.op_Implicit(val);
 						num2 = 22;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+						if (0 == 0)
 						{
 							num2 = 27;
 						}
@@ -14228,7 +14228,7 @@ namespace VRisingBephinex.components
 				case 7:
 					normalized = ((Vector3)(ref val4)).normalized;
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+					if (0 == 0)
 					{
 						num2 = 2;
 					}
@@ -14236,7 +14236,7 @@ namespace VRisingBephinex.components
 				case 4:
 					normalized2 = ((Vector3)(ref val4)).normalized;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 != 0)
+					if (497891482 != 0)
 					{
 						num2 = 0;
 					}
@@ -14251,7 +14251,7 @@ namespace VRisingBephinex.components
 				case 8:
 					val4 = targetPos - playerPos;
 					num2 = 7;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 == 0)
+					if (1094201023 == 0)
 					{
 						num2 = 3;
 					}
@@ -14259,7 +14259,7 @@ namespace VRisingBephinex.components
 				case 9:
 					val3 = playerPos + val * distance;
 					num2 = 10;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f != 0)
+					if (0 != 0)
 					{
 						num2 = 2;
 					}
@@ -14267,7 +14267,7 @@ namespace VRisingBephinex.components
 				case 10:
 					val4 = Vector3.Cross(Vector3.up, val);
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+					if (0 == 0)
 					{
 						num2 = 4;
 					}
@@ -14275,7 +14275,7 @@ namespace VRisingBephinex.components
 				case 5:
 					result = val3 + val2;
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac == 0)
+					if (1435650279 == 0)
 					{
 						num2 = 2;
 					}
@@ -14306,7 +14306,7 @@ namespace VRisingBephinex.components
 				case 1:
 					result = PlayersManager.Instance.MainPlayer != null;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -14336,7 +14336,7 @@ namespace VRisingBephinex.components
 				case 3:
 					val = Camera.main.ScreenToWorldPoint(val);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+					if (1668386183 == 0)
 					{
 						num2 = 0;
 					}
@@ -14382,7 +14382,7 @@ namespace VRisingBephinex.components
 				case 3:
 					flag = ((Plane)(ref val2)).Raycast(val, ref num3);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -14390,7 +14390,7 @@ namespace VRisingBephinex.components
 				case 2:
 					result = Vector3.zero;
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b == 0)
+					if (0 == 0)
 					{
 						num2 = 6;
 					}
@@ -14398,7 +14398,7 @@ namespace VRisingBephinex.components
 				default:
 					result = ((Ray)(ref val)).GetPoint(num3);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac == 0)
+					if (0 == 0)
 					{
 						num2 = 4;
 					}
@@ -14415,7 +14415,7 @@ namespace VRisingBephinex.components
 					if (flag)
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -14446,7 +14446,7 @@ namespace VRisingBephinex.components
 			IsTargetBlocking = false;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 != 0)
+			if (1268266038 != 0)
 			{
 				num = 0;
 			}
@@ -14490,7 +14490,7 @@ namespace VRisingBephinex.components
 				case 2:
 					Name = name;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 != 0)
+					if (0 != 0)
 					{
 						num = 0;
 					}
@@ -14500,7 +14500,7 @@ namespace VRisingBephinex.components
 				default:
 					Value = value;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -14521,7 +14521,7 @@ namespace VRisingBephinex.components
 				case 1:
 					name = Name;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -14565,7 +14565,7 @@ namespace VRisingBephinex.components
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+					if (317387702 == 0)
 					{
 						num2 = 0;
 					}
@@ -14700,7 +14700,7 @@ namespace VRisingBephinex.components
 					case 2:
 						manager = EntityManagerWrapper.Manager;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -14737,7 +14737,7 @@ namespace VRisingBephinex.components
 									case 4:
 										position5 = AimbotComponent.CalculateLeadDirection(playerPos, current4.Position, targetVelocity, AimbotComponent.Instance.ProjectileSpeed);
 										num7 = 7;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f == 0)
+										if (0 == 0)
 										{
 											num7 = 8;
 										}
@@ -14750,7 +14750,7 @@ namespace VRisingBephinex.components
 										if (flag4)
 										{
 											num7 = 0;
-											if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 == 0)
+											if (117793469 == 0)
 											{
 												num7 = 0;
 											}
@@ -14760,7 +14760,7 @@ namespace VRisingBephinex.components
 									case 8:
 										ESPDrawer.Draw(position5, "X", Color.green);
 										num7 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 == 0)
+										if (0 == 0)
 										{
 											num7 = 7;
 										}
@@ -14775,7 +14775,7 @@ namespace VRisingBephinex.components
 										defaultInterpolatedStringHandler.AppendLiteral(")");
 										ESPDrawer.Draw(position4, defaultInterpolatedStringHandler.ToStringAndClear(), Color.white, useGradiant: true);
 										num7 = 1;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+										if (1268266038 == 0)
 										{
 											num7 = 1;
 										}
@@ -14802,7 +14802,7 @@ namespace VRisingBephinex.components
 						{
 							((IDisposable)enumerator4/*cast due to .constrained prefix*/).Dispose();
 							int num8 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 == 0)
+							if (0 == 0)
 							{
 								num8 = 0;
 							}
@@ -14834,7 +14834,7 @@ namespace VRisingBephinex.components
 									case 1:
 										position2 = AimbotComponent.CalculateLeadDirection(playerPos, current3.Position, val5, AimbotComponent.Instance.ProjectileSpeed);
 										num4 = 4;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e250b4d538e44cbb8e7ef3c6a4be3745 != 0)
+										if (0 != 0)
 										{
 											num4 = 3;
 										}
@@ -14853,7 +14853,7 @@ namespace VRisingBephinex.components
 										defaultInterpolatedStringHandler.AppendLiteral(")");
 										ESPDrawer.Draw(position3, defaultInterpolatedStringHandler.ToStringAndClear(), Color.white, useGradiant: true);
 										num4 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 == 0)
+										if (374085082 == 0)
 										{
 											num4 = 0;
 										}
@@ -14862,7 +14862,7 @@ namespace VRisingBephinex.components
 									case 9:
 										ESPDrawer.Draw(position2, "X", Color.green);
 										num4 = 2;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 == 0)
+										if (0 == 0)
 										{
 											num4 = 3;
 										}
@@ -14870,7 +14870,7 @@ namespace VRisingBephinex.components
 									case 7:
 										val5 = rdCOb07x9Z(current3.Entity);
 										num4 = 1;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b != 0)
+										if (0 != 0)
 										{
 											num4 = 1;
 										}
@@ -14888,7 +14888,7 @@ namespace VRisingBephinex.components
 									case 10:
 										flag3 = !current3.IsValid();
 										num4 = 11;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+										if (317387702 == 0)
 										{
 											num4 = 4;
 										}
@@ -14921,7 +14921,7 @@ namespace VRisingBephinex.components
 						{
 							((IDisposable)enumerator3/*cast due to .constrained prefix*/).Dispose();
 							int num5 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+							if (0 == 0)
 							{
 								num5 = 0;
 							}
@@ -14936,7 +14936,7 @@ namespace VRisingBephinex.components
 						if (!flag2)
 						{
 							num2 = 19;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 != 0)
+							if (0 != 0)
 							{
 								num2 = 6;
 							}
@@ -14946,7 +14946,7 @@ namespace VRisingBephinex.components
 					case 38:
 						componentData2 = ((EntityManager)(ref manager)).GetComponentData<LocalToWorld>(current);
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4ac4c68ee3e5442aab8bdb43c5c0f12b == 0)
+						if (1413447416 == 0)
 						{
 							num2 = 11;
 						}
@@ -14971,7 +14971,7 @@ namespace VRisingBephinex.components
 						if (mainPlayer != null)
 						{
 							num2 = 21;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+							if (0 == 0)
 							{
 								num2 = 25;
 							}
@@ -14981,7 +14981,7 @@ namespace VRisingBephinex.components
 					case 28:
 						enumerator3 = PlayersManager.Instance.Players.GetEnumerator();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 4;
 						}
@@ -14989,7 +14989,7 @@ namespace VRisingBephinex.components
 					case 31:
 						enumerator4 = CreaturesManager.Instance.Creatures.GetEnumerator();
 						num2 = 21;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+						if (0 == 0)
 						{
 							num2 = 24;
 						}
@@ -15002,7 +15002,7 @@ namespace VRisingBephinex.components
 					case 29:
 						list = new List<Buff>();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+						if (1976142266 != 0)
 						{
 							num2 = 0;
 						}
@@ -15029,7 +15029,7 @@ namespace VRisingBephinex.components
 					case 13:
 						manager = EntityManagerWrapper.Manager;
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff == 0)
+						if (577280904 == 0)
 						{
 							num2 = 2;
 						}
@@ -15037,7 +15037,7 @@ namespace VRisingBephinex.components
 					case 12:
 						val4 = ((EntityQuery)(ref val2)).ToEntityArray(AllocatorHandle.op_Implicit((Allocator)3));
 						num2 = 29;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc != 0)
+						if (2035096834 != 0)
 						{
 							num2 = 30;
 						}
@@ -15045,7 +15045,7 @@ namespace VRisingBephinex.components
 					default:
 						enumerator = val3.GetEnumerator();
 						num2 = 18;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+						if (1126510863 == 0)
 						{
 							num2 = 9;
 						}
@@ -15063,7 +15063,7 @@ namespace VRisingBephinex.components
 						if (!enumerator.MoveNext())
 						{
 							num2 = 24;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+							if (0 == 0)
 							{
 								num2 = 28;
 							}
@@ -15073,7 +15073,7 @@ namespace VRisingBephinex.components
 					case 1:
 						val2 = ((EntityManager)(ref manager)).CreateEntityQuery((ComponentType[])(object)new ComponentType[1] { ComponentType.ReadOnly<Projectile>() });
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 != 0)
+						if (2048817382 != 0)
 						{
 							num2 = 12;
 						}
@@ -15106,7 +15106,7 @@ namespace VRisingBephinex.components
 						{
 							ESPDrawer.Draw(float3.op_Implicit(position), EntityManagerWrapper.GetPrefabDevName(componentData) ?? "", Color.white, useGradiant: true);
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c != 0)
+							if (818312125 != 0)
 							{
 								num2 = 8;
 							}
@@ -15177,7 +15177,7 @@ namespace VRisingBephinex.components
 				case 2:
 					val = Input.mousePosition;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+					if (444950165 == 0)
 					{
 						num2 = 0;
 					}
@@ -15189,7 +15189,7 @@ namespace VRisingBephinex.components
 				case 1:
 					val.z = 10f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 != 0)
+					if (1668386183 != 0)
 					{
 						num2 = 4;
 					}
@@ -15205,7 +15205,7 @@ namespace VRisingBephinex.components
 			Enabled = false;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 == 0)
+			if (1256719316 == 0)
 			{
 				num = 0;
 			}
@@ -15241,7 +15241,7 @@ namespace VRisingBephinex.components
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc == 0)
+				if (2035096834 == 0)
 				{
 					num = 0;
 				}
@@ -15283,7 +15283,7 @@ namespace VRisingBephinex.components
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 != 0)
+				if (0 != 0)
 				{
 					num = 0;
 				}
@@ -15339,7 +15339,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceCheckOnRangeAttack.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -15370,7 +15370,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceCheckOnMeleeAttack.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -15401,7 +15401,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceOwnRadius.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -15430,7 +15430,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceProjectileRadius.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+						if (760317395 == 0)
 						{
 							num2 = 0;
 						}
@@ -15463,7 +15463,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceTolerance.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 != 0)
+						if (1094201023 != 0)
 						{
 							num2 = 0;
 						}
@@ -15492,7 +15492,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceMaxCheckDistance.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 0;
 						}
@@ -15525,7 +15525,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceMeleeAttackRange.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+						if (460822775 == 0)
 						{
 							num2 = 0;
 						}
@@ -15556,7 +15556,7 @@ namespace VRisingBephinex.components
 					case 1:
 						ModConfig.Instance.DefenceMeleeAttackAngle.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -15583,7 +15583,7 @@ namespace VRisingBephinex.components
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cce125d5fafa48ce981158c5241de79b == 0)
+					if (1783996735 == 0)
 					{
 						num2 = 0;
 					}
@@ -15659,7 +15659,7 @@ namespace VRisingBephinex.components
 					case 47:
 						flag10 = <>c__DisplayClass29_.aQwyEfjvWt.Owner == mainPlayer.Entity;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 == 0)
+						if (497891482 == 0)
 						{
 							num2 = 1;
 						}
@@ -15667,7 +15667,7 @@ namespace VRisingBephinex.components
 					case 37:
 						position2 = mainPlayer.Position;
 						num2 = 19;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac == 0)
+						if (1848937442 == 0)
 						{
 							num2 = 11;
 						}
@@ -15676,7 +15676,7 @@ namespace VRisingBephinex.components
 						if (flag7)
 						{
 							num2 = 6;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 == 0)
+							if (0 == 0)
 							{
 								num2 = 27;
 							}
@@ -15756,7 +15756,7 @@ namespace VRisingBephinex.components
 						if (!flag12)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+							if (0 == 0)
 							{
 								num2 = 29;
 							}
@@ -15802,7 +15802,7 @@ namespace VRisingBephinex.components
 						if (!flag6)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -15831,7 +15831,7 @@ namespace VRisingBephinex.components
 					case 40:
 						flag9 = !string.IsNullOrEmpty(mainPlayer.ClanName);
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+						if (1814018247 == 0)
 						{
 							num2 = 12;
 						}
@@ -15843,7 +15843,7 @@ namespace VRisingBephinex.components
 					case 8:
 						flag7 = Vector3.Distance(float3.op_Implicit(position), position2) > 5f;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+						if (0 == 0)
 						{
 							num2 = 39;
 						}
@@ -15855,7 +15855,7 @@ namespace VRisingBephinex.components
 					case 51:
 						flag6 = !CheckOnRangeAttack;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e != 0)
+						if (121889664 != 0)
 						{
 							num2 = 50;
 						}
@@ -15864,7 +15864,7 @@ namespace VRisingBephinex.components
 					case 21:
 						current = enumerator.Current;
 						num2 = 17;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+						if (0 == 0)
 						{
 							num2 = 46;
 						}
@@ -15881,7 +15881,7 @@ namespace VRisingBephinex.components
 						if (flag3)
 						{
 							num2 = 45;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 == 0)
+							if (55114885 == 0)
 							{
 								num2 = 5;
 							}
@@ -15906,7 +15906,7 @@ namespace VRisingBephinex.components
 					case 33:
 						flag = mainPlayer.Entity.TryGetComponent<Team>(out componentData2);
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -15971,7 +15971,7 @@ namespace VRisingBephinex.components
 					case 39:
 						flag7 = !string.IsNullOrEmpty(mainPlayer.ClanName);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 == 0)
+						if (1187184005 == 0)
 						{
 							num2 = 0;
 						}
@@ -15980,7 +15980,7 @@ namespace VRisingBephinex.components
 						if (flag3)
 						{
 							num2 = 20;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+							if (1433983997 == 0)
 							{
 								num2 = 0;
 							}
@@ -15991,7 +15991,7 @@ namespace VRisingBephinex.components
 						if (abilityDescription.IsUltimate)
 						{
 							num2 = 20;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd != 0)
+							if (1663994158 != 0)
 							{
 								num2 = 28;
 							}
@@ -16001,7 +16001,7 @@ namespace VRisingBephinex.components
 					case 27:
 						position = mainPlayer.Position;
 						num2 = 20;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe != 0)
+						if (2093262890 != 0)
 						{
 							num2 = 21;
 						}
@@ -16018,7 +16018,7 @@ namespace VRisingBephinex.components
 						if (!flag4)
 						{
 							num2 = 13;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+							if (0 != 0)
 							{
 								num2 = 1;
 							}
@@ -16038,7 +16038,7 @@ namespace VRisingBephinex.components
 						if (!flag9)
 						{
 							num2 = 23;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a == 0)
+							if (0 == 0)
 							{
 								num2 = 35;
 							}
@@ -16049,7 +16049,7 @@ namespace VRisingBephinex.components
 						if (flag7)
 						{
 							num2 = 19;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -16060,7 +16060,7 @@ namespace VRisingBephinex.components
 						if (flag8)
 						{
 							num2 = 8;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -16071,7 +16071,7 @@ namespace VRisingBephinex.components
 					case 25:
 						flag = PlayersManager.Instance.MainPlayer == null;
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a != 0)
+						if (0 != 0)
 						{
 							num2 = 15;
 						}
@@ -16079,7 +16079,7 @@ namespace VRisingBephinex.components
 					case 8:
 						flag5 = playerWrapper.Entity == mainPlayer.Entity;
 						num2 = 24;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b == 0)
+						if (0 == 0)
 						{
 							num2 = 24;
 						}
@@ -16089,7 +16089,7 @@ namespace VRisingBephinex.components
 					case 10:
 						flag6 = !<>c__DisplayClass30_.dF8yp9HAKB.TryGetComponent<LocalToWorld>(out componentData);
 						num2 = 33;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 == 0)
+						if (0 == 0)
 						{
 							num2 = 34;
 						}
@@ -16100,7 +16100,7 @@ namespace VRisingBephinex.components
 							return;
 						}
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_768a84edc3a4450592f8c03d41a2ada2 != 0)
+						if (1696499521 != 0)
 						{
 							num2 = 25;
 						}
@@ -16112,7 +16112,7 @@ namespace VRisingBephinex.components
 					{
 						float3 position2 = ((LocalToWorld)(ref componentData)).Position;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+						if (0 == 0)
 						{
 							num2 = 7;
 						}
@@ -16143,7 +16143,7 @@ namespace VRisingBephinex.components
 					case 23:
 						flag4 = tu7OGCIBbn(float3.op_Implicit(((LocalToWorld)(ref componentData)).Position), float3.op_Implicit(((LocalToWorld)(ref componentData)).Forward), position, MeleeAttackRange, MeleeAttackAngle);
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+						if (0 == 0)
 						{
 							num2 = 15;
 						}
@@ -16151,7 +16151,7 @@ namespace VRisingBephinex.components
 					case 33:
 						InputSimulator.KeyboardPress(DefenceKey);
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+						if (0 == 0)
 						{
 							num2 = 9;
 						}
@@ -16168,7 +16168,7 @@ namespace VRisingBephinex.components
 					case 29:
 						mainPlayer = PlayersManager.Instance.MainPlayer;
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+						if (0 == 0)
 						{
 							num2 = 27;
 						}
@@ -16220,7 +16220,7 @@ namespace VRisingBephinex.components
 				case 3:
 					num4 = P_2 + P_3 + P_4;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -16228,7 +16228,7 @@ namespace VRisingBephinex.components
 				case 4:
 					num3 = Vector3.Distance(P_0, P_1);
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+					if (0 == 0)
 					{
 						num2 = 3;
 					}
@@ -16236,7 +16236,7 @@ namespace VRisingBephinex.components
 				default:
 					result = num3 <= num4;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -16283,7 +16283,7 @@ namespace VRisingBephinex.components
 					case 12:
 						normalized = ((Vector3)(ref val)).normalized;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 == 0)
+						if (0 == 0)
 						{
 							num2 = 11;
 						}
@@ -16291,7 +16291,7 @@ namespace VRisingBephinex.components
 					case 4:
 						result = false;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -16300,7 +16300,7 @@ namespace VRisingBephinex.components
 						if (!flag)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f == 0)
+							if (1131787544 == 0)
 							{
 								num2 = 1;
 							}
@@ -16318,7 +16318,7 @@ namespace VRisingBephinex.components
 					case 6:
 						magnitude = ((Vector3)(ref val)).magnitude;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 != 0)
+						if (0 != 0)
 						{
 							num2 = 4;
 						}
@@ -16326,7 +16326,7 @@ namespace VRisingBephinex.components
 					case 5:
 						flag = magnitude > P_3;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+						if (0 == 0)
 						{
 							num2 = 10;
 						}
@@ -16334,7 +16334,7 @@ namespace VRisingBephinex.components
 					case 3:
 						num3 = Mathf.Acos(num4) * 57.29578f;
 						num2 = 8;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+						if (1668386183 == 0)
 						{
 							num2 = 1;
 						}
@@ -16365,7 +16365,7 @@ namespace VRisingBephinex.components
 			});
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+			if (2144623378 == 0)
 			{
 				num = 0;
 			}
@@ -16418,7 +16418,7 @@ namespace VRisingBephinex.components
 				case 1:
 					result = ((EntityQuery)(ref val)).ToEntityArray(AllocatorHandle.op_Implicit((Allocator)2));
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+					if (2058589287 == 0)
 					{
 						num2 = 0;
 					}
@@ -16426,7 +16426,7 @@ namespace VRisingBephinex.components
 				case 3:
 					val = ((EntityManager)(ref manager)).CreateEntityQuery(query);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -16474,7 +16474,7 @@ namespace VRisingBephinex.components
 				case 3:
 					guidToEntityMap = aLROlDSJhM._PrefabLookupMap.GuidToEntityMap;
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb == 0)
+					if (1435992043 == 0)
 					{
 						num2 = 0;
 					}
@@ -16482,7 +16482,7 @@ namespace VRisingBephinex.components
 				case 6:
 					prefabLookupMap = aLROlDSJhM._PrefabLookupMap;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -16579,7 +16579,7 @@ namespace VRisingBephinex.components.players
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 != 0)
+				if (1187184005 != 0)
 				{
 					num = 0;
 				}
@@ -16619,7 +16619,7 @@ namespace VRisingBephinex.components.players
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_10e459c23b4d4f6fa27610d3abab0cff == 0)
+				if (0 == 0)
 				{
 					num = 0;
 				}
@@ -16659,7 +16659,7 @@ namespace VRisingBephinex.components.players
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+				if (0 == 0)
 				{
 					num = 0;
 				}
@@ -16683,7 +16683,7 @@ namespace VRisingBephinex.components.players
 					case 1:
 						spawnPrefab = ab.SpawnPrefab;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a == 0)
+						if (2144623378 == 0)
 						{
 							num2 = 0;
 						}
@@ -16693,7 +16693,7 @@ namespace VRisingBephinex.components.players
 					default:
 						value = sjeywNdyVu._Value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -16728,7 +16728,7 @@ namespace VRisingBephinex.components.players
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c == 0)
+				if (0 == 0)
 				{
 					num = 0;
 				}
@@ -16803,7 +16803,7 @@ namespace VRisingBephinex.components.players
 						if (IDZO0fMvJS != User.Empty)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -16835,7 +16835,7 @@ namespace VRisingBephinex.components.players
 				case 1:
 					iy0OLXRfNR = AbilityDatabase.GetDefenceAbilities();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -16843,7 +16843,7 @@ namespace VRisingBephinex.components.players
 				case 2:
 					Instance = this;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cce125d5fafa48ce981158c5241de79b == 0)
+					if (1783996735 == 0)
 					{
 						num2 = 0;
 					}
@@ -16873,7 +16873,7 @@ namespace VRisingBephinex.components.players
 					case 4:
 						L2HOfcBosk();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e != 0)
+						if (121889664 != 0)
 						{
 							num2 = 0;
 						}
@@ -16883,7 +16883,7 @@ namespace VRisingBephinex.components.players
 					case 2:
 						BT2OWd2nHM();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -16920,7 +16920,7 @@ namespace VRisingBephinex.components.players
 					case 4:
 						playerWrapper.CastingTime += abilityDescription.MaxCastTime;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e250b4d538e44cbb8e7ef3c6a4be3745 == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
@@ -16939,7 +16939,7 @@ namespace VRisingBephinex.components.players
 						if (!abilityDescription.IsDash)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+							if (0 == 0)
 							{
 								num2 = 2;
 							}
@@ -16967,7 +16967,7 @@ namespace VRisingBephinex.components.players
 						if (abilityDescription.IsDefence)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 == 0)
+							if (1976142266 == 0)
 							{
 								num2 = 0;
 							}
@@ -17041,7 +17041,7 @@ namespace VRisingBephinex.components.players
 					case 2:
 						defaultInterpolatedStringHandler.AppendLiteral("Adding protection time ");
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d == 0)
+						if (0 == 0)
 						{
 							num2 = 4;
 						}
@@ -17050,7 +17050,7 @@ namespace VRisingBephinex.components.players
 						if (!flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -17060,7 +17060,7 @@ namespace VRisingBephinex.components.players
 					case 14:
 						playerWrapper.Dev += protectionTime;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -17068,7 +17068,7 @@ namespace VRisingBephinex.components.players
 					case 5:
 						defaultInterpolatedStringHandler.AppendLiteral(" to player ");
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e != 0)
+						if (2021314568 != 0)
 						{
 							num2 = 12;
 						}
@@ -17076,7 +17076,7 @@ namespace VRisingBephinex.components.players
 					case 8:
 						playerWrapper = Players.FirstOrDefault(<>c__DisplayClass13_.bEiyC7MYqK);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -17086,7 +17086,7 @@ namespace VRisingBephinex.components.players
 					case 7:
 						Plugin.LogInfo(defaultInterpolatedStringHandler.ToStringAndClear());
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+						if (0 == 0)
 						{
 							num2 = 6;
 						}
@@ -17106,7 +17106,7 @@ namespace VRisingBephinex.components.players
 					case 9:
 						defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(34, 2);
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -17146,7 +17146,7 @@ namespace VRisingBephinex.components.players
 				case 1:
 					enumerator = Players.GetEnumerator();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -17185,7 +17185,7 @@ namespace VRisingBephinex.components.players
 							case 1:
 								current.UpdateCooldowns(Time.deltaTime);
 								num3 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+								if (0 == 0)
 								{
 									num3 = 0;
 								}
@@ -17197,7 +17197,7 @@ namespace VRisingBephinex.components.players
 						IL_009e:
 						current = enumerator.Current;
 						num3 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f == 0)
+						if (0 == 0)
 						{
 							num3 = 1;
 						}
@@ -17208,7 +17208,7 @@ namespace VRisingBephinex.components.players
 				{
 					((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 					int num5 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e != 0)
+					if (460822775 != 0)
 					{
 						num5 = 0;
 					}
@@ -17266,7 +17266,7 @@ namespace VRisingBephinex.components.players
 						if (flag4)
 						{
 							num2 = 12;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac == 0)
+							if (1435650279 == 0)
 							{
 								num2 = 7;
 							}
@@ -17276,7 +17276,7 @@ namespace VRisingBephinex.components.players
 					default:
 						flag2 = iy0OLXRfNR.Any(<>c__DisplayClass15_.XjDyGWG1vp);
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 != 0)
+						if (0 != 0)
 						{
 							num2 = 6;
 						}
@@ -17300,7 +17300,7 @@ namespace VRisingBephinex.components.players
 						if (flag)
 						{
 							num2 = 9;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+							if (0 == 0)
 							{
 								num2 = 16;
 							}
@@ -17316,7 +17316,7 @@ namespace VRisingBephinex.components.players
 					case 19:
 						flag4 = ((EntityManager)(ref manager)).TryGetComponentData<PlayerCharacter>(val3.Owner, ref val2);
 						num2 = 17;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+						if (468683115 == 0)
 						{
 							num2 = 16;
 						}
@@ -17324,7 +17324,7 @@ namespace VRisingBephinex.components.players
 					case 15:
 						manager = EntityManagerWrapper.Manager;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+						if (747172065 == 0)
 						{
 							num2 = 1;
 						}
@@ -17333,7 +17333,7 @@ namespace VRisingBephinex.components.players
 						if (flag3)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 != 0)
+							if (10932459 != 0)
 							{
 								num2 = 0;
 							}
@@ -17354,7 +17354,7 @@ namespace VRisingBephinex.components.players
 					case 12:
 						wi1OV2c1wb.Add(((object)(*(FixedString64Bytes*)(&val2.Name))/*cast due to .constrained prefix*/).ToString());
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -17370,7 +17370,7 @@ namespace VRisingBephinex.components.players
 					case 16:
 						manager = EntityManagerWrapper.Manager;
 						num2 = 19;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+						if (317387702 == 0)
 						{
 							num2 = 9;
 						}
@@ -17461,7 +17461,7 @@ namespace VRisingBephinex.components.players
 				case 1:
 					val = EntityManagerWrapper.QueryEntities(fcoOh66h15);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -17477,7 +17477,7 @@ namespace VRisingBephinex.components.players
 				case 4:
 					val.Dispose();
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f == 0)
+					if (1131787544 == 0)
 					{
 						num2 = 2;
 					}
@@ -17487,7 +17487,7 @@ namespace VRisingBephinex.components.players
 				default:
 					flag = val.Length > 0;
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac == 0)
+					if (1435650279 == 0)
 					{
 						num2 = 3;
 					}
@@ -17541,7 +17541,7 @@ namespace VRisingBephinex.components.players
 			wi1OV2c1wb = new List<string>();
 			((MonoBehaviour)this)..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa != 0)
+			if (1427489184 != 0)
 			{
 				num = 0;
 			}
@@ -17611,7 +17611,7 @@ namespace VRisingBephinex.components.model
 			AimTarget = false;
 			base..ctor();
 			int num = 3;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+			if (0 == 0)
 			{
 				num = 3;
 			}
@@ -17623,7 +17623,7 @@ namespace VRisingBephinex.components.model
 				case 3:
 					Entity = entity;
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04ad6d5d407541869e49f32bd8f952e2 != 0)
+					if (1835701918 != 0)
 					{
 						num = 1;
 					}
@@ -17638,7 +17638,7 @@ namespace VRisingBephinex.components.model
 				case 2:
 					manager = EntityManagerWrapper.Manager;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa != 0)
+					if (1427489184 != 0)
 					{
 						num = 0;
 					}
@@ -17651,7 +17651,7 @@ namespace VRisingBephinex.components.model
 					manager = EntityManagerWrapper.Manager;
 					GUID = ((EntityManager)(ref manager)).GetComponentData<PrefabGUID>(entity);
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 == 0)
+					if (0 == 0)
 					{
 						num = 2;
 					}
@@ -17693,7 +17693,7 @@ namespace VRisingBephinex.components.model
 					manager = EntityManagerWrapper.Manager;
 					LocalToWorld = ((EntityManager)(ref manager)).GetComponentData<LocalToWorld>(Entity);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 != 0)
+					if (1256719316 != 0)
 					{
 						num2 = 0;
 					}
@@ -17705,7 +17705,7 @@ namespace VRisingBephinex.components.model
 				case 7:
 					flag = !IsValid();
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c == 0)
+					if (742265667 == 0)
 					{
 						num2 = 6;
 					}
@@ -17713,7 +17713,7 @@ namespace VRisingBephinex.components.model
 				case 4:
 					((EntityManager)(ref manager)).TryGetComponentData<Health>(Entity, ref Health);
 					num2 = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 == 0)
+					if (1668386183 == 0)
 					{
 						num2 = 1;
 					}
@@ -17726,7 +17726,7 @@ namespace VRisingBephinex.components.model
 					manager = EntityManagerWrapper.Manager;
 					GUID = ((EntityManager)(ref manager)).GetComponentData<PrefabGUID>(Entity);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac == 0)
+					if (1848937442 == 0)
 					{
 						num2 = 1;
 					}
@@ -17735,7 +17735,7 @@ namespace VRisingBephinex.components.model
 					if (flag)
 					{
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -17766,7 +17766,7 @@ namespace VRisingBephinex.components.model
 					if (((EntityManager)(ref manager)).Exists(Entity))
 					{
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 != 0)
+						if (1268266038 != 0)
 						{
 							num2 = 0;
 						}
@@ -17787,7 +17787,7 @@ namespace VRisingBephinex.components.model
 				}
 				result = (byte)num3 != 0;
 				num2 = 1;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 != 0)
+				if (0 != 0)
 				{
 					num2 = 1;
 				}
@@ -17807,7 +17807,7 @@ namespace VRisingBephinex.components.model
 				case 1:
 					prefabName = GetPrefabName(GUID);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -17842,7 +17842,7 @@ namespace VRisingBephinex.components.model
 					default:
 						prefabLookupMap = Utils.PrefabsCollection._PrefabLookupMap;
 						num2 = 6;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -17854,7 +17854,7 @@ namespace VRisingBephinex.components.model
 						if (guidToEntityMap.ContainsKey(prefabGUID))
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -17867,7 +17867,7 @@ namespace VRisingBephinex.components.model
 					case 2:
 						guidToEntityMap = Utils.PrefabsCollection._PrefabLookupMap.GuidToEntityMap;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -17931,7 +17931,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						CI0OHYPpjZ = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -17995,7 +17995,7 @@ namespace VRisingBephinex.components.esp
 					case 29:
 						position = ((LocalToWorld)(ref componentData)).Position;
 						num2 = 20;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 22;
 						}
@@ -18003,7 +18003,7 @@ namespace VRisingBephinex.components.esp
 					case 2:
 						entityManager = EntityManager;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 == 0)
+						if (0 == 0)
 						{
 							num2 = 19;
 						}
@@ -18016,7 +18016,7 @@ namespace VRisingBephinex.components.esp
 					case 24:
 						_entities.Clear();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 != 0)
+						if (258562808 != 0)
 						{
 							num2 = 1;
 						}
@@ -18036,7 +18036,7 @@ namespace VRisingBephinex.components.esp
 						if (flag)
 						{
 							num2 = 28;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 != 0)
+							if (0 != 0)
 							{
 								num2 = 7;
 							}
@@ -18051,7 +18051,7 @@ namespace VRisingBephinex.components.esp
 					case 21:
 						_entities.Add(current);
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 == 0)
+						if (0 == 0)
 						{
 							num2 = 15;
 						}
@@ -18065,7 +18065,7 @@ namespace VRisingBephinex.components.esp
 						if (flag4)
 						{
 							num2 = 20;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_519c5e460d954eda92fea767bf3dca81 == 0)
+							if (1032184707 == 0)
 							{
 								num2 = 2;
 							}
@@ -18075,7 +18075,7 @@ namespace VRisingBephinex.components.esp
 					case 28:
 						Application.Quit();
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+						if (747172065 == 0)
 						{
 							num2 = 5;
 						}
@@ -18083,7 +18083,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						val = SearchEntities(query);
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+						if (0 == 0)
 						{
 							num2 = 26;
 						}
@@ -18106,7 +18106,7 @@ namespace VRisingBephinex.components.esp
 					case 9:
 						flag3 = !FilterByName(prefabName);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+						if (55114885 != 0)
 						{
 							num2 = 0;
 						}
@@ -18130,7 +18130,7 @@ namespace VRisingBephinex.components.esp
 					case 18:
 						entityManager = EntityManager;
 						num2 = 27;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 != 0)
+						if (0 != 0)
 						{
 							num2 = 25;
 						}
@@ -18153,7 +18153,7 @@ namespace VRisingBephinex.components.esp
 						IL_03f7:
 						flag = (byte)num3 != 0;
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 != 0)
+						if (0 != 0)
 						{
 							num2 = 2;
 						}
@@ -18251,7 +18251,7 @@ namespace VRisingBephinex.components.esp
 									if (flag2)
 									{
 										num4 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+										if (317387702 == 0)
 										{
 											num4 = 0;
 										}
@@ -18261,7 +18261,7 @@ namespace VRisingBephinex.components.esp
 								case 1:
 									componentData2 = ((EntityManager)(ref entityManager)).GetComponentData<PrefabGUID>(current);
 									num4 = 9;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c == 0)
+									if (0 == 0)
 									{
 										num4 = 13;
 									}
@@ -18279,7 +18279,7 @@ namespace VRisingBephinex.components.esp
 								case 8:
 									entityManager = EntityManager;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 == 0)
+									if (0 == 0)
 									{
 										num4 = 1;
 									}
@@ -18287,7 +18287,7 @@ namespace VRisingBephinex.components.esp
 								case 15:
 									entityManager = EntityManager;
 									num4 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe != 0)
+									if (2093262890 != 0)
 									{
 										num4 = 2;
 									}
@@ -18299,7 +18299,7 @@ namespace VRisingBephinex.components.esp
 								case 6:
 									componentData = ((EntityManager)(ref entityManager)).GetComponentData<LocalToWorld>(current);
 									num4 = 1;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 == 0)
+									if (0 == 0)
 									{
 										num4 = 5;
 									}
@@ -18322,7 +18322,7 @@ namespace VRisingBephinex.components.esp
 								case 5:
 									position = ((LocalToWorld)(ref componentData)).Position;
 									num4 = 6;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+									if (0 == 0)
 									{
 										num4 = 12;
 									}
@@ -18334,7 +18334,7 @@ namespace VRisingBephinex.components.esp
 							IL_01a7:
 							current = enumerator.Current;
 							num4 = 7;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+							if (0 == 0)
 							{
 								num4 = 15;
 							}
@@ -18345,7 +18345,7 @@ namespace VRisingBephinex.components.esp
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num5 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 != 0)
+						if (0 != 0)
 						{
 							num5 = 0;
 						}
@@ -18375,7 +18375,7 @@ namespace VRisingBephinex.components.esp
 				case 2:
 					result = name;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb == 0)
+					if (171252512 == 0)
 					{
 						num2 = 1;
 					}
@@ -18400,7 +18400,7 @@ namespace VRisingBephinex.components.esp
 				case 2:
 					result = true;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ce3bb5aff5fb4aa9bab0f01ae1b98b83 == 0)
+					if (696790966 == 0)
 					{
 						num2 = 1;
 					}
@@ -18435,7 +18435,7 @@ namespace VRisingBephinex.components.esp
 				case 1:
 					entityManager = EntityManager;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_10e459c23b4d4f6fa27610d3abab0cff == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -18446,7 +18446,7 @@ namespace VRisingBephinex.components.esp
 				case 3:
 					result = ((EntityQuery)(ref val)).ToEntityArray(AllocatorHandle.op_Implicit((Allocator)2));
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+					if (0 == 0)
 					{
 						num2 = 2;
 					}
@@ -18547,7 +18547,7 @@ namespace VRisingBephinex.components.esp
 					case 11:
 						val2 = Camera.main.WorldToScreenPoint(position);
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb == 0)
+						if (1435992043 == 0)
 						{
 							num2 = 10;
 						}
@@ -18558,7 +18558,7 @@ namespace VRisingBephinex.components.esp
 					case 2:
 						num3 = 30 - (int)(num4 * 0.08f);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -18566,7 +18566,7 @@ namespace VRisingBephinex.components.esp
 					case 8:
 						val.fontSize = num3;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 != 0)
+						if (11098130 != 0)
 						{
 							num2 = 6;
 						}
@@ -18574,7 +18574,7 @@ namespace VRisingBephinex.components.esp
 					case 4:
 						num3 = 13;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -18608,7 +18608,7 @@ namespace VRisingBephinex.components.esp
 					case 6:
 						val3 = val.CalcSize(new GUIContent(label));
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+						if (0 == 0)
 						{
 							num2 = 13;
 						}
@@ -18618,7 +18618,7 @@ namespace VRisingBephinex.components.esp
 					case 13:
 						GUI.Label(new Rect(val2.x - val3.x / 2f, (float)Screen.height - val2.y, val3.x, val3.y), label, val);
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae == 0)
+						if (1629830925 == 0)
 						{
 							num2 = 0;
 						}
@@ -18662,7 +18662,7 @@ namespace VRisingBephinex.components.esp
 					}
 					flag = (byte)num5 != 0;
 					num2 = 16;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 != 0)
+					if (0 != 0)
 					{
 						num2 = 4;
 					}
@@ -18690,7 +18690,7 @@ namespace VRisingBephinex.components.esp
 				case 1:
 					result = !Utils.IsInView(position);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 != 0)
+					if (0 != 0)
 					{
 						num2 = 0;
 					}
@@ -18707,7 +18707,7 @@ namespace VRisingBephinex.components.esp
 			_entities = new List<Entity>();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 == 0)
+			if (133732588 == 0)
 			{
 				num = 0;
 			}
@@ -18751,7 +18751,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPBloodEnabled.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -18784,7 +18784,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPBoodMinQuality.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -18852,7 +18852,7 @@ namespace VRisingBephinex.components.esp
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 == 0)
+			if (1256719316 == 0)
 			{
 				num = 0;
 			}
@@ -18898,7 +18898,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPCarriageEnabled.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe != 0)
+						if (2093262890 != 0)
 						{
 							num2 = 0;
 						}
@@ -19004,7 +19004,7 @@ namespace VRisingBephinex.components.esp
 					case 22:
 						entityManager = ESPBase.EntityManager;
 						num2 = 20;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd != 0)
+						if (0 != 0)
 						{
 							num2 = 15;
 						}
@@ -19025,7 +19025,7 @@ namespace VRisingBephinex.components.esp
 					case 13:
 						componentData2 = ((EntityManager)(ref entityManager)).GetComponentData<PrefabGUID>(current);
 						num2 = 3;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -19037,7 +19037,7 @@ namespace VRisingBephinex.components.esp
 					case 8:
 						_entities.Add(current);
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb == 0)
+						if (171252512 == 0)
 						{
 							num2 = 1;
 						}
@@ -19053,7 +19053,7 @@ namespace VRisingBephinex.components.esp
 					case 6:
 						flag = IsBehindCamera(float3.op_Implicit(position));
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc != 0)
+						if (1814018247 != 0)
 						{
 							num2 = 0;
 						}
@@ -19067,7 +19067,7 @@ namespace VRisingBephinex.components.esp
 						if (flag2)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+							if (0 != 0)
 							{
 								num2 = 2;
 							}
@@ -19080,7 +19080,7 @@ namespace VRisingBephinex.components.esp
 							goto case 2;
 						}
 						num2 = 13;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+						if (0 == 0)
 						{
 							num2 = 16;
 						}
@@ -19088,7 +19088,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						current = enumerator.Current;
 						num2 = 15;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a == 0)
+						if (0 == 0)
 						{
 							num2 = 22;
 						}
@@ -19145,7 +19145,7 @@ namespace VRisingBephinex.components.esp
 			bDxO9OkAbI = new List<int> { 731857280, -584529203 };
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+			if (11098130 == 0)
 			{
 				num = 0;
 			}
@@ -19194,7 +19194,7 @@ namespace VRisingBephinex.components.esp
 							if (Chest)
 							{
 								num2 = 0;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 == 0)
+								if (0 == 0)
 								{
 									num2 = 1;
 								}
@@ -19235,7 +19235,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						base.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -19266,7 +19266,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPContainerChest.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e != 0)
+						if (444950165 != 0)
 						{
 							num2 = 0;
 						}
@@ -19299,7 +19299,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPContainerDeathContainer.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 == 0)
+						if (317387702 == 0)
 						{
 							num2 = 0;
 						}
@@ -19330,7 +19330,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPContainerPlayerDrop.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -19359,7 +19359,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPContainerResourceDrop.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -19390,7 +19390,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPContainerFurniture.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_10e459c23b4d4f6fa27610d3abab0cff != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -19525,7 +19525,7 @@ namespace VRisingBephinex.components.esp
 					case 40:
 						flag2 = !Enabled;
 						num2 = 23;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e != 0)
+						if (460822775 != 0)
 						{
 							num2 = 39;
 						}
@@ -19534,7 +19534,7 @@ namespace VRisingBephinex.components.esp
 						if (flag7)
 						{
 							num2 = 32;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be == 0)
+							if (1793150317 == 0)
 							{
 								num2 = 9;
 							}
@@ -19596,7 +19596,7 @@ namespace VRisingBephinex.components.esp
 					case 11:
 						_entities.Add(current);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 12;
 						}
@@ -19611,7 +19611,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag4)
 						{
 							num2 = 13;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_608e64efb5c34d059666e63ce14fd4ee == 0)
+							if (852228814 == 0)
 							{
 								num2 = 13;
 							}
@@ -19651,7 +19651,7 @@ namespace VRisingBephinex.components.esp
 							return;
 						}
 						num2 = 12;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+						if (0 == 0)
 						{
 							num2 = 27;
 						}
@@ -19670,7 +19670,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						componentData2 = ((EntityManager)(ref entityManager)).GetComponentData<LocalToWorld>(current);
 						num2 = 43;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_88b858a116674335b1de62c9bd5c46e4 == 0)
+						if (1522668693 == 0)
 						{
 							num2 = 9;
 						}
@@ -19686,7 +19686,7 @@ namespace VRisingBephinex.components.esp
 					case 58:
 						entityManager = ESPBase.EntityManager;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+						if (1433983997 == 0)
 						{
 							num2 = 0;
 						}
@@ -19695,7 +19695,7 @@ namespace VRisingBephinex.components.esp
 					case 27:
 						_entities.Clear();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd == 0)
+						if (1663994158 == 0)
 						{
 							num2 = 0;
 						}
@@ -19715,7 +19715,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag5)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc != 0)
+							if (2035096834 != 0)
 							{
 								num2 = 15;
 							}
@@ -19726,7 +19726,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag3)
 						{
 							num2 = 14;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 != 0)
+							if (11098130 != 0)
 							{
 								num2 = 45;
 							}
@@ -19747,7 +19747,7 @@ namespace VRisingBephinex.components.esp
 					case 43:
 						position = ((LocalToWorld)(ref componentData2)).Position;
 						num2 = 25;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 26;
 						}
@@ -19790,7 +19790,7 @@ namespace VRisingBephinex.components.esp
 						IL_0813:
 						flag = (byte)num5 != 0;
 						num2 = 31;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f != 0)
+						if (1131787544 != 0)
 						{
 							num2 = 34;
 						}
@@ -19904,7 +19904,7 @@ namespace VRisingBephinex.components.esp
 								case 26:
 									Draw(float3.op_Implicit(position), text2, Color.yellow);
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_88b858a116674335b1de62c9bd5c46e4 == 0)
+									if (1522668693 == 0)
 									{
 										num3 = 0;
 									}
@@ -19912,7 +19912,7 @@ namespace VRisingBephinex.components.esp
 								case 4:
 									entityManager = ESPBase.EntityManager;
 									num3 = 13;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+									if (0 == 0)
 									{
 										num3 = 20;
 									}
@@ -19933,7 +19933,7 @@ namespace VRisingBephinex.components.esp
 								case 39:
 									Draw(float3.op_Implicit(position), text2, Color.green);
 									num3 = 15;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb == 0)
+									if (247204215 == 0)
 									{
 										num3 = 3;
 									}
@@ -19941,7 +19941,7 @@ namespace VRisingBephinex.components.esp
 								case 3:
 									flag8 = IsBehindCamera(float3.op_Implicit(position));
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+									if (0 == 0)
 									{
 										num3 = 22;
 									}
@@ -19949,7 +19949,7 @@ namespace VRisingBephinex.components.esp
 								case 7:
 									text2 = "Player Drop";
 									num3 = 1;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+									if (1268266038 == 0)
 									{
 										num3 = 1;
 									}
@@ -19993,7 +19993,7 @@ namespace VRisingBephinex.components.esp
 									if (flag7)
 									{
 										num3 = 7;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+										if (0 == 0)
 										{
 											num3 = 7;
 										}
@@ -20003,7 +20003,7 @@ namespace VRisingBephinex.components.esp
 								case 34:
 									text2 = GetPrefabName(componentData2);
 									num3 = 16;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 != 0)
+									if (0 != 0)
 									{
 										num3 = 7;
 									}
@@ -20013,7 +20013,7 @@ namespace VRisingBephinex.components.esp
 								case 8:
 									text2 = "Death Container";
 									num3 = 18;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 == 0)
+									if (0 == 0)
 									{
 										num3 = 28;
 									}
@@ -20021,7 +20021,7 @@ namespace VRisingBephinex.components.esp
 								case 28:
 									Draw(float3.op_Implicit(position), text2, Color.red);
 									num3 = 23;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e == 0)
+									if (460822775 == 0)
 									{
 										num3 = 20;
 									}
@@ -20045,7 +20045,7 @@ namespace VRisingBephinex.components.esp
 									if (!flag5)
 									{
 										num3 = 23;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+										if (742265667 != 0)
 										{
 											num3 = 33;
 										}
@@ -20055,7 +20055,7 @@ namespace VRisingBephinex.components.esp
 								case 11:
 									flag4 = ((EntityManager)(ref entityManager)).Exists(current);
 									num3 = 9;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c != 0)
+									if (747172065 != 0)
 									{
 										num3 = 9;
 									}
@@ -20088,7 +20088,7 @@ namespace VRisingBephinex.components.esp
 									if (flag2)
 									{
 										num3 = 12;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+										if (962215133 == 0)
 										{
 											num3 = 1;
 										}
@@ -20118,7 +20118,7 @@ namespace VRisingBephinex.components.esp
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num5 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd != 0)
+						if (0 != 0)
 						{
 							num5 = 0;
 						}
@@ -20131,7 +20131,7 @@ namespace VRisingBephinex.components.esp
 				case 3:
 					enumerator = _entities.GetEnumerator();
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+					if (374085082 != 0)
 					{
 						num2 = 4;
 					}
@@ -20150,7 +20150,7 @@ namespace VRisingBephinex.components.esp
 				case 2:
 					flag = !Enabled;
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -20171,7 +20171,7 @@ namespace VRisingBephinex.components.esp
 				case 1:
 					result = name.IndexOf("Chest") != -1;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -20201,7 +20201,7 @@ namespace VRisingBephinex.components.esp
 					if (name.IndexOf("Simple") <= -1)
 					{
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_88b858a116674335b1de62c9bd5c46e4 == 0)
+						if (1522668693 == 0)
 						{
 							num2 = 1;
 						}
@@ -20221,7 +20221,7 @@ namespace VRisingBephinex.components.esp
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac != 0)
+			if (0 != 0)
 			{
 				num = 0;
 			}
@@ -20267,7 +20267,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPFish.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 != 0)
+						if (760317395 != 0)
 						{
 							num2 = 0;
 						}
@@ -20348,7 +20348,7 @@ namespace VRisingBephinex.components.esp
 						if (!enumerator.MoveNext())
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 != 0)
+							if (1185518701 != 0)
 							{
 								num2 = 2;
 							}
@@ -20376,7 +20376,7 @@ namespace VRisingBephinex.components.esp
 					default:
 						_entities.Clear();
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -20387,7 +20387,7 @@ namespace VRisingBephinex.components.esp
 							goto case 6;
 						}
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a == 0)
+						if (1433983997 == 0)
 						{
 							num2 = 3;
 						}
@@ -20412,7 +20412,7 @@ namespace VRisingBephinex.components.esp
 					case 12:
 						_entities.Add(current);
 						num2 = 19;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e != 0)
+						if (0 != 0)
 						{
 							num2 = 7;
 						}
@@ -20425,7 +20425,7 @@ namespace VRisingBephinex.components.esp
 					case 9:
 						entityManager = ESPBase.EntityManager;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+						if (1976142266 != 0)
 						{
 							num2 = 21;
 						}
@@ -20441,7 +20441,7 @@ namespace VRisingBephinex.components.esp
 					case 20:
 						flag = componentData._Value != 1559481073;
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+						if (0 == 0)
 						{
 							num2 = 8;
 						}
@@ -20501,7 +20501,7 @@ namespace VRisingBephinex.components.esp
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd == 0)
+			if (1663994158 == 0)
 			{
 				num = 0;
 			}
@@ -20545,7 +20545,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPHorseEnabled.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -20576,7 +20576,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPHorseMinSpeed.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -20665,7 +20665,7 @@ namespace VRisingBephinex.components.esp
 					case 4:
 						enumerator = _entities.GetEnumerator();
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -20681,7 +20681,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						flag4 = !Enabled;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff == 0)
+						if (577280904 == 0)
 						{
 							num2 = 0;
 						}
@@ -20724,7 +20724,7 @@ namespace VRisingBephinex.components.esp
 									case 22:
 										entityManager = ESPBase.EntityManager;
 										num3 = 4;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 != 0)
+										if (1976142266 != 0)
 										{
 											num3 = 18;
 										}
@@ -20739,7 +20739,7 @@ namespace VRisingBephinex.components.esp
 									case 13:
 										componentData2 = ((EntityManager)(ref entityManager)).GetComponentData<PrefabGUID>(current);
 										num3 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 == 0)
+										if (0 == 0)
 										{
 											num3 = 0;
 										}
@@ -20768,7 +20768,7 @@ namespace VRisingBephinex.components.esp
 									case 9:
 										defaultInterpolatedStringHandler.AppendLiteral("|S:");
 										num3 = 15;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+										if (760317395 == 0)
 										{
 											num3 = 1;
 										}
@@ -20792,7 +20792,7 @@ namespace VRisingBephinex.components.esp
 									case 16:
 										position = ((LocalToWorld)(ref componentData3)).Position;
 										num3 = 12;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd == 0)
+										if (1663994158 == 0)
 										{
 											num3 = 9;
 										}
@@ -20808,7 +20808,7 @@ namespace VRisingBephinex.components.esp
 									case 27:
 										Draw(float3.op_Implicit(position), label, DefaultColor);
 										num3 = 11;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+										if (0 == 0)
 										{
 											num3 = 20;
 										}
@@ -20826,7 +20826,7 @@ namespace VRisingBephinex.components.esp
 									case 15:
 										defaultInterpolatedStringHandler.AppendFormatted(componentData.MaxSpeed, "0.0");
 										num3 = 20;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 == 0)
+										if (0 == 0)
 										{
 											num3 = 31;
 										}
@@ -20834,7 +20834,7 @@ namespace VRisingBephinex.components.esp
 									case 14:
 										componentData = ((EntityManager)(ref entityManager)).GetComponentData<Mountable>(current);
 										num3 = 1;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 == 0)
+										if (0 == 0)
 										{
 											num3 = 1;
 										}
@@ -20853,7 +20853,7 @@ namespace VRisingBephinex.components.esp
 									default:
 										value = GetPrefabName(componentData2).Replace("CHAR_", "").Replace("Mount_", "").Replace("_", " ");
 										num3 = 1;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+										if (0 == 0)
 										{
 											num3 = 7;
 										}
@@ -20881,7 +20881,7 @@ namespace VRisingBephinex.components.esp
 						{
 							((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 							int num5 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 != 0)
+							if (0 != 0)
 							{
 								num5 = 0;
 							}
@@ -20906,7 +20906,7 @@ namespace VRisingBephinex.components.esp
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 != 0)
+			if (1531368356 != 0)
 			{
 				num = 0;
 			}
@@ -20946,7 +20946,7 @@ namespace VRisingBephinex.components.esp
 						if (OreFilterIron)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 == 0)
+							if (1976142266 == 0)
 							{
 								num2 = 4;
 							}
@@ -20957,7 +20957,7 @@ namespace VRisingBephinex.components.esp
 						if (!OreFilterSulfur)
 						{
 							num2 = 2;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+							if (1435992043 != 0)
 							{
 								num2 = 2;
 							}
@@ -20975,7 +20975,7 @@ namespace VRisingBephinex.components.esp
 						if (!OreFilterCopper)
 						{
 							num2 = 8;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+							if (0 == 0)
 							{
 								num2 = 8;
 							}
@@ -20986,7 +20986,7 @@ namespace VRisingBephinex.components.esp
 						if (OreFilterGemFlawless)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e != 0)
+							if (460822775 != 0)
 							{
 								num2 = 0;
 							}
@@ -21019,7 +21019,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						base.Enabled = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb != 0)
+						if (247204215 != 0)
 						{
 							num2 = 0;
 						}
@@ -21050,7 +21050,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresQuartz.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a == 0)
+						if (1518457776 == 0)
 						{
 							num2 = 0;
 						}
@@ -21079,7 +21079,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresCopper.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -21110,7 +21110,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresIron.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa == 0)
+						if (1427489184 == 0)
 						{
 							num2 = 0;
 						}
@@ -21143,7 +21143,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresSulfur.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a != 0)
+						if (962215133 != 0)
 						{
 							num2 = 0;
 						}
@@ -21172,7 +21172,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresGemFlawless.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -21205,7 +21205,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPOresSilver.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -21299,7 +21299,7 @@ namespace VRisingBephinex.components.esp
 					case 54:
 						flag5 = IsBehindCamera(float3.op_Implicit(position));
 						num2 = 46;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 != 0)
+						if (0 != 0)
 						{
 							num2 = 25;
 						}
@@ -21307,7 +21307,7 @@ namespace VRisingBephinex.components.esp
 					case 41:
 						componentData2 = ((EntityManager)(ref entityManager)).GetComponentData<LocalToWorld>(current);
 						num2 = 10;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf != 0)
+						if (468683115 != 0)
 						{
 							num2 = 23;
 						}
@@ -21322,7 +21322,7 @@ namespace VRisingBephinex.components.esp
 					case 44:
 						_entities.Add(current);
 						num2 = 17;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e != 0)
+						if (444950165 != 0)
 						{
 							num2 = 21;
 						}
@@ -21330,7 +21330,7 @@ namespace VRisingBephinex.components.esp
 					case 25:
 						_entities.Add(current);
 						num2 = 9;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd == 0)
+						if (0 == 0)
 						{
 							num2 = 24;
 						}
@@ -21374,7 +21374,7 @@ namespace VRisingBephinex.components.esp
 						if (flag3)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a != 0)
+							if (0 != 0)
 							{
 								num2 = 1;
 							}
@@ -21385,7 +21385,7 @@ namespace VRisingBephinex.components.esp
 					case 66:
 						entityManager = ESPBase.EntityManager;
 						num2 = 37;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+						if (468683115 == 0)
 						{
 							num2 = 1;
 						}
@@ -21421,7 +21421,7 @@ namespace VRisingBephinex.components.esp
 					case 23:
 						position = ((LocalToWorld)(ref componentData2)).Position;
 						num2 = 45;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+						if (0 == 0)
 						{
 							num2 = 54;
 						}
@@ -21429,7 +21429,7 @@ namespace VRisingBephinex.components.esp
 					case 37:
 						componentData = ((EntityManager)(ref entityManager)).GetComponentData<PrefabGUID>(current);
 						num2 = 5;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 != 0)
+						if (0 != 0)
 						{
 							num2 = 5;
 						}
@@ -21446,7 +21446,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 != 0)
+							if (1531368356 != 0)
 							{
 								num2 = 8;
 							}
@@ -21464,7 +21464,7 @@ namespace VRisingBephinex.components.esp
 					case 22:
 						current = enumerator.Current;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac == 0)
+						if (1848937442 == 0)
 						{
 							num2 = 0;
 						}
@@ -21504,7 +21504,7 @@ namespace VRisingBephinex.components.esp
 					case 5:
 						prefabName = GetPrefabName(componentData);
 						num2 = 34;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c == 0)
+						if (0 == 0)
 						{
 							num2 = 49;
 						}
@@ -21513,7 +21513,7 @@ namespace VRisingBephinex.components.esp
 						if (!string.IsNullOrEmpty(RootComponent.Instance.IsEnablid))
 						{
 							num2 = 62;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 == 0)
+							if (133732588 == 0)
 							{
 								num2 = 60;
 							}
@@ -21525,7 +21525,7 @@ namespace VRisingBephinex.components.esp
 						if (OreFilterQuartz)
 						{
 							num2 = 27;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 != 0)
+							if (55114885 != 0)
 							{
 								num2 = 38;
 							}
@@ -21545,7 +21545,7 @@ namespace VRisingBephinex.components.esp
 						if (OreFilterSilver)
 						{
 							num2 = 40;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a != 0)
+							if (0 != 0)
 							{
 								num2 = 7;
 							}
@@ -21556,7 +21556,7 @@ namespace VRisingBephinex.components.esp
 					case 67:
 						_entities.Clear();
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -21580,7 +21580,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag4)
 						{
 							num2 = 31;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 != 0)
+							if (0 != 0)
 							{
 								num2 = 16;
 							}
@@ -21590,7 +21590,7 @@ namespace VRisingBephinex.components.esp
 					default:
 						entityManager = ESPBase.EntityManager;
 						num2 = 41;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+						if (2058589287 == 0)
 						{
 							num2 = 0;
 						}
@@ -21622,7 +21622,7 @@ namespace VRisingBephinex.components.esp
 						if (!OreFilterIron)
 						{
 							num2 = 52;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae == 0)
+							if (1629830925 == 0)
 							{
 								num2 = 3;
 							}
@@ -21632,7 +21632,7 @@ namespace VRisingBephinex.components.esp
 					case 51:
 						_entities.Add(current);
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 == 0)
+						if (2058589287 == 0)
 						{
 							num2 = 6;
 						}
@@ -21661,7 +21661,7 @@ namespace VRisingBephinex.components.esp
 						IL_0962:
 						flag7 = (byte)num5 != 0;
 						num2 = 45;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 == 0)
+						if (0 == 0)
 						{
 							num2 = 57;
 						}
@@ -21762,7 +21762,7 @@ namespace VRisingBephinex.components.esp
 									if (flag2)
 									{
 										num3 = 4;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+										if (374085082 != 0)
 										{
 											num3 = 15;
 										}
@@ -21781,7 +21781,7 @@ namespace VRisingBephinex.components.esp
 										.Replace("_Resource", "")
 										.Replace("_", " ");
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc != 0)
+									if (2035096834 != 0)
 									{
 										num3 = 0;
 									}
@@ -21794,7 +21794,7 @@ namespace VRisingBephinex.components.esp
 									if (!flag3)
 									{
 										num3 = 0;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c != 0)
+										if (818312125 != 0)
 										{
 											num3 = 1;
 										}
@@ -21823,7 +21823,7 @@ namespace VRisingBephinex.components.esp
 								case 9:
 									entityManager = ESPBase.EntityManager;
 									num3 = 10;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 != 0)
+									if (0 != 0)
 									{
 										num3 = 10;
 									}
@@ -21849,7 +21849,7 @@ namespace VRisingBephinex.components.esp
 								case 16:
 									flag2 = IsBehindCamera(float3.op_Implicit(position));
 									num3 = 13;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d != 0)
+									if (0 != 0)
 									{
 										num3 = 12;
 									}
@@ -21870,7 +21870,7 @@ namespace VRisingBephinex.components.esp
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num5 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4ac4c68ee3e5442aab8bdb43c5c0f12b != 0)
+						if (1413447416 != 0)
 						{
 							num5 = 0;
 						}
@@ -21903,7 +21903,7 @@ namespace VRisingBephinex.components.esp
 			wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e != 0)
+			if (0 != 0)
 			{
 				num = 0;
 			}
@@ -21949,7 +21949,7 @@ namespace VRisingBephinex.components.esp
 						if (CottonEnabled)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+							if (468683115 == 0)
 							{
 								num2 = 2;
 							}
@@ -21967,7 +21967,7 @@ namespace VRisingBephinex.components.esp
 						if (FireBlossomEnabled)
 						{
 							num2 = 10;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c != 0)
+							if (0 != 0)
 							{
 								num2 = 5;
 							}
@@ -21985,7 +21985,7 @@ namespace VRisingBephinex.components.esp
 						if (SunflowerEnabled)
 						{
 							num2 = 16;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac != 0)
+							if (1435650279 != 0)
 							{
 								num2 = 16;
 							}
@@ -21996,7 +21996,7 @@ namespace VRisingBephinex.components.esp
 						if (!HellsClarionEnabled)
 						{
 							num2 = 1;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_091ae575e30b4755877daf70ddd2eddb == 0)
+							if (1362636878 == 0)
 							{
 								num2 = 1;
 							}
@@ -22007,7 +22007,7 @@ namespace VRisingBephinex.components.esp
 						if (CorruptedFlowerEnabled)
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c == 0)
+							if (0 == 0)
 							{
 								num2 = 9;
 							}
@@ -22025,7 +22025,7 @@ namespace VRisingBephinex.components.esp
 						if (!SnowFlowerEnabled)
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 != 0)
+							if (2058589287 != 0)
 							{
 								num2 = 5;
 							}
@@ -22039,7 +22039,7 @@ namespace VRisingBephinex.components.esp
 						if (!GhostShroomEnabled)
 						{
 							num2 = 12;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb != 0)
+							if (0 != 0)
 							{
 								num2 = 5;
 							}
@@ -22080,7 +22080,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsBleedingHeart.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a != 0)
+						if (1433983997 != 0)
 						{
 							num2 = 0;
 						}
@@ -22111,7 +22111,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsBloodRose.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -22142,7 +22142,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsCotton.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 == 0)
+						if (117793469 == 0)
 						{
 							num2 = 0;
 						}
@@ -22173,7 +22173,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsCorruptedFlower.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -22206,7 +22206,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsFireBlossom.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+						if (1435992043 != 0)
 						{
 							num2 = 0;
 						}
@@ -22235,7 +22235,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsGhostShroom.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -22266,7 +22266,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsHellsClarion.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c != 0)
+						if (742265667 != 0)
 						{
 							num2 = 0;
 						}
@@ -22297,7 +22297,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsMoutningLily.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 != 0)
+						if (760317395 != 0)
 						{
 							num2 = 0;
 						}
@@ -22330,7 +22330,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsSnowFlower.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 0;
 						}
@@ -22359,7 +22359,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsSunflower.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -22392,7 +22392,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlantsTrippyShroom.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -22511,7 +22511,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag11)
 						{
 							num2 = 4;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 != 0)
+							if (2048817382 != 0)
 							{
 								num2 = 7;
 							}
@@ -22521,7 +22521,7 @@ namespace VRisingBephinex.components.esp
 					case 16:
 						_entities.Add(current);
 						num2 = 49;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c != 0)
+						if (0 != 0)
 						{
 							num2 = 19;
 						}
@@ -22529,7 +22529,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						_entities.Add(current);
 						num2 = 41;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 15;
 						}
@@ -22563,7 +22563,7 @@ namespace VRisingBephinex.components.esp
 					case 76:
 						_entities.Add(current);
 						num2 = 43;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+						if (0 == 0)
 						{
 							num2 = 62;
 						}
@@ -22611,7 +22611,7 @@ namespace VRisingBephinex.components.esp
 					case 53:
 						_entities.Add(current);
 						num2 = 34;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a != 0)
+						if (0 != 0)
 						{
 							num2 = 25;
 						}
@@ -22632,7 +22632,7 @@ namespace VRisingBephinex.components.esp
 					case 8:
 						flag = IsBehindCamera(float3.op_Implicit(position));
 						num2 = 16;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a48688a69764619b6a58896a1967edc == 0)
+						if (0 == 0)
 						{
 							num2 = 81;
 						}
@@ -22666,7 +22666,7 @@ namespace VRisingBephinex.components.esp
 						if (flag12)
 						{
 							num2 = 72;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c == 0)
+							if (818312125 == 0)
 							{
 								num2 = 6;
 							}
@@ -22681,7 +22681,7 @@ namespace VRisingBephinex.components.esp
 						if (BloodRoseEnabled)
 						{
 							num2 = 17;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c != 0)
+							if (747172065 != 0)
 							{
 								num2 = 24;
 							}
@@ -22693,7 +22693,7 @@ namespace VRisingBephinex.components.esp
 						if (!flag6)
 						{
 							num2 = 48;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 != 0)
+							if (258562808 != 0)
 							{
 								num2 = 52;
 							}
@@ -22711,7 +22711,7 @@ namespace VRisingBephinex.components.esp
 						if (flag9)
 						{
 							num2 = 13;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e != 0)
+							if (0 != 0)
 							{
 								num2 = 7;
 							}
@@ -22760,7 +22760,7 @@ namespace VRisingBephinex.components.esp
 					case 51:
 						entityManager = ESPBase.EntityManager;
 						num2 = 70;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 != 0)
+						if (0 != 0)
 						{
 							num2 = 67;
 						}
@@ -22769,7 +22769,7 @@ namespace VRisingBephinex.components.esp
 						if (flag8)
 						{
 							num2 = 16;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 == 0)
+							if (0 == 0)
 							{
 								num2 = 19;
 							}
@@ -22790,7 +22790,7 @@ namespace VRisingBephinex.components.esp
 						if (SnowFlowerEnabled)
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa == 0)
+							if (1427489184 == 0)
 							{
 								num2 = 1;
 							}
@@ -22809,7 +22809,7 @@ namespace VRisingBephinex.components.esp
 						if (MoutningLilyEnabled)
 						{
 							num2 = 6;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 == 0)
+							if (0 == 0)
 							{
 								num2 = 82;
 							}
@@ -22871,7 +22871,7 @@ namespace VRisingBephinex.components.esp
 							goto case 17;
 						}
 						num2 = 51;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+						if (1126510863 == 0)
 						{
 							num2 = 0;
 						}
@@ -22881,7 +22881,7 @@ namespace VRisingBephinex.components.esp
 						if (CottonEnabled)
 						{
 							num2 = 9;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 != 0)
+							if (0 != 0)
 							{
 								num2 = 8;
 							}
@@ -22892,7 +22892,7 @@ namespace VRisingBephinex.components.esp
 					case 54:
 						enumerator = val.GetEnumerator();
 						num2 = 18;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 == 0)
+						if (10932459 == 0)
 						{
 							num2 = 4;
 						}
@@ -22914,7 +22914,7 @@ namespace VRisingBephinex.components.esp
 						IL_0aa3:
 						flag2 = (byte)num8 != 0;
 						num2 = 74;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa == 0)
+						if (1427489184 == 0)
 						{
 							num2 = 67;
 						}
@@ -22922,7 +22922,7 @@ namespace VRisingBephinex.components.esp
 						IL_0a40:
 						flag5 = (byte)num7 != 0;
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 == 0)
+						if (0 == 0)
 						{
 							num2 = 20;
 						}
@@ -22934,7 +22934,7 @@ namespace VRisingBephinex.components.esp
 						IL_0a1e:
 						flag7 = (byte)num10 != 0;
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 7;
 						}
@@ -22966,7 +22966,7 @@ namespace VRisingBephinex.components.esp
 						IL_0ad6:
 						flag3 = (byte)num3 != 0;
 						num2 = 26;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cce125d5fafa48ce981158c5241de79b == 0)
+						if (1783996735 == 0)
 						{
 							num2 = 15;
 						}
@@ -23044,7 +23044,7 @@ namespace VRisingBephinex.components.esp
 						.Replace("03", "")
 						.Replace("Pickup", "");
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -23062,7 +23062,7 @@ namespace VRisingBephinex.components.esp
 			iXAOdIEQ12 = new List<int> { 544420990, 263978365, -608256184 };
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 == 0)
+			if (0 == 0)
 			{
 				num = 0;
 			}
@@ -23112,7 +23112,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersEnabled.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+						if (1435992043 != 0)
 						{
 							num2 = 0;
 						}
@@ -23145,7 +23145,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersShowLvL.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 == 0)
+						if (760317395 == 0)
 						{
 							num2 = 0;
 						}
@@ -23174,7 +23174,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersShowClan.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -23205,7 +23205,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersShowHealth.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -23238,7 +23238,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersShowBlood.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf == 0)
+						if (468683115 == 0)
 						{
 							num2 = 0;
 						}
@@ -23267,7 +23267,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersShowAlly.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -23300,7 +23300,7 @@ namespace VRisingBephinex.components.esp
 					case 1:
 						ModConfig.Instance.ESPPlayersSkills.Value = value;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -23337,7 +23337,7 @@ namespace VRisingBephinex.components.esp
 			t95OAcZim6 = new Color(255f, 165f, 0f, 1f);
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 == 0)
+			if (0 == 0)
 			{
 				num = 0;
 			}
@@ -23350,7 +23350,7 @@ namespace VRisingBephinex.components.esp
 				}
 				Instance = this;
 				num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 == 0)
+				if (0 == 0)
 				{
 					num = 1;
 				}
@@ -23417,7 +23417,7 @@ namespace VRisingBephinex.components.esp
 				default:
 					enumerator = PlayersManager.Instance.Players.GetEnumerator();
 					num2 = 3;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_768a84edc3a4450592f8c03d41a2ada2 != 0)
+					if (1696499521 != 0)
 					{
 						num2 = 4;
 					}
@@ -23429,7 +23429,7 @@ namespace VRisingBephinex.components.esp
 				case 2:
 					mainPlayer2 = PlayersManager.Instance.MainPlayer;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -23462,7 +23462,7 @@ namespace VRisingBephinex.components.esp
 								case 50:
 									defaultInterpolatedStringHandler.AppendLiteral(") ");
 									num3 = 1;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 == 0)
+									if (171921593 == 0)
 									{
 										num3 = 1;
 									}
@@ -23479,7 +23479,7 @@ namespace VRisingBephinex.components.esp
 									if (!ShowLvL)
 									{
 										num3 = 19;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae != 0)
+										if (1629830925 != 0)
 										{
 											num3 = 65;
 										}
@@ -23489,7 +23489,7 @@ namespace VRisingBephinex.components.esp
 								case 6:
 									text = defaultInterpolatedStringHandler.ToStringAndClear();
 									num3 = 21;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c == 0)
+									if (1126510863 == 0)
 									{
 										num3 = 20;
 									}
@@ -23497,7 +23497,7 @@ namespace VRisingBephinex.components.esp
 								case 3:
 									text = string.Format("{0} [{1:0} HP]", new object[2] { text, current.HP });
 									num3 = 11;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 == 0)
+									if (0 == 0)
 									{
 										num3 = 14;
 									}
@@ -23505,7 +23505,7 @@ namespace VRisingBephinex.components.esp
 								case 26:
 									defaultInterpolatedStringHandler.AppendLiteral("%) ");
 									num3 = 43;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b == 0)
+									if (0 == 0)
 									{
 										num3 = 70;
 									}
@@ -23540,7 +23540,7 @@ namespace VRisingBephinex.components.esp
 									if (flag6)
 									{
 										num3 = 5;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_608e64efb5c34d059666e63ce14fd4ee != 0)
+										if (852228814 != 0)
 										{
 											num3 = 5;
 										}
@@ -23566,7 +23566,7 @@ namespace VRisingBephinex.components.esp
 								case 23:
 									ShowPlayerSkillsCooldown(float3.op_Implicit(current.Position), current.Cooldowns);
 									num3 = 22;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 != 0)
+									if (1187184005 != 0)
 									{
 										num3 = 24;
 									}
@@ -23588,7 +23588,7 @@ namespace VRisingBephinex.components.esp
 									if (mainPlayer == null)
 									{
 										num3 = 15;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb == 0)
+										if (0 == 0)
 										{
 											num3 = 55;
 										}
@@ -23607,7 +23607,7 @@ namespace VRisingBephinex.components.esp
 								case 5:
 									flag8 = !ShowAlly;
 									num3 = 27;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 == 0)
+									if (1486210346 == 0)
 									{
 										num3 = 9;
 									}
@@ -23634,7 +23634,7 @@ namespace VRisingBephinex.components.esp
 									if (flag8)
 									{
 										num3 = 48;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d == 0)
+										if (0 == 0)
 										{
 											num3 = 66;
 										}
@@ -23696,7 +23696,7 @@ namespace VRisingBephinex.components.esp
 								case 14:
 									num8 = Vector3.Distance(mainPlayer2.Position, current.Position);
 									num3 = 62;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 == 0)
+									if (0 == 0)
 									{
 										num3 = 63;
 									}
@@ -23717,7 +23717,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								case 51:
 									defaultInterpolatedStringHandler = new DefaultInterpolatedStringHandler(5, 3);
 									num3 = 2;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 == 0)
+									if (0 == 0)
 									{
 										num3 = 10;
 									}
@@ -23736,7 +23736,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								case 7:
 									defaultInterpolatedStringHandler.AppendFormatted(text);
 									num3 = 6;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 != 0)
+									if (0 != 0)
 									{
 										num3 = 5;
 									}
@@ -23756,7 +23756,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 									if (flag7)
 									{
 										num3 = 60;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 == 0)
+										if (1486210346 == 0)
 										{
 											num3 = 15;
 										}
@@ -23791,7 +23791,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								case 33:
 									defaultInterpolatedStringHandler.AppendLiteral(") ");
 									num3 = 7;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d != 0)
+									if (0 != 0)
 									{
 										num3 = 6;
 									}
@@ -23803,7 +23803,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								case 64:
 									defaultInterpolatedStringHandler.AppendLiteral("(");
 									num3 = 0;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 == 0)
+									if (0 == 0)
 									{
 										num3 = 0;
 									}
@@ -23844,7 +23844,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 									IL_0baa:
 									flag4 = (byte)num4 != 0;
 									num3 = 53;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 == 0)
+									if (854369382 == 0)
 									{
 										num3 = 18;
 									}
@@ -23878,7 +23878,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num9 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 == 0)
+						if (0 == 0)
 						{
 							num9 = 0;
 						}
@@ -23929,7 +23929,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 				case 5:
 					flag2 = cooldowns.Count == 0;
 					num2 = 4;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f != 0)
+					if (0 != 0)
 					{
 						num2 = 1;
 					}
@@ -23950,7 +23950,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 				case 1:
 					num5 = -1f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -23965,7 +23965,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 							if (!enumerator.MoveNext())
 							{
 								num3 = 11;
-								if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd != 0)
+								if (0 != 0)
 								{
 									num3 = 3;
 								}
@@ -23998,7 +23998,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 									if (!flag)
 									{
 										num3 = 17;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 != 0)
+										if (1256719316 != 0)
 										{
 											num3 = 19;
 										}
@@ -24050,7 +24050,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								default:
 									t95OAcZim6 = Color.red;
 									num3 = 16;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 == 0)
+									if (497891482 == 0)
 									{
 										num3 = 8;
 									}
@@ -24058,7 +24058,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 								case 2:
 									num5 += -0.5f;
 									num3 = 19;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 == 0)
+									if (0 == 0)
 									{
 										num3 = 22;
 									}
@@ -24080,7 +24080,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 									defaultInterpolatedStringHandler.AppendLiteral("s");
 									Draw(position2, defaultInterpolatedStringHandler.ToStringAndClear(), t95OAcZim6);
 									num3 = 1;
-									if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a == 0)
+									if (0 == 0)
 									{
 										num3 = 2;
 									}
@@ -24090,7 +24090,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 									if (isDefence)
 									{
 										num3 = 12;
-										if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 == 0)
+										if (117793469 == 0)
 										{
 											num3 = 1;
 										}
@@ -24110,7 +24110,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 					{
 						((IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
 						int num6 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+						if (1268266038 == 0)
 						{
 							num6 = 0;
 						}
@@ -24150,7 +24150,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 					result = P_0.Replace("AB_", "").Replace("_", " ").Replace("Vampire", "")
 						.Replace("Cast", "");
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb == 0)
+					if (247204215 == 0)
 					{
 						num2 = 0;
 					}
@@ -24158,7 +24158,7 @@ val = ModConfig.Instance.ParsedAimTargetColor;
 				case 6:
 					flag = P_0.IndexOf("Dash") != -1;
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a != 0)
+					if (0 != 0)
 					{
 						num2 = 1;
 					}
@@ -24209,7 +24209,7 @@ namespace VRisingBephinex.components.creatures
 				case 1:
 					Instance = this;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -24233,7 +24233,7 @@ namespace VRisingBephinex.components.creatures
 				case 1:
 					zfiOmq9XeY();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb != 0)
+					if (1435992043 != 0)
 					{
 						num2 = 0;
 					}
@@ -24265,7 +24265,7 @@ namespace VRisingBephinex.components.creatures
 					case 6:
 						enumerator = val.GetEnumerator();
 						num2 = 7;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 == 0)
+						if (0 == 0)
 						{
 							num2 = 7;
 						}
@@ -24273,7 +24273,7 @@ namespace VRisingBephinex.components.creatures
 					default:
 						current = enumerator.Current;
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a == 0)
+						if (0 == 0)
 						{
 							num2 = 5;
 						}
@@ -24289,7 +24289,7 @@ namespace VRisingBephinex.components.creatures
 					case 2:
 						val = EntityManagerWrapper.QueryEntities(MkGOJHnC58);
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 != 0)
+						if (0 != 0)
 						{
 							num2 = 0;
 						}
@@ -24297,7 +24297,7 @@ namespace VRisingBephinex.components.creatures
 					case 5:
 						Creatures.Add(new CreatureWrapper(current));
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 != 0)
+						if (1486210346 != 0)
 						{
 							num2 = 4;
 						}
@@ -24307,7 +24307,7 @@ namespace VRisingBephinex.components.creatures
 						if (!enumerator.MoveNext())
 						{
 							num2 = 3;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 == 0)
+							if (11098130 == 0)
 							{
 								num2 = 1;
 							}
@@ -24338,7 +24338,7 @@ namespace VRisingBephinex.components.creatures
 			MkGOJHnC58 = (EntityQueryDesc[])(object)array;
 			((MonoBehaviour)this)..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc == 0)
+			if (1814018247 == 0)
 			{
 				num = 0;
 			}
@@ -24405,7 +24405,7 @@ namespace VRisingBephinex.components.creatures.model
 					manager = EntityManagerWrapper.Manager;
 					Blood = ((EntityManager)(ref manager)).GetComponentData<BloodConsumeSource>(entity);
 					num = 2;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e == 0)
+					if (444950165 == 0)
 					{
 						num = 2;
 					}
@@ -24413,7 +24413,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 2:
 					BloodName = jQXOZvC6Pg(GetPrefabName(ModifiablePrefabGUID.op_Implicit(Blood.UnitBloodType)));
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -24422,7 +24422,7 @@ namespace VRisingBephinex.components.creatures.model
 					manager = EntityManagerWrapper.Manager;
 					IsVBlood = ((EntityManager)(ref manager)).HasComponent<VBloodConsumeSource>(Entity);
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -24451,7 +24451,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 != 0)
+							if (374085082 != 0)
 							{
 								num2 = 0;
 							}
@@ -24465,7 +24465,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 3:
 						flag = IsValid();
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 == 0)
+						if (1268266038 == 0)
 						{
 							num2 = 1;
 						}
@@ -24493,7 +24493,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 2:
 					result = P_0.Replace("CHAR", "").Replace("_", " ").Replace("BloodType", "");
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -24543,7 +24543,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 3:
 					Description = abilityDescription;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -24553,7 +24553,7 @@ namespace VRisingBephinex.components.creatures.model
 				default:
 					Cooldown = abilityDescription.Cooldown;
 					num = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -24589,7 +24589,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (!flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 == 0)
+							if (519538535 == 0)
 							{
 								num2 = 0;
 							}
@@ -24622,7 +24622,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 1:
 					result = Cooldown > 0f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 != 0)
+					if (133732588 != 0)
 					{
 						num2 = 0;
 					}
@@ -24658,7 +24658,7 @@ namespace VRisingBephinex.components.creatures.model
 				wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 				base..ctor();
 				int num = 0;
-				if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a == 0)
+				if (1518457776 == 0)
 				{
 					num = 0;
 				}
@@ -24687,7 +24687,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (c.AbilityGUID == POey2rn1iI.AbilityGUID)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+							if (962215133 == 0)
 							{
 								num2 = 0;
 							}
@@ -24762,7 +24762,7 @@ namespace VRisingBephinex.components.creatures.model
 			Cooldowns = new List<PlayerCooldowns>();
 			base..ctor(entity);
 			int num = 1;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 != 0)
+			if (10932459 != 0)
 			{
 				num = 5;
 			}
@@ -24777,7 +24777,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 6:
 					flag = string.IsNullOrEmpty(Name);
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e250b4d538e44cbb8e7ef3c6a4be3745 == 0)
+					if (0 == 0)
 					{
 						num = 1;
 					}
@@ -24808,7 +24808,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 7:
 					Entity = Entity.Null;
 					num = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c == 0)
+					if (0 == 0)
 					{
 						num = 0;
 					}
@@ -24875,7 +24875,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 9:
 						flag2 = IsValid();
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 == 0)
+						if (0 == 0)
 						{
 							num2 = 3;
 						}
@@ -24883,7 +24883,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 1:
 						Entity = Entity.Null;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -24892,7 +24892,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (!flag)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 != 0)
+							if (0 != 0)
 							{
 								num2 = 0;
 							}
@@ -24937,7 +24937,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 7:
 					<>c__DisplayClass16_ = new <>c__DisplayClass16_0();
 					num2 = 6;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe == 0)
+					if (2093262890 == 0)
 					{
 						num2 = 4;
 					}
@@ -24945,7 +24945,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 2:
 					flag = Cooldowns.Any(<>c__DisplayClass16_.rZ6y5k9bXa);
 					num2 = 1;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 == 0)
+					if (0 == 0)
 					{
 						num2 = 1;
 					}
@@ -24954,7 +24954,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 5:
 					Cooldowns.Add(<>c__DisplayClass16_.POey2rn1iI);
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_cce125d5fafa48ce981158c5241de79b != 0)
+					if (1783996735 != 0)
 					{
 						num2 = 0;
 					}
@@ -24965,7 +24965,7 @@ namespace VRisingBephinex.components.creatures.model
 						return;
 					}
 					num2 = 5;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe == 0)
+					if (2093262890 == 0)
 					{
 						num2 = 3;
 					}
@@ -25001,7 +25001,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 7:
 						Cooldowns.RemoveAt(num3);
 						num2 = 11;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 != 0)
+						if (0 != 0)
 						{
 							num2 = 8;
 						}
@@ -25009,7 +25009,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 3:
 						flag2 = CastingTime > 0f;
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+						if (0 == 0)
 						{
 							num2 = 2;
 						}
@@ -25018,7 +25018,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (!flag3)
 						{
 							num2 = 0;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 == 0)
+							if (0 == 0)
 							{
 								num2 = 0;
 							}
@@ -25040,7 +25040,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 13:
 						num3 = Cooldowns.Count - 1;
 						num2 = 4;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c == 0)
+						if (0 == 0)
 						{
 							num2 = 6;
 						}
@@ -25048,7 +25048,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 9:
 						CastingTime = 0f;
 						num2 = 1;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea == 0)
+						if (0 == 0)
 						{
 							num2 = 1;
 						}
@@ -25063,7 +25063,7 @@ namespace VRisingBephinex.components.creatures.model
 					case 4:
 						Cooldowns[num3].DecreaseCooldown(deltaTime);
 						num2 = 14;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe == 0)
+						if (2093262890 == 0)
 						{
 							num2 = 5;
 						}
@@ -25072,7 +25072,7 @@ namespace VRisingBephinex.components.creatures.model
 						if (!flag)
 						{
 							num2 = 10;
-							if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac == 0)
+							if (1435650279 == 0)
 							{
 								num2 = 0;
 							}
@@ -25114,7 +25114,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 4:
 					Kek = 0f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -25122,7 +25122,7 @@ namespace VRisingBephinex.components.creatures.model
 				case 2:
 					flag = Kek < 0f;
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e != 0)
+					if (121889664 != 0)
 					{
 						num2 = 1;
 					}
@@ -25170,7 +25170,7 @@ namespace VRisingBephinex.ability
 					case 5:
 						result = null;
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a == 0)
+						if (962215133 == 0)
 						{
 							num2 = 0;
 						}
@@ -25221,7 +25221,7 @@ namespace VRisingBephinex.ability
 				case 1:
 					result = _abilities.Values.Where((AbilityDescription a) => a.IsDefence).ToList();
 					num2 = 0;
-					if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c == 0)
+					if (0 == 0)
 					{
 						num2 = 0;
 					}
@@ -25243,7 +25243,7 @@ namespace VRisingBephinex.ability
 					default:
 						wkPEsAIiNcPGupoYPsG.muhrk6WM7x();
 						num2 = 2;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 != 0)
+						if (0 != 0)
 						{
 							num2 = 1;
 						}
@@ -25255,7 +25255,7 @@ namespace VRisingBephinex.ability
 					case 1:
 						jiUnG6yLcp99YsGsEb2.I9ayUbHaDB();
 						num2 = 0;
-						if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f == 0)
+						if (0 == 0)
 						{
 							num2 = 0;
 						}
@@ -27871,7 +27871,7 @@ namespace VRisingBephinex.ability
 			PostCastTime = 0f;
 			base..ctor();
 			int num = 0;
-			if (<Module>{345811dc-be8b-4780-b818-4a956593b791}.m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c == 0)
+			if (747172065 == 0)
 			{
 				num = 0;
 			}
@@ -30758,257 +30758,257 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 {
 	internal static <Module>{345811dc-be8b-4780-b818-4a956593b791} m_32fa63a2f47c40cabe232e2a88d38b1e;
 
-	internal int m_47c7c1f0eee940349a8ca30c9c43b63a;
+	internal int 0;
 
-	internal int m_e55f20e9407941e38720b2f1b403a791;
+	internal int 0;
 
-	internal int m_96d45ba63a3d41b2a6820e79b2c0ece0;
+	internal int 854369382;
 
-	internal int m_ac0ed2a4bd534fd193c52dbc021377ef;
+	internal int 0;
 
-	internal int m_ca5c010e29614fd782028c9611ad0f78;
+	internal int 0;
 
-	internal int m_44a4e6aaab0f4bf28810c62d9de010cb;
+	internal int 1435992043;
 
-	internal int m_2bdd85f0e8dc4f55bf697600041a60fc;
+	internal int 1814018247;
 
-	internal int m_8c60b6e2d6bd4e408522bfdd250ad178;
+	internal int 0;
 
-	internal int m_c0f524bdf563444ab53ac41997a9e9c8;
+	internal int 55114885;
 
-	internal int m_9faedf15fb02432889cec283a65db487;
+	internal int 1668386183;
 
-	internal int m_942b00c4b74a40928cbdb1e094ca0958;
+	internal int 760317395;
 
-	internal int m_ff63c47cdd204cdebbcc56e571d4372c;
+	internal int 0;
 
-	internal int m_ffbdec90854f4b92923a5f9a87079009;
+	internal int 0;
 
-	internal int m_1559a0f0d8e041c29628f5a2032c84b8;
+	internal int 0;
 
-	internal int m_b21df3a2229e43389250abe2bd901f2b;
+	internal int 0;
 
-	internal int m_768a84edc3a4450592f8c03d41a2ada2;
+	internal int 1696499521;
 
-	internal int m_b3b66aaf47da441ba4480b5500d2fd81;
+	internal int 374085082;
 
-	internal int m_b5af4405a9194b48b8fe3254042eeca3;
+	internal int 0;
 
-	internal int m_ce3bb5aff5fb4aa9bab0f01ae1b98b83;
+	internal int 696790966;
 
-	internal int m_0abb35193c3c4f00bd577a178159ce5a;
+	internal int 1518457776;
 
-	internal int m_f04137ed4c3a49ae9a54aa168eac2087;
+	internal int 1185518701;
 
-	internal int m_749f5c965d2a485993679c67081f4969;
+	internal int 0;
 
-	internal int m_d2ececbfdeeb41cea7de4e20ca5b9f7a;
+	internal int 2144623378;
 
-	internal int m_af13cc8de6364be08853ea9bdde417b8;
+	internal int 117793469;
 
-	internal int m_d168f347505d4e6d9d8126a848011100;
+	internal int 0;
 
-	internal int m_cb43a098d21f48eab82035e09d125b59;
+	internal int 0;
 
-	internal int m_1f5002804a0c407abb960de58fadbc7d;
+	internal int 0;
 
-	internal int m_93764e82d612493b8ea351c3fd460244;
+	internal int 0;
 
-	internal int m_b21c9f1d74c948eda7a1d06cec8ca878;
+	internal int 0;
 
-	internal int m_55d62a8c313e4a819240cb09319d3d8e;
+	internal int 121889664;
 
-	internal int m_2cedc5a28f604dffb9795d9da16218c6;
+	internal int 1531368356;
 
-	internal int m_b71639d7aa544fd69430be89dcea88b2;
+	internal int 0;
 
-	internal int m_1a61b01847084a0b921bf2bc1a93fc7e;
+	internal int 0;
 
-	internal int m_55d27a70398f45f08665745498913f2c;
+	internal int 0;
 
-	internal int m_0e9862881497484cb489e477e33a5e0e;
+	internal int 444950165;
 
-	internal int m_c9c86a428f914e01ba0798ffd72fbb2f;
+	internal int 0;
 
-	internal int m_cc8c4704651a4a29b2e36ff9aae871a3;
+	internal int 1187184005;
 
-	internal int m_0bf6a0c76f5043dba14b2689877db8ea;
+	internal int 0;
 
-	internal int m_3ba93b0abff140a8b8998c8e7cd81d0b;
+	internal int 0;
 
-	internal int m_957965d44c2e4e4cadeb817cabf80445;
+	internal int 2058589287;
 
-	internal int m_a2acdb7390bb4dc6b8bea264a54aece3;
+	internal int 0;
 
-	internal int m_5919692959a646aebf140162029c693e;
+	internal int 2021314568;
 
-	internal int m_d3885075afee4c11910086ee4190b88e;
+	internal int 1414824122;
 
-	internal int m_08c8f487751348f181dcc3b296b8f22a;
+	internal int 0;
 
-	internal int m_e0527aa56c0c4fb09d1a03031200c575;
+	internal int 0;
 
-	internal int m_5ca9029e4f7644e58c6d4d1108a2db6a;
+	internal int 0;
 
-	internal int m_0ab238b8d9de4aac9a6313b181b264ae;
+	internal int 1629830925;
 
-	internal int m_a5de012926d04047ab14f25f49222c37;
+	internal int 0;
 
-	internal int m_cce125d5fafa48ce981158c5241de79b;
+	internal int 1783996735;
 
-	internal int m_e1f1d6999fd142fe9e56dd02f5da4418;
+	internal int 1094201023;
 
-	internal int m_4e0041d628bd4abeb73d112b6a5c0936;
+	internal int 0;
 
-	internal int m_f5bc3cb8a44a476eb117b3dfecba2351;
+	internal int 497891482;
 
-	internal int m_cda8915e26c84c538f4d2a328aef9bbb;
+	internal int 0;
 
-	internal int m_519c5e460d954eda92fea767bf3dca81;
+	internal int 1032184707;
 
-	internal int m_b0ea2a7961b741faad3f442f4faf7098;
+	internal int 1268266038;
 
-	internal int m_be73bee665974479887a3889a356b49a;
+	internal int 1433983997;
 
-	internal int m_23ded2558dd2466091e8e50cb9b19531;
+	internal int 0;
 
-	internal int m_a9d6447f9d9b47a3bda2c3f07dc7ce0f;
+	internal int 0;
 
-	internal int m_a0cf1abd56c54f269ad625646063ad1a;
+	internal int 0;
 
-	internal int m_04ad6d5d407541869e49f32bd8f952e2;
+	internal int 1835701918;
 
-	internal int m_f5f000d1cbb74e2e8e93882d6286d866;
+	internal int 348513258;
 
-	internal int m_b882bd03ff694fc7988f6397a520cc98;
+	internal int 0;
 
-	internal int m_a87803f41f1242f583f30e1fa6582b45;
+	internal int 0;
 
-	internal int m_8aa6994f991e4d9fa5d98e8df6d6ed52;
+	internal int 0;
 
-	internal int m_94e5364a81d54838b6efb676580d4315;
+	internal int 0;
 
-	internal int m_76da4a86f4c4419d97d85b9e5ad957ff;
+	internal int 577280904;
 
-	internal int m_b941b1f63b364bd5bc1e32c91241667e;
+	internal int 460822775;
 
-	internal int m_bffb8ba070e143078565a5dd1a3ac344;
+	internal int 519538535;
 
-	internal int m_a4ebe98cf8fd466f8514082319e76411;
+	internal int 133732588;
 
-	internal int m_32d6478f9e2546c4b5c7e39c8c022ed4;
+	internal int 0;
 
-	internal int m_80a956ef3ebe46098a58a3de81ac0ff9;
+	internal int 0;
 
-	internal int m_2fff6229bc784cbf81e309039c1541bb;
+	internal int 247204215;
 
-	internal int m_fc6f3ec0e1524d399718d52e1036351c;
+	internal int 818312125;
 
-	internal int m_23ac2a7955b4498bad3901c97487c140;
+	internal int 0;
 
-	internal int m_e760cd7365fe4b5f875fd6e390b66bc9;
+	internal int 171921593;
 
-	internal int m_08081740334244a88e6dd1092edef3be;
+	internal int 1793150317;
 
-	internal int m_04673126fdc548228a1a53726dc219ac;
+	internal int 1848937442;
 
-	internal int m_8fd295e7e1964672ab3b09015a6591bd;
+	internal int 1663994158;
 
-	internal int m_88b858a116674335b1de62c9bd5c46e4;
+	internal int 1522668693;
 
-	internal int m_e250b4d538e44cbb8e7ef3c6a4be3745;
+	internal int 0;
 
-	internal int m_37bc42a4590c4936af743a69ce845859;
+	internal int 0;
 
-	internal int m_35cd6e3d19884b4cb36342503a7db52f;
+	internal int 0;
 
-	internal int m_3cba622686434866afcefe4a10aed800;
+	internal int 1976142266;
 
-	internal int m_aa04b4091af14b5da29ce8b1910bdea3;
+	internal int 0;
 
-	internal int m_53559d575ebd495f8b4799da0de6f5b2;
+	internal int 0;
 
-	internal int m_ff6c92949d73483799b0961ba6a5bd1c;
+	internal int 742265667;
 
-	internal int m_de3435dfc76e4ffa99adc8d2fb3637a6;
+	internal int 1890823438;
 
-	internal int m_d3080056fb7f4b5d9f58e3f9ae037e9a;
+	internal int 0;
 
-	internal int m_4ac4c68ee3e5442aab8bdb43c5c0f12b;
+	internal int 1413447416;
 
-	internal int m_f1dcf03d42204230a6c434962d05b9eb;
+	internal int 171252512;
 
-	internal int m_e78aa99b74124608bdedeedbb3638b6f;
+	internal int 1131787544;
 
-	internal int m_58fa157bbc404232b26f2e3c8fa8141b;
+	internal int 0;
 
-	internal int m_e4ab3ac43ff147a1b5064e6c992df193;
+	internal int 0;
 
-	internal int m_ebd3a8daa7184b4587123cdc92bc2100;
+	internal int 317387702;
 
-	internal int m_968a362614be4b32af269d4936f9ebc8;
+	internal int 0;
 
-	internal int m_762608ba3c9b49ddb2459a316cb481bf;
+	internal int 468683115;
 
-	internal int m_5d87918f2b0e4ef28921acf39f4370bd;
+	internal int 0;
 
-	internal int m_10e459c23b4d4f6fa27610d3abab0cff;
+	internal int 0;
 
-	internal int m_2a7a3f4709c14990982123a58913e060;
+	internal int 0;
 
-	internal int m_96f0240c3e2946ddb09484159527b5b6;
+	internal int 11098130;
 
-	internal int m_2853c6dda7034322af45763321869b4c;
+	internal int 747172065;
 
-	internal int m_dfba26cb5bdb4592a21bffe567ee33a6;
+	internal int 0;
 
-	internal int m_9b730cdd3ce842bdb00445b50c718645;
+	internal int 0;
 
-	internal int m_eede4994c7504eb49c78d9914ee168a1;
+	internal int 10932459;
 
-	internal int m_4e6baf36f26541a692474218c8acc713;
+	internal int 0;
 
-	internal int m_fc49eb0231fd4337803ab5b86934bb98;
+	internal int 0;
 
-	internal int m_9f1650b7b9a540f7897c737a51a6478c;
+	internal int 0;
 
-	internal int m_3552f577a49f45be827d7083e2a8d5fa;
+	internal int 1427489184;
 
-	internal int m_6412370345944cf9a46c1be44d7c449a;
+	internal int 0;
 
-	internal int m_b7cbe1e51836434a8c8a50951cde0abe;
+	internal int 2093262890;
 
-	internal int m_c33dc0513a854de5a667247c92a0f479;
+	internal int 0;
 
-	internal int m_1c482b5cb5924b85ba61dde818503755;
+	internal int 2048817382;
 
-	internal int m_5b2372ac427a453c84aa7abd437aa1d1;
+	internal int 0;
 
-	internal int m_2a48688a69764619b6a58896a1967edc;
+	internal int 0;
 
-	internal int m_f0a73e648b864b369b8f8416a5e9533d;
+	internal int 0;
 
-	internal int m_2da492304e1c49778feef321a8e1795a;
+	internal int 962215133;
 
-	internal int m_d03a89c5cb144d3a9e82a2389731fbdc;
+	internal int 2035096834;
 
-	internal int m_a62383c5bc9542dbb0732b1a0ca5a58c;
+	internal int 1126510863;
 
-	internal int m_091ae575e30b4755877daf70ddd2eddb;
+	internal int 1362636878;
 
-	internal int m_608e64efb5c34d059666e63ce14fd4ee;
+	internal int 852228814;
 
-	internal int m_317eb64c89284e9bbd492c43887a1aac;
+	internal int 0;
 
-	internal int m_090a682433db49e78e939afc4b388900;
+	internal int 0;
 
-	internal int m_c46a8f4ed94245d191ef9b6de348f736;
+	internal int 258562808;
 
-	internal int m_2346f1398ccd4896beb21747e7e43bc5;
+	internal int 1256719316;
 
-	internal int m_bf94435b06e64c11931d8ca422cc7316;
+	internal int 1486210346;
 
-	internal int m_f6644f556cd94454b276535c3fd432ac;
+	internal int 1435650279;
 
 	internal static <Module>{345811dc-be8b-4780-b818-4a956593b791} SMiLKkr6nvrtcS0ns2N;
 
@@ -31045,15 +31045,15 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 				switch (num2)
 				{
 				case 82:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_d168f347505d4e6d9d8126a848011100 = 0xC89D00 ^ 0xC89D00;
+					0 = 0xC89D00 ^ 0xC89D00;
 					num = 20;
 					break;
 				case 15:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_957965d44c2e4e4cadeb817cabf80445 = -1656166688 ^ -402951545;
+					2058589287 = -1656166688 ^ -402951545;
 					num2 = 59;
 					continue;
 				case 102:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b7cbe1e51836434a8c8a50951cde0abe = -234112336 ^ -1899031910;
+					2093262890 = -234112336 ^ -1899031910;
 					num2 = 127;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31061,7 +31061,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 119:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_090a682433db49e78e939afc4b388900 = (--1595912641 + -320810900) ^ 0x4C00822D;
+					0 = (--1595912641 + -320810900) ^ 0x4C00822D;
 					num2 = 0;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31069,7 +31069,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 37:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_5b2372ac427a453c84aa7abd437aa1d1 = 0xE62014 ^ 0xE62014;
+					0 = 0xE62014 ^ 0xE62014;
 					num2 = 1;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31077,11 +31077,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 20:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b882bd03ff694fc7988f6397a520cc98 = -1938485744 ^ -1938485744;
+					0 = -1938485744 ^ -1938485744;
 					num2 = 125;
 					continue;
 				case 11:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_091ae575e30b4755877daf70ddd2eddb = -(-372951538 - -2054104965) ^ -890007005;
+					1362636878 = -(-372951538 - -2054104965) ^ -890007005;
 					num2 = 13;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31089,7 +31089,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 32:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_8fd295e7e1964672ab3b09015a6591bd = -1861457835 ^ -232595077;
+					1663994158 = -1861457835 ^ -232595077;
 					num2 = 15;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31097,31 +31097,31 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 64:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b71639d7aa544fd69430be89dcea88b2 = -85876558 ^ -85876558;
+					0 = -85876558 ^ -85876558;
 					num2 = 121;
 					continue;
 				case 76:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_cce125d5fafa48ce981158c5241de79b = 0x6CF5CE03 ^ 0x6A06F3C;
+					1783996735 = 0x6CF5CE03 ^ 0x6A06F3C;
 					num2 = 112;
 					continue;
 				default:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_1a61b01847084a0b921bf2bc1a93fc7e = 0x56F72A0E ^ 0x56F72A0E;
+					0 = 0x56F72A0E ^ 0x56F72A0E;
 					num2 = 104;
 					continue;
 				case 73:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a2acdb7390bb4dc6b8bea264a54aece3 = -(-450082641) ^ 0x1AD3B751;
+					0 = -(-450082641) ^ 0x1AD3B751;
 					num2 = 7;
 					continue;
 				case 74:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_04ad6d5d407541869e49f32bd8f952e2 = 0x28572D60 ^ 0x453DBBFE;
+					1835701918 = 0x28572D60 ^ 0x453DBBFE;
 					num2 = 91;
 					continue;
 				case 107:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_c33dc0513a854de5a667247c92a0f479 = -1111201850 ^ -1111201850;
+					0 = -1111201850 ^ -1111201850;
 					num2 = 53;
 					continue;
 				case 26:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f0a73e648b864b369b8f8416a5e9533d = -165528971 ^ -165528971;
+					0 = -165528971 ^ -165528971;
 					num2 = 14;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31131,7 +31131,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 				case 116:
 					return;
 				case 35:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e250b4d538e44cbb8e7ef3c6a4be3745 = 0x7CFA1ACC ^ 0x7CFA1ACC;
+					0 = 0x7CFA1ACC ^ 0x7CFA1ACC;
 					num2 = 62;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31139,11 +31139,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 39:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_c0f524bdf563444ab53ac41997a9e9c8 = 0x34BB1E ^ 0x37C479B;
+					55114885 = 0x34BB1E ^ 0x37C479B;
 					num = 116;
 					break;
 				case 13:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3885075afee4c11910086ee4190b88e = -705243279 ^ -2120067125;
+					1414824122 = -705243279 ^ -2120067125;
 					num2 = 58;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31151,27 +31151,27 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 113:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b941b1f63b364bd5bc1e32c91241667e = 0x136BB84A ^ 0x81C20BD;
+					460822775 = 0x136BB84A ^ 0x81C20BD;
 					num2 = 27;
 					continue;
 				case 5:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_10e459c23b4d4f6fa27610d3abab0cff = 0x305FE61 ^ 0x305FE61;
+					0 = 0x305FE61 ^ 0x305FE61;
 					num2 = 39;
 					continue;
 				case 41:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ac0ed2a4bd534fd193c52dbc021377ef = 0x458E95F ^ 0x458E95F;
+					0 = 0x458E95F ^ 0x458E95F;
 					num2 = 81;
 					continue;
 				case 110:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2cedc5a28f604dffb9795d9da16218c6 = 0x74AFCA4D ^ 0x2FE919E9;
+					1531368356 = 0x74AFCA4D ^ 0x2FE919E9;
 					num2 = 36;
 					continue;
 				case 21:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_dfba26cb5bdb4592a21bffe567ee33a6 = 0x34BB1E ^ 0x34BB1E;
+					0 = 0x34BB1E ^ 0x34BB1E;
 					num2 = 100;
 					continue;
 				case 63:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_08c8f487751348f181dcc3b296b8f22a = 0x27375C45 ^ 0x27375C45;
+					0 = 0x27375C45 ^ 0x27375C45;
 					num2 = 33;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31179,7 +31179,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 53:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e55f20e9407941e38720b2f1b403a791 = 0xEE894C5 ^ 0xEE894C5;
+					0 = 0xEE894C5 ^ 0xEE894C5;
 					num2 = 111;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31187,7 +31187,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 44:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff6c92949d73483799b0961ba6a5bd1c = -85876558 ^ -689982479;
+					742265667 = -85876558 ^ -689982479;
 					num2 = 4;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31195,23 +31195,23 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 79:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_0abb35193c3c4f00bd577a178159ce5a = -1938485744 ^ -688595552;
+					1518457776 = -1938485744 ^ -688595552;
 					num2 = 17;
 					continue;
 				case 19:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a4ebe98cf8fd466f8514082319e76411 = -1209989269 ^ -1340498041;
+					133732588 = -1209989269 ^ -1340498041;
 					num2 = 68;
 					continue;
 				case 47:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_5d87918f2b0e4ef28921acf39f4370bd = -1667808272 ^ -1667808272;
+					0 = -1667808272 ^ -1667808272;
 					num = 44;
 					break;
 				case 123:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc49eb0231fd4337803ab5b86934bb98 = -1488285755 ^ -1488285755;
+					0 = -1488285755 ^ -1488285755;
 					num2 = 62;
 					continue;
 				case 90:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b0ea2a7961b741faad3f442f4faf7098 = -(2048234894 << 6) ^ 0x3102A8B6;
+					1268266038 = -(2048234894 << 6) ^ 0x3102A8B6;
 					num2 = 7;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31219,39 +31219,39 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 17:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_44a4e6aaab0f4bf28810c62d9de010cb = -26252051 ^ -1409805562;
+					1435992043 = -26252051 ^ -1409805562;
 					num2 = 51;
 					continue;
 				case 108:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a0cf1abd56c54f269ad625646063ad1a = -705243279 ^ -705243279;
+					0 = -705243279 ^ -705243279;
 					num2 = 105;
 					continue;
 				case 27:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_be73bee665974479887a3889a356b49a = 0x28572D60 ^ 0x7D2FF69D;
+					1433983997 = 0x28572D60 ^ 0x7D2FF69D;
 					num2 = 77;
 					continue;
 				case 14:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_8aa6994f991e4d9fa5d98e8df6d6ed52 = -223900344 ^ -223900344;
+					0 = -223900344 ^ -223900344;
 					num = 54;
 					break;
 				case 118:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_5919692959a646aebf140162029c693e = 0x136BB84A ^ 0x6B116842;
+					2021314568 = 0x136BB84A ^ 0x6B116842;
 					num = 83;
 					break;
 				case 78:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a5de012926d04047ab14f25f49222c37 = 0x625F08E8 ^ 0x625F08E8;
+					0 = 0x625F08E8 ^ 0x625F08E8;
 					num = 97;
 					break;
 				case 100:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ffbdec90854f4b92923a5f9a87079009 = -2076141489 ^ -2076141489;
+					0 = -2076141489 ^ -2076141489;
 					num = 89;
 					break;
 				case 88:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_58fa157bbc404232b26f2e3c8fa8141b = -(-582461978 << 4) ^ 0x2B7AA1A0;
+					0 = -(-582461978 << 4) ^ 0x2B7AA1A0;
 					num2 = 102;
 					continue;
 				case 18:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_bffb8ba070e143078565a5dd1a3ac344 = 0x598DD68C ^ 0x477A51EB;
+					519538535 = 0x598DD68C ^ 0x477A51EB;
 					num2 = 35;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31259,7 +31259,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 59:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e0527aa56c0c4fb09d1a03031200c575 = 0x136BB84A ^ 0x136BB84A;
+					0 = 0x136BB84A ^ 0x136BB84A;
 					num2 = 109;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31267,7 +31267,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 3:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ca5c010e29614fd782028c9611ad0f78 = -234112336 ^ -234112336;
+					0 = -234112336 ^ -234112336;
 					num2 = 21;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31275,7 +31275,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 28:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_cb43a098d21f48eab82035e09d125b59 = -1840442781 ^ -1840442781;
+					0 = -1840442781 ^ -1840442781;
 					num2 = 3;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31283,7 +31283,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 60:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e0041d628bd4abeb73d112b6a5c0936 = 0xE74A2A0 ^ 0xE74A2A0;
+					0 = 0xE74A2A0 ^ 0xE74A2A0;
 					num2 = 65;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31291,7 +31291,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 126:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a87803f41f1242f583f30e1fa6582b45 = 0xBE19BC8 ^ 0xBE19BC8;
+					0 = 0xBE19BC8 ^ 0xBE19BC8;
 					num2 = 53;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31299,15 +31299,15 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 89:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_1f5002804a0c407abb960de58fadbc7d = -1092523968 ^ -1092523968;
+					0 = -1092523968 ^ -1092523968;
 					num2 = 101;
 					continue;
 				case 65:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5bc3cb8a44a476eb117b3dfecba2351 = 0x6CF5CE03 ^ 0x7158F699;
+					497891482 = 0x6CF5CE03 ^ 0x7158F699;
 					num2 = 94;
 					continue;
 				case 84:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e4ab3ac43ff147a1b5064e6c992df193 = -1768734307 ^ -1768734307;
+					0 = -1768734307 ^ -1768734307;
 					num2 = 40;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31315,27 +31315,27 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 115:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2346f1398ccd4896beb21747e7e43bc5 = -223900344 ^ -1202745700;
+					1256719316 = -223900344 ^ -1202745700;
 					num2 = 75;
 					continue;
 				case 103:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_4ac4c68ee3e5442aab8bdb43c5c0f12b = 0x305FE61 ^ 0x573A8099;
+					1413447416 = 0x305FE61 ^ 0x573A8099;
 					num2 = 93;
 					continue;
 				case 85:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_608e64efb5c34d059666e63ce14fd4ee = 0x148ACE5A ^ 0x26413494;
+					852228814 = 0x148ACE5A ^ 0x26413494;
 					num = 41;
 					break;
 				case 6:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ded2558dd2466091e8e50cb9b19531 = -1209989269 ^ -1209989269;
+					0 = -1209989269 ^ -1209989269;
 					num = 120;
 					break;
 				case 125:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ff63c47cdd204cdebbcc56e571d4372c = 0x34BB1E ^ 0x34BB1E;
+					0 = 0x34BB1E ^ 0x34BB1E;
 					num = 119;
 					break;
 				case 77:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21df3a2229e43389250abe2bd901f2b = 0xEE894C5 ^ 0xEE894C5;
+					0 = 0xEE894C5 ^ 0xEE894C5;
 					num2 = 39;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31343,23 +31343,23 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 45:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e760cd7365fe4b5f875fd6e390b66bc9 = 0x6162E060 ^ 0x6B5DB0D9;
+					171921593 = 0x6162E060 ^ 0x6B5DB0D9;
 					num2 = 12;
 					continue;
 				case 49:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d27a70398f45f08665745498913f2c = -1656166688 ^ -1656166688;
+					0 = -1656166688 ^ -1656166688;
 					num2 = 24;
 					continue;
 				case 58:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_5ca9029e4f7644e58c6d4d1108a2db6a = -(1688843097 - -635645281) ^ 0x75731F46;
+					0 = -(1688843097 - -635645281) ^ 0x75731F46;
 					num2 = 18;
 					continue;
 				case 80:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b5af4405a9194b48b8fe3254042eeca3 = 0x5A870900 ^ 0x5A870900;
+					0 = 0x5A870900 ^ 0x5A870900;
 					num2 = 76;
 					continue;
 				case 67:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ce3bb5aff5fb4aa9bab0f01ae1b98b83 = -444812070 ^ -856384660;
+					696790966 = -444812070 ^ -856384660;
 					num2 = 1;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31367,19 +31367,19 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 46:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_1559a0f0d8e041c29628f5a2032c84b8 = 0xE62014 ^ 0xE62014;
+					0 = 0xE62014 ^ 0xE62014;
 					num2 = 19;
 					continue;
 				case 98:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_bf94435b06e64c11931d8ca422cc7316 = -1092523968 ^ -428561046;
+					1486210346 = -1092523968 ^ -428561046;
 					num2 = 48;
 					continue;
 				case 29:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_3ba93b0abff140a8b8998c8e7cd81d0b = 0x68D9291B ^ 0x68D9291B;
+					0 = 0x68D9291B ^ 0x68D9291B;
 					num2 = 111;
 					continue;
 				case 52:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_749f5c965d2a485993679c67081f4969 = 0x305FE61 ^ 0x305FE61;
+					0 = 0x305FE61 ^ 0x305FE61;
 					num2 = 12;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31387,7 +31387,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 97:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_47c7c1f0eee940349a8ca30c9c43b63a = 0x625F08E8 ^ 0x625F08E8;
+					0 = 0x625F08E8 ^ 0x625F08E8;
 					num2 = 85;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31395,7 +31395,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 127:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_04673126fdc548228a1a53726dc219ac = 0x134A8421 ^ 0x7D7E0FC3;
+					1848937442 = 0x134A8421 ^ 0x7D7E0FC3;
 					num2 = 22;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31403,15 +31403,15 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 99:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_968a362614be4b32af269d4936f9ebc8 = 0x458E95F ^ 0x458E95F;
+					0 = 0x458E95F ^ 0x458E95F;
 					num2 = 98;
 					continue;
 				case 95:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f1dcf03d42204230a6c434962d05b9eb = -1861457835 ^ -1690733707;
+					171252512 = -1861457835 ^ -1690733707;
 					num2 = 69;
 					continue;
 				case 4:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f5f000d1cbb74e2e8e93882d6286d866 = 0xE62014 ^ 0x1423C3FE;
+					348513258 = 0xE62014 ^ 0x1423C3FE;
 					num2 = 82;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31419,19 +31419,19 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 69:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f6644f556cd94454b276535c3fd432ac = 0x27A86 ^ 0x55903261;
+					1435650279 = 0x27A86 ^ 0x55903261;
 					num2 = 33;
 					continue;
 				case 61:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_55d62a8c313e4a819240cb09319d3d8e = -1853743488 ^ -1765671680;
+					121889664 = -1853743488 ^ -1765671680;
 					num = 123;
 					break;
 				case 34:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_53559d575ebd495f8b4799da0de6f5b2 = 0x43D52E8B ^ 0x43D52E8B;
+					0 = 0x43D52E8B ^ 0x43D52E8B;
 					num2 = 96;
 					continue;
 				case 96:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_0e9862881497484cb489e477e33a5e0e = -1666643903 ^ -2043908396;
+					444950165 = -1666643903 ^ -2043908396;
 					num2 = 113;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31439,7 +31439,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 101:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_9f1650b7b9a540f7897c737a51a6478c = -(0x23BC829A ^ -1186060208) ^ 0x650D5536;
+					0 = -(0x23BC829A ^ -1186060208) ^ 0x650D5536;
 					num2 = 0;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31447,7 +31447,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 7:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_94e5364a81d54838b6efb676580d4315 = 0xDFD7 ^ 0xDFD7;
+					0 = 0xDFD7 ^ 0xDFD7;
 					num2 = 8;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31455,11 +31455,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 40:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b21c9f1d74c948eda7a1d06cec8ca878 = 0x305FE61 ^ 0x305FE61;
+					0 = 0x305FE61 ^ 0x305FE61;
 					num2 = 67;
 					continue;
 				case 104:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_fc6f3ec0e1524d399718d52e1036351c = 0x34BB1E ^ 0x30F2C8A3;
+					818312125 = 0x34BB1E ^ 0x30F2C8A3;
 					num2 = 122;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31467,7 +31467,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 81:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_23ac2a7955b4498bad3901c97487c140 = 0x7CFA1ACC ^ 0x7CFA1ACC;
+					0 = 0x7CFA1ACC ^ 0x7CFA1ACC;
 					num2 = 49;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31475,11 +31475,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 2:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_cc8c4704651a4a29b2e36ff9aae871a3 = 0x72D697F5 ^ 0x34146A70;
+					1187184005 = 0x72D697F5 ^ 0x34146A70;
 					num2 = 71;
 					continue;
 				case 9:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_9b730cdd3ce842bdb00445b50c718645 = 0x2DFF0DB0 ^ 0x2DFF0DB0;
+					0 = 0x2DFF0DB0 ^ 0x2DFF0DB0;
 					num2 = 99;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31487,11 +31487,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 38:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_f04137ed4c3a49ae9a54aa168eac2087 = 0x27A86 ^ 0x46ABEEEB;
+					1185518701 = 0x27A86 ^ 0x46ABEEEB;
 					num2 = 92;
 					continue;
 				case 71:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_6412370345944cf9a46c1be44d7c449a = 0x43D52E8B ^ 0x43D52E8B;
+					0 = 0x43D52E8B ^ 0x43D52E8B;
 					num2 = 55;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31499,11 +31499,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 114:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e78aa99b74124608bdedeedbb3638b6f = 0x6FF97EAB ^ 0x2C8CCBB3;
+					1131787544 = 0x6FF97EAB ^ 0x2C8CCBB3;
 					num = 23;
 					break;
 				case 51:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_c46a8f4ed94245d191ef9b6de348f736 = 0x305FE61 ^ 0xC6CA499;
+					258562808 = 0x305FE61 ^ 0xC6CA499;
 					num2 = 124;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31511,11 +31511,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 8:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_c9c86a428f914e01ba0798ffd72fbb2f = -(1688843097 - -635645281) ^ 0x75731F46;
+					0 = -(1688843097 - -635645281) ^ 0x75731F46;
 					num2 = 16;
 					continue;
 				case 31:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_80a956ef3ebe46098a58a3de81ac0ff9 = 0x5D9B1442 ^ 0x5D9B1442;
+					0 = 0x5D9B1442 ^ 0x5D9B1442;
 					num2 = 6;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31523,19 +31523,19 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 43:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_9faedf15fb02432889cec283a65db487 = -1861457835 ^ -226630190;
+					1668386183 = -1861457835 ^ -226630190;
 					num2 = 29;
 					continue;
 				case 117:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_762608ba3c9b49ddb2459a316cb481bf = (--1595912641 + -320810900) ^ 0x57EF0B46;
+					468683115 = (--1595912641 + -320810900) ^ 0x57EF0B46;
 					num = 64;
 					break;
 				case 36:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_0bf6a0c76f5043dba14b2689877db8ea = -124007310 ^ -124007310;
+					0 = -124007310 ^ -124007310;
 					num2 = 106;
 					continue;
 				case 83:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_768a84edc3a4450592f8c03d41a2ada2 = -954408704 ^ -1576901055;
+					1696499521 = -954408704 ^ -1576901055;
 					num2 = 39;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31543,11 +31543,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 62:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_88b858a116674335b1de62c9bd5c46e4 = 0x72D697F5 ^ 0x28148360;
+					1522668693 = 0x72D697F5 ^ 0x28148360;
 					num2 = 8;
 					continue;
 				case 55:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_93764e82d612493b8ea351c3fd460244 = -1524336680 ^ -1524336680;
+					0 = -1524336680 ^ -1524336680;
 					num2 = 45;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31555,15 +31555,15 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 92:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_d3080056fb7f4b5d9f58e3f9ae037e9a = -(-582461978 << 4) ^ 0x2B7AA1A0;
+					0 = -(-582461978 << 4) ^ 0x2B7AA1A0;
 					num = 103;
 					break;
 				case 75:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a7a3f4709c14990982123a58913e060 = 0x6CF5CE03 ^ 0x6CF5CE03;
+					0 = 0x6CF5CE03 ^ 0x6CF5CE03;
 					num = 66;
 					break;
 				case 24:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_1c482b5cb5924b85ba61dde818503755 = 0x52EDFF84 ^ 0x28F38762;
+					2048817382 = 0x52EDFF84 ^ 0x28F38762;
 					num2 = 52;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31571,11 +31571,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 109:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_0ab238b8d9de4aac9a6313b181b264ae = 0x4C096000 ^ 0x2D2C5F0D;
+					1629830925 = 0x4C096000 ^ 0x2D2C5F0D;
 					num2 = 57;
 					continue;
 				case 91:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2da492304e1c49778feef321a8e1795a = 0xCCB7D79 ^ 0x359141A4;
+					962215133 = 0xCCB7D79 ^ 0x359141A4;
 					num2 = 63;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31583,23 +31583,23 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 12:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_942b00c4b74a40928cbdb1e094ca0958 = (-159078270 - -1268744774) ^ 0x6F75AF1B;
+					760317395 = (-159078270 - -1268744774) ^ 0x6F75AF1B;
 					num2 = 117;
 					continue;
 				case 25:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_4e6baf36f26541a692474218c8acc713 = -1146922077 ^ -1146922077;
+					0 = -1146922077 ^ -1146922077;
 					num2 = 73;
 					continue;
 				case 57:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_76da4a86f4c4419d97d85b9e5ad957ff = 0xE74A2A0 ^ 0x2C1C3928;
+					577280904 = 0xE74A2A0 ^ 0x2C1C3928;
 					num2 = 32;
 					continue;
 				case 16:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_de3435dfc76e4ffa99adc8d2fb3637a6 = -223900344 ^ -2112610234;
+					1890823438 = -223900344 ^ -2112610234;
 					num2 = 10;
 					continue;
 				case 122:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_ebd3a8daa7184b4587123cdc92bc2100 = -1273049600 ^ -1493942858;
+					317387702 = -1273049600 ^ -1493942858;
 					num2 = 14;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31607,11 +31607,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 111:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_519c5e460d954eda92fea767bf3dca81 = -1666643903 ^ -1590891582;
+					1032184707 = -1666643903 ^ -1590891582;
 					num2 = 5;
 					continue;
 				case 121:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_8c60b6e2d6bd4e408522bfdd250ad178 = -385607243 ^ -385607243;
+					0 = -385607243 ^ -385607243;
 					num2 = 9;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31619,15 +31619,15 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 86:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_37bc42a4590c4936af743a69ce845859 = 0x52EDFF84 ^ 0x52EDFF84;
+					0 = 0x52EDFF84 ^ 0x52EDFF84;
 					num2 = 84;
 					continue;
 				case 70:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2bdd85f0e8dc4f55bf697600041a60fc = 0x5D9B1442 ^ 0x3184AC85;
+					1814018247 = 0x5D9B1442 ^ 0x3184AC85;
 					num2 = 74;
 					continue;
 				case 30:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_af13cc8de6364be08853ea9bdde417b8 = 0x458E95F ^ 0x35D8BE2;
+					117793469 = 0x458E95F ^ 0x35D8BE2;
 					num2 = 109;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31635,11 +31635,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 66:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_3552f577a49f45be827d7083e2a8d5fa = -1666643903 ^ -910374431;
+					1427489184 = -1666643903 ^ -910374431;
 					num2 = 50;
 					continue;
 				case 106:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_96d45ba63a3d41b2a6820e79b2c0ece0 = ~(--706686835) ^ -418614038;
+					854369382 = ~(--706686835) ^ -418614038;
 					num2 = 2;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31647,11 +31647,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 42:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2fff6229bc784cbf81e309039c1541bb = -(-372951538 - -2054104965) ^ -1787319526;
+					247204215 = -(-372951538 - -2054104965) ^ -1787319526;
 					num = 46;
 					break;
 				case 68:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2853c6dda7034322af45763321869b4c = -1768734307 ^ -1172590212;
+					747172065 = -1768734307 ^ -1172590212;
 					num2 = 26;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31663,7 +31663,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					num2 = 86;
 					continue;
 				case 22:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_aa04b4091af14b5da29ce8b1910bdea3 = 0x74AFCA4D ^ 0x74AFCA4D;
+					0 = 0x74AFCA4D ^ 0x74AFCA4D;
 					num2 = 35;
 					if (JdEG7YruCNFryg4fxDq())
 					{
@@ -31671,7 +31671,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 33:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_3cba622686434866afcefe4a10aed800 = -1938485744 ^ -105085014;
+					1976142266 = -1938485744 ^ -105085014;
 					num2 = 12;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31679,7 +31679,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 54:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_d2ececbfdeeb41cea7de4e20ca5b9f7a = --1270302303 ^ 0x34631D4D;
+					2144623378 = --1270302303 ^ 0x34631D4D;
 					num2 = 26;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31687,7 +31687,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 48:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_b3b66aaf47da441ba4480b5500d2fd81 = -1853743488 ^ -2016539814;
+					374085082 = -1853743488 ^ -2016539814;
 					num2 = 10;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31695,7 +31695,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 1:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a9d6447f9d9b47a3bda2c3f07dc7ce0f = -954408704 ^ -954408704;
+					0 = -954408704 ^ -954408704;
 					num2 = 26;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31703,27 +31703,27 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 50:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_317eb64c89284e9bbd492c43887a1aac = -36849249 ^ -36849249;
+					0 = -36849249 ^ -36849249;
 					num2 = 114;
 					continue;
 				case 56:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_96f0240c3e2946ddb09484159527b5b6 = -1861457835 ^ -1851445177;
+					11098130 = -1861457835 ^ -1851445177;
 					num2 = 110;
 					continue;
 				case 105:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_e1f1d6999fd142fe9e56dd02f5da4418 = -1853743488 ^ -793104321;
+					1094201023 = -1853743488 ^ -793104321;
 					num2 = 79;
 					continue;
 				case 10:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_eede4994c7504eb49c78d9914ee168a1 = -165528971 ^ -159061346;
+					10932459 = -165528971 ^ -159061346;
 					num2 = 60;
 					continue;
 				case 112:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_d03a89c5cb144d3a9e82a2389731fbdc = -1768734307 ^ -270639969;
+					2035096834 = -1768734307 ^ -270639969;
 					num2 = 108;
 					continue;
 				case 94:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_cda8915e26c84c538f4d2a328aef9bbb = (-140436825 - 1022786444) ^ -1163223269;
+					0 = (-140436825 - 1022786444) ^ -1163223269;
 					num2 = 26;
 					if (maaKa0rsYhqe0JmjnNn() == null)
 					{
@@ -31731,11 +31731,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 72:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_35cd6e3d19884b4cb36342503a7db52f = 0x22635EBD ^ 0x22635EBD;
+					0 = 0x22635EBD ^ 0x22635EBD;
 					num2 = 30;
 					continue;
 				case 93:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_a62383c5bc9542dbb0732b1a0ca5a58c = -234112336 ^ -1322349633;
+					1126510863 = -234112336 ^ -1322349633;
 					num2 = 107;
 					if (maaKa0rsYhqe0JmjnNn() != null)
 					{
@@ -31743,11 +31743,11 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 120:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_2a48688a69764619b6a58896a1967edc = 0x2589C3 ^ 0x2589C3;
+					0 = 0x2589C3 ^ 0x2589C3;
 					num = 34;
 					break;
 				case 23:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_08081740334244a88e6dd1092edef3be = 0x56F72A0E ^ 0x3C166763;
+					1793150317 = 0x56F72A0E ^ 0x3C166763;
 					num2 = 88;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
@@ -31755,7 +31755,7 @@ internal sealed class <Module>{345811dc-be8b-4780-b818-4a956593b791}
 					}
 					continue;
 				case 124:
-					m_32fa63a2f47c40cabe232e2a88d38b1e.m_32d6478f9e2546c4b5c7e39c8c022ed4 = 0x10B9DC56 ^ 0x10B9DC56;
+					0 = 0x10B9DC56 ^ 0x10B9DC56;
 					num2 = 90;
 					if (!JdEG7YruCNFryg4fxDq())
 					{
